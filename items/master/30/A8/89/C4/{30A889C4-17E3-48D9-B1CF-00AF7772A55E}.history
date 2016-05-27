@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{30A889C4-17E3-48D9-B1CF-00AF7772A55E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-27T21:00:13.9745568Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Folderyyy",
+    "itemPath": "/sitecore/content/New Folderyyy",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
