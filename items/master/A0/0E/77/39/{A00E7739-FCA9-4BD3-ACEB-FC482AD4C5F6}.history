@@ -31,6 +31,23 @@
     "itemPath": "/sitecore/content/New Folderasdfasdf",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3fcc031f602a6095a646bd612770317e1f78926d"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{A00E7739-FCA9-4BD3-ACEB-FC482AD4C5F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-27T21:00:23.7195931Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Folderasdfasdf",
+    "itemPath": "/sitecore/content/New Folderasdfasdf",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
