@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {A7AF7064-2B0E-414A-9623-28293B7D4FA1}
+database: master
+path: /sitecore/content/New Folderzzz
+parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
+name: New Folderzzz
+master: {00000000-0000-0000-0000-000000000000}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+
