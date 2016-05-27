@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {A00E7739-FCA9-4BD3-ACEB-FC482AD4C5F6}
+database: master
+path: /sitecore/content/New Folderasdfasdf
+parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
+name: New Folderasdfasdf
+master: {00000000-0000-0000-0000-000000000000}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+

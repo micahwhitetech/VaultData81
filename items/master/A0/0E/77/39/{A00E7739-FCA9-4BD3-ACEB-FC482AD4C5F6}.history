@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A00E7739-FCA9-4BD3-ACEB-FC482AD4C5F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-27T21:00:23.6936337Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Folderasdfasdf",
+    "itemPath": "/sitecore/content/New Folderasdfasdf",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
