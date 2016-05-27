@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{520BCBB9-371F-4AC5-8885-D9EC84576F20}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-27T21:01:02.1015678Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testing",
+    "itemPath": "/sitecore/templates/Testing",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

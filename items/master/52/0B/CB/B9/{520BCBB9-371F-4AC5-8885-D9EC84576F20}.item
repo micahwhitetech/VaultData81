@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {520BCBB9-371F-4AC5-8885-D9EC84576F20}
+database: master
+path: /sitecore/templates/Testing
+parent: {3C1715FE-6A13-4FCF-845F-DE308BA9741D}
+name: Testing
+master: {00000000-0000-0000-0000-000000000000}
+template: {0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}
+templatekey: Template Folder
+
