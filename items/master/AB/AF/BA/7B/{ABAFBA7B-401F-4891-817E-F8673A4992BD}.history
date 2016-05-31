@@ -31,6 +31,23 @@
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Cat Video",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "be1a426e60ea506522738f58f3c090d5d9305b67"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{ABAFBA7B-401F-4891-817E-F8673A4992BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T14:26:51.9127995Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cat Video",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Cat Video",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
