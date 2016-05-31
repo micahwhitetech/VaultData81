@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {1F7ACF55-43EB-4C8A-8523-66A367C6191F}
+database: master
+path: /sitecore/templates/Testing/Broken Links/Info/Title
+parent: {B56D7C36-0495-4095-AA8D-5D062A738ACF}
+name: Title
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
