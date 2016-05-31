@@ -65,6 +65,23 @@
     "itemPath": "/sitecore/content/New Folderasdfasdf/New Broken Links",
     "commandType": "Item",
     "template": "Broken Links",
+    "sourceControlRevisionId": "df69f18d7472bcda9bc391ece9264d51c3a1d073"
+  },
+  {
+    "eventType": "Renamed",
+    "database": "master",
+    "itemId": "{63215807-953B-4512-9077-E023FB2A2576}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T15:08:01.8149766Z",
+    "label": "Renamed New Broken Links to fluffy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fluffy",
+    "itemPath": "/sitecore/content/New Folderasdfasdf/fluffy",
+    "commandType": "Item",
+    "template": "Broken Links",
     "sourceControlRevisionId": null
   }
 ]
