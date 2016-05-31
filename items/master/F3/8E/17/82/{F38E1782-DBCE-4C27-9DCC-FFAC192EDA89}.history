@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/More Cat Videos",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "c95fae6e05cbeaef7b3bc709a639ca14460102a8"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{F38E1782-DBCE-4C27-9DCC-FFAC192EDA89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T14:26:51.9493291Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "More Cat Videos",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info/More Cat Videos",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
