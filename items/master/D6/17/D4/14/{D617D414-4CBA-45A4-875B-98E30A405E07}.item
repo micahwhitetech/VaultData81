@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {D617D414-4CBA-45A4-875B-98E30A405E07}
+database: master
+path: /sitecore/templates/Testing/Broken Links/Info/Random Youtube Link
+parent: {B56D7C36-0495-4095-AA8D-5D062A738ACF}
+name: Random Youtube Link
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
