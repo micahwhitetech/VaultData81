@@ -31,6 +31,23 @@
     "itemPath": "/sitecore/content/New Folderasdfasdf/New Broken Links",
     "commandType": "Item",
     "template": "Broken Links",
+    "sourceControlRevisionId": "81c9cf7e74afaa02057bf202fd05d63721d8e137"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{63215807-953B-4512-9077-E023FB2A2576}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T15:07:07.2395918Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Broken Links",
+    "itemPath": "/sitecore/content/New Folderasdfasdf/New Broken Links",
+    "commandType": "Item",
+    "template": "Broken Links",
     "sourceControlRevisionId": null
   }
 ]
