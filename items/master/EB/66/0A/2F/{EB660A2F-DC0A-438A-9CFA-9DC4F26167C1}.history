@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{EB660A2F-DC0A-438A-9CFA-9DC4F26167C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T14:28:33.2229723Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Broken Links",
+    "itemPath": "/sitecore/content/New Broken Links",
+    "commandType": "Item",
+    "template": "Broken Links",
+    "sourceControlRevisionId": null
+  }
+]
