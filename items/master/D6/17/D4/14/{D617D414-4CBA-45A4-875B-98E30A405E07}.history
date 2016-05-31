@@ -31,6 +31,23 @@
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Random Youtube Link",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "919597fedc0109d7d020d766f214c8187c9915d2"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{D617D414-4CBA-45A4-875B-98E30A405E07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T14:26:51.8562572Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Random Youtube Link",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Random Youtube Link",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
