@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {31606F37-6AE0-42DE-BCCD-59781F56535F}
+database: master
+path: /sitecore/templates/Testing/Broken Links/Info/Description
+parent: {B56D7C36-0495-4095-AA8D-5D062A738ACF}
+name: Description
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
