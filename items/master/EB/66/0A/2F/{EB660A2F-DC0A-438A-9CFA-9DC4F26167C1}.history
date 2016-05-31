@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/content/New Broken Links",
     "commandType": "Item",
     "template": "Broken Links",
+    "sourceControlRevisionId": "2cf0bf220b927e9eaf64a7ed92a8c5e04aaa1869"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{EB660A2F-DC0A-438A-9CFA-9DC4F26167C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T14:28:33.2332213Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Broken Links",
+    "itemPath": "/sitecore/content/New Broken Links",
+    "commandType": "Item",
+    "template": "Broken Links",
     "sourceControlRevisionId": null
   }
 ]
