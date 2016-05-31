@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{ABAFBA7B-401F-4891-817E-F8673A4992BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T14:26:51.8892802Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cat Video",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Cat Video",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
