@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B56D7C36-0495-4095-AA8D-5D062A738ACF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T14:26:51.6572955Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Info",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]
