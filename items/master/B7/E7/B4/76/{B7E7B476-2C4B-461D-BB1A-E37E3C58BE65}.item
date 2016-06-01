@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {B7E7B476-2C4B-461D-BB1A-E37E3C58BE65}
+database: master
+path: /sitecore/templates/Testing/Broken Links/Info/Dog Video
+parent: {B56D7C36-0495-4095-AA8D-5D062A738ACF}
+name: Dog Video
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
