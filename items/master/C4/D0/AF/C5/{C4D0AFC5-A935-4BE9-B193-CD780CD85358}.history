@@ -82,6 +82,23 @@
     "itemPath": "/sitecore/content/without links",
     "commandType": "Item",
     "template": "Broken Links",
+    "sourceControlRevisionId": "dfa68876b1a032d428d45833265c54882625915b"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{C4D0AFC5-A935-4BE9-B193-CD780CD85358}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T23:56:11.8344028Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "without links",
+    "itemPath": "/sitecore/content/without links",
+    "commandType": "Item",
+    "template": "Broken Links",
     "sourceControlRevisionId": null
   }
 ]
