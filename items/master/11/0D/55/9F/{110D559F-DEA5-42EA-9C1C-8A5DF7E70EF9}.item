@@ -312,7 +312,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 1a51f6a3-bc0d-4eb4-92ad-93107b401019
+revision: d2fb1958-b7f6-47fa-badc-167515783c26
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -325,11 +325,14 @@ Sitecore Experience Platforkolp
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
 key: text
-content-length: 873
+content-length: 1006
 
 <p style="line-height: 22px;">From a single connected platform that also integrates with other customer-facing platforms, to a single view of the customer in a big data marketing repository, to completely eliminating much of the complexity that has previously held marketers back, the latest version of Sitecore makes customer experience highly achievable. Learn how the latest version of Sitecore gives marketers the complete data, integrated tools, and automation capabilities to engage customers throughout an iterative lifecycle &ndash; the technology foundation absolutely necessary to win customers for life.</p>
 <p>For further information, please go to the <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore Documentation site">Sitecore Documentation site</a></p>
-<a href="~/link.aspx?_id=A7AF70642B0E414A962328293B7D4FA1&amp;_z=z">New Folderzzz</a>
+<p><a href="~/link.aspx?_id=A7AF70642B0E414A962328293B7D4FA1&amp;_z=z">New Folderzzz</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="~/link.aspx?_id=A00E7739FCA94BD3ACEBFC482AD4C5F6&amp;_z=z">New Folderasdfasdf</a></p>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -392,14 +395,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1a51f6a3-bc0d-4eb4-92ad-93107b401019
+d2fb1958-b7f6-47fa-badc-167515783c26
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160527T210004Z
+20160601T234849Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
