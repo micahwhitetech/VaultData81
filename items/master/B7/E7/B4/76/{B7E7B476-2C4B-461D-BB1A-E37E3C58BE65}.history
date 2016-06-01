@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Dog Video",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "48769bde4cd05810a2889bb4d15c2cb39c734658"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{B7E7B476-2C4B-461D-BB1A-E37E3C58BE65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T15:16:56.8660373Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dog Video",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Dog Video",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
