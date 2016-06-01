@@ -2,9 +2,9 @@
 version: 1
 id: {C4D0AFC5-A935-4BE9-B193-CD780CD85358}
 database: master
-path: /sitecore/content/New Broken Links
+path: /sitecore/content/without links
 parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
-name: New Broken Links
+name: without links
 master: {00000000-0000-0000-0000-000000000000}
 template: {8372C3E2-9A2C-41EA-9FB6-8F307EFDE082}
 templatekey: Broken Links
@@ -12,7 +12,7 @@ templatekey: Broken Links
 ----version----
 language: en
 version: 1
-revision: 6aa635e9-f1ab-40db-bfd2-01544d442333
+revision: 132dcaf9-a658-47bb-aead-eeec20b43acc
 
 ----field----
 field: {1F7ACF55-43EB-4C8A-8523-66A367C6191F}
@@ -48,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6aa635e9-f1ab-40db-bfd2-01544d442333
+132dcaf9-a658-47bb-aead-eeec20b43acc
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160601T235250Z
+20160601T235317Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
