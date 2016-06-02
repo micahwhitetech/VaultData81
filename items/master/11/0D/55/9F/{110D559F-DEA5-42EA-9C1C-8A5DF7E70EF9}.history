@@ -65,6 +65,23 @@
     "itemPath": "/sitecore/content/Home",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "1e79be8347c2644b29f6c69337a2dadb2c7c483d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-02T12:47:06.9260367Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Home",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
