@@ -14,7 +14,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "61d68a2a8e961f24fc5b47711e9d0ca77f212697"
+    "sourceControlRevisionId": "61d68a2a8e961f24fc5b47711e9d0ca77f212697",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -31,7 +33,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "2cea4a66c6f49ec9a22614d96197c842e6eeaf97"
+    "sourceControlRevisionId": "2cea4a66c6f49ec9a22614d96197c842e6eeaf97",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -48,7 +52,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "a0cc4f49f52e855616903fe7f5e6a82893315ba5"
+    "sourceControlRevisionId": "a0cc4f49f52e855616903fe7f5e6a82893315ba5",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -65,7 +71,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "e9395c317f37144a893095b8e3b7100d02658e69"
+    "sourceControlRevisionId": "e9395c317f37144a893095b8e3b7100d02658e69",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -82,7 +90,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "c8447f5293fe5f8e6d4e270784c2c5bd250922e0"
+    "sourceControlRevisionId": "c8447f5293fe5f8e6d4e270784c2c5bd250922e0",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -99,7 +109,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "275245d13e5dc98bf1631d63f4343a74cc7ecdd2"
+    "sourceControlRevisionId": "275245d13e5dc98bf1631d63f4343a74cc7ecdd2",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -116,7 +128,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "0b318de9443aa92e80190e90c88fd8a45d95729f"
+    "sourceControlRevisionId": "0b318de9443aa92e80190e90c88fd8a45d95729f",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -133,7 +147,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "5cd449141a887f9ab602a02369fffe10d5ad87a0"
+    "sourceControlRevisionId": "5cd449141a887f9ab602a02369fffe10d5ad87a0",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -150,7 +166,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "852eb29f2cf678dffda2dc9a328a87f1a814d964"
+    "sourceControlRevisionId": "852eb29f2cf678dffda2dc9a328a87f1a814d964",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -167,7 +185,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "228045409f6e50f63aec164e1c5bba264f7ef93d"
+    "sourceControlRevisionId": "228045409f6e50f63aec164e1c5bba264f7ef93d",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -184,6 +204,27 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "90e3ec7f516575a954b09d5a27e6978aaadfc213",
+    "sitecoreVersion": null,
+    "vaultVersion": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{9955F85F-9EE1-4469-BD70-5422AF976461}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-09T15:44:09.0733896Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Anonymous",
+    "itemName": "Suspend Corrupted Tests",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
+    "commandType": "Item",
+    "template": "Schedule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
   }
 ]
