@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{BAE0154D-CE29-4B14-BCAA-7CA807028B2F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:16:14.8653082Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fff",
+    "itemPath": "/sitecore/templates/Testing/MT2/asd/fff",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
