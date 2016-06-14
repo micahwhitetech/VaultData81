@@ -33,7 +33,26 @@
     "itemPath": "/sitecore/templates/Testing/Missing Template/Fields/Subtitle",
     "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "114aa825d75e9b53c2bfd69dd7d5507c81bd6d3b",
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{2D76ABE6-141E-4DED-A364-397AF2E1AF69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T19:44:34.0270875Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Subtitle",
+    "itemPath": "/sitecore/templates/Testing/Missing Template/Fields/Subtitle",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "114aa825d75e9b53c2bfd69dd7d5507c81bd6d3b",
     "sitecoreVersion": "8.1.160302",
     "vaultVersion": "1.0.140"
   }
