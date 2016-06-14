@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B80CF8B1-8FDD-4D5E-A91F-F946B2BECCA0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:16:14.9398780Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "eee",
+    "itemPath": "/sitecore/templates/Testing/MT2/asd/eee",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
