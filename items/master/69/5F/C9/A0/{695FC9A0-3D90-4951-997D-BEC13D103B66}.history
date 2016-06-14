@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{695FC9A0-3D90-4951-997D-BEC13D103B66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:46:49.3006380Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "seses",
+    "itemPath": "/sitecore/templates/Testing/MT3/ddd/seses",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
