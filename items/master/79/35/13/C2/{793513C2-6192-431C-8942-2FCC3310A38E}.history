@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{793513C2-6192-431C-8942-2FCC3310A38E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:16:14.8102692Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "asd",
+    "itemPath": "/sitecore/templates/Testing/MT2/asd",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
