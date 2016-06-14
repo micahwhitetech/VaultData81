@@ -2,9 +2,9 @@
 version: 1
 id: {C0A10825-4C32-4E74-A807-3F58E22862F3}
 database: master
-path: /sitecore/content/New Missing Template
+path: /sitecore/content/Missing Template Item
 parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
-name: New Missing Template
+name: Missing Template Item
 master: {00000000-0000-0000-0000-000000000000}
 template: {F7BA8407-BCF9-4D2A-A6E5-75C79195AA7A}
 templatekey: Missing Template
@@ -12,7 +12,7 @@ templatekey: Missing Template
 ----version----
 language: en
 version: 1
-revision: 94e44790-fe04-4955-802e-00ccb44b17ce
+revision: af1fdafc-2f91-40f3-8dbb-ad7e1bc9db88
 
 ----field----
 field: {E593DF5D-4761-4DEF-AF21-A7E148D42849}
@@ -32,13 +32,6 @@ none
 field: {30F74D06-A6C8-4F5E-872D-0D44A5A0AF07}
 name: Title
 key: title
-content-length: 4
-
-none
-----field----
-field: {2D76ABE6-141E-4DED-A364-397AF2E1AF69}
-name: Subtitle
-key: subtitle
 content-length: 4
 
 none
@@ -69,14 +62,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-94e44790-fe04-4955-802e-00ccb44b17ce
+af1fdafc-2f91-40f3-8dbb-ad7e1bc9db88
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160614T173011Z
+20160614T200419Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
