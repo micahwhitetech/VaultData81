@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{ED413D6E-2438-478B-BFFA-DA6E1CD1B2AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:16:14.9048531Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ddd",
+    "itemPath": "/sitecore/templates/Testing/MT2/asd/ddd",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
