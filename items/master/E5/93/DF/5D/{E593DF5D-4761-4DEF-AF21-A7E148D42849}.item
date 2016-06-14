@@ -2,9 +2,9 @@
 version: 1
 id: {E593DF5D-4761-4DEF-AF21-A7E148D42849}
 database: master
-path: /sitecore/templates/Testing/Missing Template/Fields/Names
+path: /sitecore/templates/Testing/Missing Template/Fields/Name
 parent: {2F1E01B9-F47F-40C3-9650-23F697493EA8}
-name: Names
+name: Name
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
@@ -26,7 +26,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: f3dbef98-3535-4e41-9856-b1577ce16427
+revision: 1f4ad127-5464-4dc1-aa75-30f8db4303cf
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -41,14 +41,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f3dbef98-3535-4e41-9856-b1577ce16427
+1f4ad127-5464-4dc1-aa75-30f8db4303cf
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160614T194336Z
+20160614T194433Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
