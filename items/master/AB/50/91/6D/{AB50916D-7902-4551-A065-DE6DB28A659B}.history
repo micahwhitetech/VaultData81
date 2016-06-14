@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AB50916D-7902-4551-A065-DE6DB28A659B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:46:49.1855512Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fefe",
+    "itemPath": "/sitecore/templates/Testing/MT3/ddd/fefe",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
