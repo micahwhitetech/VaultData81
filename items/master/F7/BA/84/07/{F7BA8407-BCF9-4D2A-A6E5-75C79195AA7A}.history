@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F7BA8407-BCF9-4D2A-A6E5-75C79195AA7A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T17:27:31.9340728Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Missing Template",
+    "itemPath": "/sitecore/templates/Testing/Missing Template",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
