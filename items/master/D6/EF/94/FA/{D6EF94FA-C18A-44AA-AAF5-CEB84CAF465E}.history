@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{D6EF94FA-C18A-44AA-AAF5-CEB84CAF465E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:46:56.0183978Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New MT3",
+    "itemPath": "/sitecore/content/New MT3",
+    "commandType": "Item",
+    "template": "MT3",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
