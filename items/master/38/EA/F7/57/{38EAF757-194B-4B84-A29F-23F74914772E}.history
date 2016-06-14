@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{38EAF757-194B-4B84-A29F-23F74914772E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:48:47.6886210Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "s",
+    "itemPath": "/sitecore/templates/Testing/MT4/d/s",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
