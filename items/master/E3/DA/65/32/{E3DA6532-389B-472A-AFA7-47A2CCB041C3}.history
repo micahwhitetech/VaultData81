@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E3DA6532-389B-472A-AFA7-47A2CCB041C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:46:49.1084914Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ddd",
+    "itemPath": "/sitecore/templates/Testing/MT3/ddd",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
