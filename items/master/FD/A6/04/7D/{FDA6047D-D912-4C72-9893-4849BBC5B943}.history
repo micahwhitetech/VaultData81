@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{FDA6047D-D912-4C72-9893-4849BBC5B943}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:55:36.7372698Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New MT4",
+    "itemPath": "/sitecore/content/folder 1/folder 2/folder 3/New MT4",
+    "commandType": "Item",
+    "template": "MT4",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
