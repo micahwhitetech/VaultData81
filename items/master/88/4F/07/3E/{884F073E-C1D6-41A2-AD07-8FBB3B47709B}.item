@@ -2,9 +2,9 @@
 version: 1
 id: {884F073E-C1D6-41A2-AD07-8FBB3B47709B}
 database: master
-path: /sitecore/content/New MT2
+path: /sitecore/content/MT2 Item
 parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
-name: New MT2
+name: MT2 Item
 master: {00000000-0000-0000-0000-000000000000}
 template: {5B767239-3C0C-4477-BCD7-94C9EA447E9D}
 templatekey: MT2
@@ -12,7 +12,7 @@ templatekey: MT2
 ----version----
 language: en
 version: 1
-revision: 781b31c3-87a3-4250-9b80-400f7181b262
+revision: 2b1ed809-dca2-4a47-b3b8-76397bfa82fa
 
 ----field----
 field: {BAE0154D-CE29-4B14-BCAA-7CA807028B2F}
@@ -62,14 +62,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-781b31c3-87a3-4250-9b80-400f7181b262
+2b1ed809-dca2-4a47-b3b8-76397bfa82fa
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160614T201630Z
+20160614T201758Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
