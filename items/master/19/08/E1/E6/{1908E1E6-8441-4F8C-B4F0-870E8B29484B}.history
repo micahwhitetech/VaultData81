@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1908E1E6-8441-4F8C-B4F0-870E8B29484B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:46:39.9163595Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MT3",
+    "itemPath": "/sitecore/templates/Testing/MT3",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
