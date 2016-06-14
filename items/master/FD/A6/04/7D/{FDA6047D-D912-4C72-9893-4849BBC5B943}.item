@@ -2,8 +2,8 @@
 version: 1
 id: {FDA6047D-D912-4C72-9893-4849BBC5B943}
 database: master
-path: /sitecore/content/folder 1/folder 2/folder 3/New MT4
-parent: {C438BD09-C1C3-4DBD-B35D-0D6A9D9573F8}
+path: /sitecore/content/folder 1/new location/New MT4
+parent: {AEF7F002-7C16-4F94-A87B-9A7069D26FF6}
 name: New MT4
 master: {00000000-0000-0000-0000-000000000000}
 template: {94644973-9358-4DB1-AAD6-21EBB469BBC3}
