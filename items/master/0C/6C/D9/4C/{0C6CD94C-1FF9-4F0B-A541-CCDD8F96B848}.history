@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0C6CD94C-1FF9-4F0B-A541-CCDD8F96B848}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-16T19:23:32.1160334Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Folder",
+    "itemPath": "/sitecore/content/New Folder",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
