@@ -2,9 +2,9 @@
 version: 1
 id: {D2F71DB9-C916-4181-AC92-E1F28FD5814D}
 database: master
-path: /sitecore/content/Changed name item
+path: /sitecore/content/Same name item
 parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
-name: Changed name item
+name: Same name item
 master: {00000000-0000-0000-0000-000000000000}
 template: {C6C33B94-2389-41F5-9541-A5EE482D47B1}
 templatekey: Same Name
@@ -12,7 +12,7 @@ templatekey: Same Name
 ----version----
 language: en
 version: 1
-revision: 777b91fd-e564-4280-8be3-b2e5e78a98e6
+revision: fdca9eeb-2b35-4f81-b0e4-ed6ccd4f10b4
 
 ----field----
 field: {CEEEE187-0C8D-4374-8BF6-EE95B2580AB6}
@@ -48,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-777b91fd-e564-4280-8be3-b2e5e78a98e6
+fdca9eeb-2b35-4f81-b0e4-ed6ccd4f10b4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160616T194317Z
+20160616T194406Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
