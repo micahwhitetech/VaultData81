@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A712166F-2524-40D5-B2A7-BDCE14729E19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-16T18:36:29.3991244Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "eee",
+    "itemPath": "/sitecore/templates/Testing/Same Name/eee",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
