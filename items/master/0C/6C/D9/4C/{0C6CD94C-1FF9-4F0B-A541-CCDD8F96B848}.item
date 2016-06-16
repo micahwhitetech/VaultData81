@@ -2,9 +2,9 @@
 version: 1
 id: {0C6CD94C-1FF9-4F0B-A541-CCDD8F96B848}
 database: master
-path: /sitecore/content/New Folder
+path: /sitecore/content/path 1
 parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
-name: New Folder
+name: path 1
 master: {00000000-0000-0000-0000-000000000000}
 template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
 templatekey: Folder
@@ -12,7 +12,7 @@ templatekey: Folder
 ----version----
 language: en
 version: 1
-revision: 55aafe2e-c7a7-423c-be4d-108fd1909344
+revision: 1a1c6f62-d296-4636-a295-e7326f990c09
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -34,14 +34,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-55aafe2e-c7a7-423c-be4d-108fd1909344
+1a1c6f62-d296-4636-a295-e7326f990c09
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160616T192332Z
+20160616T192339Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
