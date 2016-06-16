@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{04EE7BF8-98B6-4C6E-ADF3-7572B1F791F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-16T20:30:46.8048800Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recreated template field",
+    "itemPath": "/sitecore/content/Recreated template field",
+    "commandType": "Item",
+    "template": "MT4",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  }
+]
