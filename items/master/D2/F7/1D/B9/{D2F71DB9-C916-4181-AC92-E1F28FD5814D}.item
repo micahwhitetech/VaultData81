@@ -31,6 +31,13 @@ content-length: 16
 
 20160621T060000Z
 ----field----
+field: {74484BDF-7C86-463C-B49F-7B73B9AFC965}
+name: __Publishing groups
+key: __publishing groups
+content-length: 38
+
+{81844CCA-8EAA-4BD8-82DB-23473E08CDCC}
+----field----
 field: {9135200A-5626-4DD8-AB9D-D665B8C11748}
 name: __Never publish
 key: __never publish
@@ -40,7 +47,7 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: acbbb638-2718-45d4-8742-8f6166c4955d
+revision: 8990a6c0-03b1-412d-9608-595fea8db5f7
 
 ----field----
 field: {CEEEE187-0C8D-4374-8BF6-EE95B2580AB6}
@@ -83,14 +90,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-acbbb638-2718-45d4-8742-8f6166c4955d
+8990a6c0-03b1-412d-9608-595fea8db5f7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160616T201854Z
+20160616T203653Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
