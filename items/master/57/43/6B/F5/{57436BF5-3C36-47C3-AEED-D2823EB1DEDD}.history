@@ -33,7 +33,26 @@
     "itemPath": "/sitecore/templates/Testing/MT4/d/g",
     "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c20d05551a615f6c8966b4f670d20411dfb0ec86",
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{57436BF5-3C36-47C3-AEED-D2823EB1DEDD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-16T20:30:22.7824289Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "g",
+    "itemPath": "/sitecore/templates/Testing/MT4/d/g",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "c20d05551a615f6c8966b4f670d20411dfb0ec86",
     "sitecoreVersion": "8.1.160302",
     "vaultVersion": "1.0.140"
   }
