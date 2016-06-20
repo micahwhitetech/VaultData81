@@ -9,10 +9,17 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {E130C748-C13B-40D5-B6C6-4B150DC3FAB3}
 templatekey: Publishing target
 
+----field----
+field: {39ECFD90-55D2-49D8-B513-99D15573DE41}
+name: Target database
+key: target database
+content-length: 3
+
+web
 ----version----
 language: en
 version: 1
-revision: ef98284a-742e-4a1a-a7e6-a5007a69f52b
+revision: f0b2a13c-287b-4e5a-a37b-1e10ebb0ec6e
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -41,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ef98284a-742e-4a1a-a7e6-a5007a69f52b
+f0b2a13c-287b-4e5a-a37b-1e10ebb0ec6e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160620T194009Z
+20160620T194013Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
