@@ -34,9 +34,9 @@ content-length: 16
 field: {74484BDF-7C86-463C-B49F-7B73B9AFC965}
 name: __Publishing groups
 key: __publishing groups
-content-length: 38
+content-length: 0
 
-{81844CCA-8EAA-4BD8-82DB-23473E08CDCC}
+
 ----field----
 field: {9135200A-5626-4DD8-AB9D-D665B8C11748}
 name: __Never publish
@@ -47,7 +47,7 @@ content-length: 1
 ----version----
 language: en
 version: 1
-revision: f79d774c-58e2-4d58-b0c4-8cf2cbae80f8
+revision: 94d5d234-d990-4dd6-955d-36b239baff84
 
 ----field----
 field: {CEEEE187-0C8D-4374-8BF6-EE95B2580AB6}
@@ -90,14 +90,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f79d774c-58e2-4d58-b0c4-8cf2cbae80f8
+94d5d234-d990-4dd6-955d-36b239baff84
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160621T184410Z
+20160621T184412Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
