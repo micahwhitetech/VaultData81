@@ -1,0 +1,10 @@
+{
+  "itemName": "TargetSystemsDS-Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{E0876AEA-1F02-4658-9CC4-A9A4A2E36F2A}",
+  "childIds": [
+    "{54CB9F41-A2E3-4AA0-B10F-E4669580B509}",
+    "{929F03D3-EA8B-4B98-BD8A-097986A76D36}"
+  ]
+}
