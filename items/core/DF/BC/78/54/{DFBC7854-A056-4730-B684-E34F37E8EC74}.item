@@ -1,0 +1,123 @@
+----item----
+version: 1
+id: {DFBC7854-A056-4730-B684-E34F37E8EC74}
+database: core
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items
+parent: {20913C22-DCB4-42A3-8C15-FEAA3CD3EC8C}
+name: Recovered Items
+master: {00000000-0000-0000-0000-000000000000}
+template: {B11AFCCD-C286-4384-B694-4465D6C605DE}
+templatekey: Speak-DashboardPage
+
+----field----
+field: {5E642935-A6FC-48E9-B039-FE1136CED488}
+name: Theme
+key: theme
+content-length: 7
+
+Harvard
+----field----
+field: {3A67AD0F-9530-4B1B-9B70-9230C36AE8D6}
+name: UseFullWidth
+key: usefullwidth
+content-length: 1
+
+1
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 6439
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
+    <r id="{DAFAFFB8-74AF-4141-A96A-70B16834CEC6}" par="PageCodeScriptFileName=%2fsitecore%2fshell%2fclient%2fApplications%2fVault%2fCommon%2fScripts%2fVaultRecoverItems.js" ph="Page.Code" uid="{237256AA-9D30-463E-9ED1-90CFF092FCF6}" />
+    <r id="{BE007891-2D9C-4E67-943C-752DBA0C041F}" ph="Page.Body" uid="{F373AD1A-6282-4295-96D7-3E29D6EE88B3}" />
+    <r ds="{DFB05815-4D31-4B1D-8917-64CD3DEC382D}" id="{DFB05815-4D31-4B1D-8917-64CD3DEC382D}" par="PageSize=10&amp;Id=rcDataSource&amp;Sorting=%7bBinding+recoveredList.Sorting%7d" ph="Page.Body" uid="{DA36926A-DCDE-4543-87CA-C098E7804112}" />
+    <r id="{5AE97C0C-EE88-4564-A363-4FA11C01C90A}" ph="GlobalHeader" uid="{532C7DCD-29E7-4C34-9910-FC283D61A026}" />
+    <r id="{7A69C522-7E99-4630-A25A-5D571505862A}" par="ImageUrl=%2525252525252525252525252525252525252525252525252525252525252525252fsitecore%2525252525252525252525252525252525252525252525252525252525252525252fshell%2525252525252525252525252525252525252525252525252525252525252525252fclient%2525252525252525252525252525252525252525252525252525252525252525252fSpeak%2525252525252525252525252525252525252525252525252525252525252525252fAssets%2525252525252525252525252525252525252525252525252525252525252525252fimg%2525252525252525252525252525252525252525252525252525252525252525252fspeak-logo.png&amp;Id=GlobalLogo" ph="GlobalHeader.StartButton" uid="{A340B9F2-9FD0-4767-9B0B-62D7C8B0E5C7}" />
+    <r id="{EA28ED83-0F59-4BB9-AA95-6FAC9C3385D6}" par="Id=NavigationToggler" ph="GlobalHeader.NavigationToggler" uid="{0330E088-D1C0-4394-8F5B-5F2E0F577D5E}" />
+    <r id="{2EE499CD-439A-4F10-B81F-36A54CAC01DB}" par="Id=AccountInformation1" ph="GlobalHeader.LoginInfo" uid="{EBEE593F-4B1D-4D51-9A8B-027274B26138}" />
+    <r id="{EC86834B-890C-405C-BB36-CA25044909E1}" ph="GlobalFooter" uid="{C01DD5BD-DFC2-425B-A301-43AE8363B443}" />
+    <r id="{93CEEFCD-2DE1-40AF-AE9A-EBBFBCCC522F}" par="ShowHeader=0" ph="ApplicationHeader" uid="{1E240370-226C-40E4-9C54-7FE8630DF74A}" />
+    <r id="{835FD556-A672-49CE-9482-175791629C05}" par="Id=ProductName&amp;productName=Vault" ph="ApplicationHeader.Title" uid="{8747DE2E-3165-4C80-8EF3-C39B7A597DCA}" />
+    <r id="{AF79ED5D-4396-4EEC-8E22-9D7C523266FA}" par="Id=Breadcrumb1&amp;RootItemId=%7bB2D13121-76DD-4C76-8972-D4E32D1D3B2C%7d" ph="ApplicationHeader.BreadCrumb" uid="{5F2E96EA-2833-4A1B-B629-B741802B43A1}" />
+    <r id="{EB6214BE-5687-4706-ABA6-B25C0958C85B}" ph="ApplicationContent" uid="{5C96B069-71B7-4B1D-BE44-B673DE81D9DE}" />
+    <r id="{C5D667DE-AA48-4072-872E-7C8BFFCE4D44}" par="IsRootHidden=1&amp;Id=dashboardNavigation&amp;ItemsDataSource=%7b647472D4-D9C0-406B-8E22-60DB2DC634B2%7d" ph="ApplicationContent.Navigation" uid="{12BDF48D-F825-4D38-9265-C13E9F3091CE}" />
+    <r id="{910155C7-3881-4A56-90FB-D126490EDE55}" par="Id=recoverMessage" ph="ApplicationContent.Main" uid="{7B091865-A630-4B5E-A75A-4005147354DF}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=NotificationBorder&amp;IsVisible=0" ph="ApplicationContent.Main" uid="{F4CC38A7-F67E-4219-945E-2A1C6EF3763E}" />
+    <r id="{F517C5E4-9A53-46C3-B922-5B44E6DAAA48}" par="Id=SpinnerImage&amp;ImageUrl=%2fsitecore%2fshell%2fclient%2fSpeak%2fAssets%2fimg%2fSpeak%2fProgressIndicator%2fsc-spinner32.gif" ph="NotificationBorder.Content" uid="{7629D6B0-907A-4A8F-9BC6-8DD8F22DEC76}" />
+    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblLoading&amp;Text=Loading..." ph="NotificationBorder.Content" uid="{113B504B-C89E-43E3-B55F-EE3C97EAEB07}" />
+    <r ds="{95410D5F-6BAC-4969-AE08-936E93F24F9C}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=RecoveredItemsExpander&amp;IsCollapsible=0&amp;IsOpen=1" ph="ApplicationContent.Main" uid="{BF32A454-7741-46D7-AF0A-895D254443FA}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=PagingButtons&amp;PaddingType=Bottom&amp;ContentAlignment=Center" ph="RecoveredItemsExpander.ActionBar" uid="{E1296A99-CC88-44B4-B13C-C84959348BD6}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=prev%3arcDataSource&amp;Id=prevButtonRecover&amp;IsVisible=%7bBinding+rcDataSource.HasPaging%7d&amp;IsEnabled=%7bBinding+rcDataSource.HasPrevItems%7d&amp;ButtonType=Default&amp;Text=%3c+Prev" ph="PagingButtons.Content" uid="{0565F97E-C5B9-4328-AD96-E74A5378A0D6}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=next%3arcDataSource&amp;Id=nextButtonRecover&amp;IsVisible=%7bBinding+rcDataSource.HasPaging%7d&amp;IsEnabled=%7bBinding+rcDataSource.HasMoreItems%7d&amp;ButtonType=Default&amp;Text=Next+%3e" ph="PagingButtons.Content" uid="{0565F97E-C5B9-4328-AD96-E74A5378A0D6}" />
+    <r ds="{64AC1772-800B-4CEB-B75C-55EC6EA70410}" id="{C2FAF554-1419-4B6E-96B8-EC7DB6995B3C}" par="Id=RecoveredItemsAction&amp;IsVisible=0&amp;IsEnabled=%7bBinding+recoveredList.HasSelectedItem%7d" ph="RecoveredItemsExpander.ActionBar" uid="{8F32DDA5-15A9-4C6E-BEEA-663F72DCDE0F}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=recoverBorder&amp;ContentAlignment=Center" ph="RecoveredItemsExpander.Body" uid="{0CF4394F-E956-4FE9-BF72-26757B79A1F0}" />
+    <r ds="{BD336818-E7E6-4EEE-ADD2-7F3617498563}" id="{ACE0AFD6-3DE0-42CF-8E62-4E68CD810A8D}" par="Id=recoveredList&amp;Items=%7bBinding+rcDataSource.Items%7d&amp;Sorting=dSubmitTimeString&amp;ViewMode=DetailList&amp;TileHtmlFileName=%2fsitecore%2fshell%2fclient%2fBusiness+Component+Library%2fLayouts%2fRenderings%2fListsAndGrids%2fListControls%2fDefaultTile.cshtml" ph="RecoveredItemsExpander.Body" uid="{5D99F2D5-101D-48E9-94FE-C5D76DA44BAB}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=FooterBorder&amp;PaddingType=Bottom&amp;ContentAlignment=Center&amp;ShowBorder=0" ph="RecoveredItemsExpander.Body" uid="{A9B7F8E5-CEDC-4D03-8BC5-A57B32213C58}" />
+    <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=pageText1&amp;TextType=SmallTitle&amp;Text=%7bBinding+rcDataSource.PageText%7d" ph="FooterBorder.Content" uid="{797D458A-8B12-4D98-B815-B903F533A27A}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.openClicked()%3b&amp;Id=ViewItemButton&amp;IsVisible=%7bBinding+rcDataSource.HasItems%7d&amp;IsEnabled=%7bBinding+recoveredList.HasSelectedItem%7d&amp;ButtonType=Primary&amp;Text=Open+Selected" ph="ApplicationContent.Main" uid="{61DF1128-D611-41C0-BED7-72F193888C22}" />
+  </d>
+</r>
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: bd5bcbb1-79b9-4b27-88a9-7124718f0150
+
+----field----
+field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
+name: BrowserTitle
+key: browsertitle
+content-length: 22
+
+Vault: Recovered Items
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150701T191859Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bd5bcbb1-79b9-4b27-88a9-7124718f0150
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160624T004655Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
