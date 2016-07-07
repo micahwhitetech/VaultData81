@@ -1,0 +1,114 @@
+----item----
+version: 1
+id: {A48021F9-662F-4AE0-9903-5838B99625F8}
+database: core
+path: /sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/CMS Team Report
+parent: {A360B87C-4F6D-46E1-9C15-F0D0AA0691A1}
+name: CMS Team Report
+master: {00000000-0000-0000-0000-000000000000}
+template: {4288C357-8017-47BC-827F-D69181CAAAA1}
+templatekey: Vault Report
+
+----field----
+field: {AEE5C6C6-CB2D-4645-AE50-8640E8ED293F}
+name: NavigateUrl
+key: navigateurl
+content-length: 158
+
+/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports?id={A48021F9-662F-4AE0-9903-5838B99625F8}&menuItemId={A48021F9-662F-4AE0-9903-5838B99625F8}
+----version----
+language: en
+version: 1
+revision: 2a94f462-37b3-45f8-bc77-93b44e2e7e81
+
+----field----
+field: {96E43D34-70FC-4AF9-B84A-F3926DDD6718}
+name: Query
+key: query
+content-length: 177
+
+Timestamp BETWEEN "2016-06-12T07:00:00.000Z" AND "2016-06-17T06:59:59.000Z" AND (ActiveUser = "sitecore\meng" OR ActiveUser = "sitecore\markmondragon") AND (EventType = "Saved")
+----field----
+field: {7C8A305B-3354-41AE-88A1-B0E05D39EFC0}
+name: Selectors
+key: selectors
+content-length: 66
+
+ActiveUser = "sitecore\meng"|ActiveUser = "sitecore\markmondragon"
+----field----
+field: {EFA0B7F3-1879-46E2-85EF-E399A53CD3A9}
+name: Filters
+key: filters
+content-length: 19
+
+EventType = "Saved"
+----field----
+field: {0FF8D388-BF06-418D-9EAE-4890C9DA9BD6}
+name: Start Date
+key: start date
+content-length: 15
+
+20160612T000000
+----field----
+field: {14148E97-C12C-41D7-8E7B-A2F8B5C139CD}
+name: End Date
+key: end date
+content-length: 15
+
+20160616T000000
+----field----
+field: {066E5B0E-0ED0-4CC3-B474-79FEB06BE6DA}
+name: Columns
+key: columns
+content-length: 25
+
+Name|Path|Event|User|Date
+----field----
+field: {EBB4296D-83E6-4657-B8B9-7AB766117184}
+name: CombineEvents
+key: combineevents
+content-length: 1
+
+0
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+CMS Team Report
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160621T150347Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 22
+
+sitecore\markmondragon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2a94f462-37b3-45f8-bc77-93b44e2e7e81
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160621T150348Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 22
+
+sitecore\markmondragon
