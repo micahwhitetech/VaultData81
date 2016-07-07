@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {65FF28B7-AD3E-4E3E-BD1B-416C7512DD60}
+database: core
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/ResultsTab Parameters/SitecoreTree
+parent: {DDE1E2F3-667F-4D3B-BAC4-EB26713CAFA1}
+name: SitecoreTree
+master: {00000000-0000-0000-0000-000000000000}
+template: {F62B4CD7-754C-4461-810F-2B6BD2C92A0D}
+templatekey: Tab
+
+----field----
+field: {DEAB3795-056F-4421-ADF0-758844461B72}
+name: Placeholder Name
+key: placeholder name
+content-length: 12
+
+SitecoreTree
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 996
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+    <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=ResultsTabRowTree" uid="{1BBDC9C9-3E02-45A3-883E-695E8123C281}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnResultsTree&amp;GridColumns=11" ph="ResultsTabRowTree.Content" uid="{12625CDC-7CA5-4640-AD73-AFE7CA5E5348}" />
+    <r id="{77A6FBB3-7C7B-4044-9682-5E47C5448059}" par="Id=ResultsDeployTree&amp;RootItem=%7b11111111-1111-1111-1111-111111111111%7d&amp;Database=master" ph="ColumnResultsTree.Content" uid="{D0F39B18-C0DD-4D61-B312-A56EE7099712}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnResultsFilterTree&amp;GridColumns=1" ph="ResultsTabRowTree.Content" uid="{12625CDC-7CA5-4640-AD73-AFE7CA5E5348}" />
+    <r ds="{F4202B4B-D627-4ABB-A0F7-E11BAD24FCA2}" id="{C2FAF554-1419-4B6E-96B8-EC7DB6995B3C}" par="Id=ResultFiltersTree" ph="ColumnResultsFilterTree.Content" uid="{08219CBB-FAA9-4C63-A2EB-56F0BDFB5A02}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: 008a4be5-ca94-4f43-a3a7-0d3cc0e138c6
+
+----field----
+field: {AEA872FB-AA91-4D1A-B877-3CA6FBBB4FD4}
+name: Header
+key: header
+content-length: 12
+
+SitecoreTree
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 13
+
+Sitecore Tree
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151125T160951Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+008a4be5-ca94-4f43-a3a7-0d3cc0e138c6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151125T210818:635840824984335942Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
