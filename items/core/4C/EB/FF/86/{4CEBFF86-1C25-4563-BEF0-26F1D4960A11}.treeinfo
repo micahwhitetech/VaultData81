@@ -1,0 +1,9 @@
+{
+  "itemName": "Snapshots",
+  "templateId": "{B11AFCCD-C286-4384-B694-4465D6C605DE}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{20913C22-DCB4-42A3-8C15-FEAA3CD3EC8C}",
+  "childIds": [
+    "{4BB2D26D-9EDB-42FC-B1B7-FA4582D74B8D}"
+  ]
+}
