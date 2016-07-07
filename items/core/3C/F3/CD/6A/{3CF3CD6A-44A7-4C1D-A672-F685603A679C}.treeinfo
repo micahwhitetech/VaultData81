@@ -1,0 +1,10 @@
+{
+  "itemName": "QuickLinks-Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{967D390E-3E2D-4ADE-AF10-1A8D6AA60425}",
+  "childIds": [
+    "{064CDDCE-C2F2-4B59-8F22-784D4EEB0D4E}",
+    "{3F78CF04-D9F2-4EA2-930F-B0181E273D01}"
+  ]
+}
