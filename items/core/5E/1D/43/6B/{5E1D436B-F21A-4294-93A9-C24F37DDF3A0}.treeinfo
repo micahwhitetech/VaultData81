@@ -1,0 +1,9 @@
+{
+  "itemName": "ActionColumn",
+  "templateId": "{23B8F26C-0957-4328-9D82-087DD65921C6}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6DC28647-D568-4860-AB8C-5025D96EE6A4}",
+  "childIds": [
+    "{BB6AEC4A-4B5E-4B13-84A2-C2F2F8D60D31}"
+  ]
+}
