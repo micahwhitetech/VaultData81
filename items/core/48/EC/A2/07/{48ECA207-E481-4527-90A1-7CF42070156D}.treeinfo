@@ -1,0 +1,10 @@
+{
+  "itemName": "Deploy ActionGroup",
+  "templateId": "{12E9DF28-3315-419C-B302-B9F06DB4A155}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{7DB62181-E08C-4148-91D1-533CAA2D162F}",
+  "childIds": [
+    "{B140B647-5390-484C-9DA1-32F2A02AE21E}",
+    "{90D2C88D-3AC4-408B-96B2-0E7A942FB759}"
+  ]
+}
