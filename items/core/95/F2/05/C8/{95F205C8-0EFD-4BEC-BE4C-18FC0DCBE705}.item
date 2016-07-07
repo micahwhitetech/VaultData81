@@ -1,0 +1,44 @@
+----item----
+version: 1
+id: {95F205C8-0EFD-4BEC-BE4C-18FC0DCBE705}
+database: core
+path: /sitecore/client/Your Apps/Vault/Common/DataSource/DeletedItemsDS/DeletedItemsDS-Parameters/__Standard Values
+parent: {2FE612AD-9FCB-4CB3-B903-D3D874B9F19B}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {2FE612AD-9FCB-4CB3-B903-D3D874B9F19B}
+templatekey: DeletedItemsDS-Parameters
+
+----version----
+language: en
+version: 1
+revision: 7bfcc1fb-bf19-40ab-8aff-8c5a558277a5
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150803T203421Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7bfcc1fb-bf19-40ab-8aff-8c5a558277a5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150803T203421:635742308616497503Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
