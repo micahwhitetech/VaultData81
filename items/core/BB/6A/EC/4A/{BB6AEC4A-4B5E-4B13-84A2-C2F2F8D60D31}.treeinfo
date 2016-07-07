@@ -1,0 +1,9 @@
+{
+  "itemName": "Deleted Item ActionGroup",
+  "templateId": "{12E9DF28-3315-419C-B302-B9F06DB4A155}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5E1D436B-F21A-4294-93A9-C24F37DDF3A0}",
+  "childIds": [
+    "{AB81A030-0FE5-40D4-8782-96211103B92E}"
+  ]
+}
