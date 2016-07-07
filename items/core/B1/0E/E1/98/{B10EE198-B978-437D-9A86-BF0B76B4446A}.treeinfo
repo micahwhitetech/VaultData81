@@ -1,0 +1,10 @@
+{
+  "itemName": "ProductName-Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{835FD556-A672-49CE-9482-175791629C05}",
+  "childIds": [
+    "{6E9D51D9-9113-4B0C-8367-D9AFFD15CF87}",
+    "{4E8BB40C-2CE3-4D5C-AAA9-4527023E9681}"
+  ]
+}

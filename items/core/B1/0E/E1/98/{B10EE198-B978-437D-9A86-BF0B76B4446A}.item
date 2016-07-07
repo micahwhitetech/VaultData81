@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {B10EE198-B978-437D-9A86-BF0B76B4446A}
+database: core
+path: /sitecore/client/Your Apps/Vault/Common/Renderings/VaultProductName/ProductName-Parameters
+parent: {835FD556-A672-49CE-9482-175791629C05}
+name: ProductName-Parameters
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+
+----field----
+field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
+name: __Base template
+key: __base template
+content-length: 38
+
+{6A9A5956-5354-48B4-A25A-DABABA738424}
+----field----
+field: {F7D48A55-2158-4F02-9356-756654404F73}
+name: __Standard values
+key: __standard values
+content-length: 38
+
+{4E8BB40C-2CE3-4D5C-AAA9-4527023E9681}
+----version----
+language: en
+version: 1
+revision: e1e86ca4-2efd-4e4e-a160-35243fb7eea0
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150714T205046Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e1e86ca4-2efd-4e4e-a160-35243fb7eea0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160225T231052Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
