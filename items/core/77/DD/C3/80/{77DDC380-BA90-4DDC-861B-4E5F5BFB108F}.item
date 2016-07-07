@@ -1,0 +1,83 @@
+----item----
+version: 1
+id: {77DDC380-BA90-4DDC-861B-4E5F5BFB108F}
+database: core
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/XSpeakRules
+parent: {B19E8875-E29E-4BB0-B4F7-735E6A6F13A1}
+name: XSpeakRules
+master: {00000000-0000-0000-0000-000000000000}
+template: {1F99AE6E-22B8-419E-81DB-A983E619325E}
+templatekey: RuleDefinition
+
+----field----
+field: {1CB967B6-8720-4F39-9779-147C3CBCFC78}
+name: Trigger
+key: trigger
+content-length: 0
+
+
+----field----
+field: {431A0113-9D08-4DAE-8C5B-AC8301512BD8}
+name: Rule
+key: rule
+content-length: 644
+
+<?xml version="1.0" encoding="utf-16"?>
+<ruleset>
+  <rule>
+    <conditions>
+      <condition id="{B5CF2ABD-0811-4220-9805-8F6E62F4F4AC}" uid="945045863EB84B9F8A1F8BD4894220D4" />
+    </conditions>
+    <actions>
+      <action id="{2A4D7853-9A50-4E8C-A65A-E5414119905E}" uid="{F0004FBA-5814-41E4-8D55-895DDB4F6090}" targetId="DCTActiveAuthors" targetProperty="UpdatedMessages" sourceId="XSpeak" sourceProperty="UpdatedMessages" />
+      <action id="{47173F0F-511E-4BA3-BA79-AEB5267C9E35}" uid="{10C11F43-81CD-4427-9830-ABBD121EE412}" targetControlId="DCTActiveAuthors" eventName="processMessages" />
+    </actions>
+  </rule>
+</ruleset>
+----version----
+language: en
+version: 1
+revision: 8b082c3a-8771-46a2-ad66-7c0e593591cf
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150925T192937Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8b082c3a-8771-46a2-ad66-7c0e593591cf
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150925T201800:635788090800100825Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
