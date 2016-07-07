@@ -1,0 +1,9 @@
+{
+  "itemName": "Funktionsmåde",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5596941A-25FC-4041-90FE-8F0CE7AE8C5A}",
+  "childIds": [
+    "{DDF55905-14BB-42D8-8668-0A94BC3012D5}"
+  ]
+}
