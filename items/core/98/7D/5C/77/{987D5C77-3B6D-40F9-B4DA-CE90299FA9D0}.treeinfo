@@ -1,0 +1,9 @@
+{
+  "itemName": "Facet",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{DFB05815-4D31-4B1D-8917-64CD3DEC382D}",
+  "childIds": [
+    "{0BDAF2F9-9BF6-439E-97CC-DFA0E293C7A2}"
+  ]
+}
