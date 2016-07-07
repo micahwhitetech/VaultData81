@@ -1,0 +1,10 @@
+{
+  "itemName": "Versions-Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A8600533-27DE-4159-AC3F-CA4D55B1E99F}",
+  "childIds": [
+    "{896588C9-2413-4766-A270-C6CB7A421565}",
+    "{7F5628C4-539F-4F79-9C48-B43D9B7AFB73}"
+  ]
+}
