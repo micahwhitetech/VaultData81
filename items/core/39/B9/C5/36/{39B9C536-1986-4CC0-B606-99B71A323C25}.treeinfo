@@ -1,0 +1,9 @@
+{
+  "itemName": "Release",
+  "templateId": "{6B2C1723-B4E0-49BE-8EF2-F1D12C969E54}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{647472D4-D9C0-406B-8E22-60DB2DC634B2}",
+  "childIds": [
+    "{15E2CACD-FFC4-44BB-8C3E-20E07AD965ED}"
+  ]
+}
