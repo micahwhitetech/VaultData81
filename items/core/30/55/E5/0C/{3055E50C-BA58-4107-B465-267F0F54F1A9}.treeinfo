@@ -1,0 +1,9 @@
+{
+  "itemName": "XSpeak",
+  "templateId": "{99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{FC355B9A-AC92-458F-844B-09C54A8BB445}",
+  "childIds": [
+    "{8EB652CC-0FE3-4071-BD9E-6A72B16C0DE3}"
+  ]
+}
