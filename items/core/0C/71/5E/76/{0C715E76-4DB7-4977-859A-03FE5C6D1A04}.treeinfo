@@ -1,0 +1,10 @@
+{
+  "itemName": "DatabasesDS-Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{783C31A5-EB33-4539-8A32-DBAC223C106D}",
+  "childIds": [
+    "{1ED0D608-43C5-4E0D-9469-2DA05E1FBB81}",
+    "{EFDB5A2E-D162-4DDD-A5D5-A880BEDA5AE8}"
+  ]
+}
