@@ -1,0 +1,9 @@
+{
+  "itemName": "Status",
+  "templateId": "{B11AFCCD-C286-4384-B694-4465D6C605DE}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{1766B494-A794-4955-8712-FA11048B65B9}",
+  "childIds": [
+    "{D6A7EDF5-CA8B-4CD1-ACFB-812108F6DB00}"
+  ]
+}
