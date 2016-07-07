@@ -1,0 +1,136 @@
+----item----
+version: 1
+id: {20BDAD14-2D2D-4FFD-AADD-1AB613456D23}
+database: core
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment
+parent: {1F70B980-52E8-497C-A8F3-68FEB24701E5}
+name: Execute Deployment
+master: {00000000-0000-0000-0000-000000000000}
+template: {B11AFCCD-C286-4384-B694-4465D6C605DE}
+templatekey: Speak-DashboardPage
+
+----field----
+field: {5E642935-A6FC-48E9-B039-FE1136CED488}
+name: Theme
+key: theme
+content-length: 7
+
+Harvard
+----field----
+field: {3A67AD0F-9530-4B1B-9B70-9230C36AE8D6}
+name: UseFullWidth
+key: usefullwidth
+content-length: 1
+
+1
+----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 1
+
+1
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 7830
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
+    <r id="{DAFAFFB8-74AF-4141-A96A-70B16834CEC6}" par="PageCodeScriptFileName=%2fsitecore%2fshell%2fclient%2fApplications%2fVault%2fCommon%2fScripts%2fXSpeakControllerDeployment.js" ph="Page.Code" uid="{237256AA-9D30-463E-9ED1-90CFF092FCF6}" />
+    <r id="{BE007891-2D9C-4E67-943C-752DBA0C041F}" ph="Page.Body" uid="{F373AD1A-6282-4295-96D7-3E29D6EE88B3}" />
+    <r id="{7A69C522-7E99-4630-A25A-5D571505862A}" par="Id=GlobalLogo" ph="GlobalHeader.StartButton" uid="{A340B9F2-9FD0-4767-9B0B-62D7C8B0E5C7}" />
+    <r id="{EA28ED83-0F59-4BB9-AA95-6FAC9C3385D6}" par="Id=NavigationToggler" ph="GlobalHeader.NavigationToggler" uid="{0330E088-D1C0-4394-8F5B-5F2E0F577D5E}" />
+    <r id="{EC86834B-890C-405C-BB36-CA25044909E1}" ph="GlobalFooter" uid="{C01DD5BD-DFC2-425B-A301-43AE8363B443}" />
+    <r id="{5AE97C0C-EE88-4564-A363-4FA11C01C90A}" ph="GlobalHeader" uid="{532C7DCD-29E7-4C34-9910-FC283D61A026}" />
+    <r id="{2EE499CD-439A-4F10-B81F-36A54CAC01DB}" par="Id=AccountInformation1" ph="GlobalHeader.LoginInfo" uid="{EBEE593F-4B1D-4D51-9A8B-027274B26138}" />
+    <r id="{EB6214BE-5687-4706-ABA6-B25C0958C85B}" ph="ApplicationContent" uid="{5C96B069-71B7-4B1D-BE44-B673DE81D9DE}" />
+    <r id="{835FD556-A672-49CE-9482-175791629C05}" par="Id=VaultProductName&amp;productName=Vault" ph="ApplicationHeader.Title" uid="{596A9361-1030-4116-80C3-41C603256390}" />
+    <r id="{93CEEFCD-2DE1-40AF-AE9A-EBBFBCCC522F}" par="ShowHeader=0" ph="ApplicationHeader" uid="{1E240370-226C-40E4-9C54-7FE8630DF74A}" />
+    <r id="{C5D667DE-AA48-4072-872E-7C8BFFCE4D44}" par="IsRootHidden=1&amp;Id=dashboardNavigation&amp;ItemsDataSource=%7b647472D4-D9C0-406B-8E22-60DB2DC634B2%7d" ph="ApplicationContent.Navigation" uid="{48C01C8A-22A8-4213-85BA-5600EC571392}" />
+    <r id="{AF79ED5D-4396-4EEC-8E22-9D7C523266FA}" par="Id=Breadcrumb1&amp;RootItemId=%7bB2D13121-76DD-4C76-8972-D4E32D1D3B2C%7d" ph="ApplicationHeader.BreadCrumb" uid="{07949568-79C1-4D4A-BD54-7DD95B3817DA}" />
+    <r id="{E0876AEA-1F02-4658-9CC4-A9A4A2E36F2A}" par="Id=VaultTargetSystemsDS" ph="ApplicationContent.Main" uid="{89821C71-4724-4F1F-A078-FA4FD9044985}" />
+    <r id="{910155C7-3881-4A56-90FB-D126490EDE55}" par="Id=VaultMessageBar" ph="ApplicationContent.Main" uid="{F1EEAEE4-B445-4966-ADE3-F30C5FE90E48}" />
+    <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=DeploymentName&amp;TextType=Title" ph="ApplicationContent.Main" uid="{26F1E5E9-8E66-44A1-BFC2-44C036213BA2}" />
+    <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="UsePadding=1&amp;Id=VaultSnapshotPanel&amp;PaddingType=Top" ph="ApplicationContent.Main" uid="{C57A6382-15A3-462E-84E8-80DAF6B539E7}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=LeftColumnPanel&amp;GridColumns=6" ph="VaultSnapshotPanel.Content" uid="{52048B27-4026-45E9-9B63-4EB4D0F3085F}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=Border2" ph="LeftColumnPanel.Content" uid="{EF6B29A8-B6F9-4EE9-A567-A8004920DFB9}" />
+    <r id="{25D357D3-3648-4336-9B53-55EED7CFA078}" par="Id=TargetSystemComboBox&amp;DisplayFieldName=SystemName&amp;WidthPolicy=%7b10E1CB3E-660F-4C5E-9F25-F67C4637D463%7d&amp;Items=%7bBinding+VaultTargetSystemsDS.targets%7d&amp;ValueFieldName=SystemDomainPrefix" ph="LeftColumnPanel.Content" uid="{8EA9DDFC-BF0D-4038-8F72-3AB175977311}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=BorderVerificationRulesList" ph="LeftColumnPanel.Content" uid="{EF6B29A8-B6F9-4EE9-A567-A8004920DFB9}" />
+    <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=VerificationRulesLabel&amp;TextType=Label&amp;Text=Verification+Rules+To+Test" ph="BorderVerificationRulesList.Content" uid="{67E88656-8FDC-423B-AB8B-DDA5632FFA58}" />
+    <r id="{A2B2E94C-9DD8-4E07-B07B-6B06C729166F}" par="Id=VerificationListing" ph="BorderVerificationRulesList.Content" uid="{2D3EEEE5-6D63-4A5F-9558-939E944D74E6}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processDeploymentEdit()%3b&amp;Id=EditDeployment&amp;IsVisible=1&amp;ButtonType=Primary&amp;Text=%c2%ab+Edit+Deployment" ph="LeftColumnPanel.Content" uid="{2C4794F6-7CC1-4974-A084-1CA104DB22F8}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processRemoteVerification()%3b&amp;Id=VerifyButton&amp;ButtonType=Primary&amp;Text=Verify+Deployment" ph="LeftColumnPanel.Content" uid="{2C4794F6-7CC1-4974-A084-1CA104DB22F8}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=RightColumnPanel&amp;GridColumns=5" ph="VaultSnapshotPanel.Content" uid="{52048B27-4026-45E9-9B63-4EB4D0F3085F}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=NotificationBorder&amp;IsVisible=0" ph="RightColumnPanel.Content" uid="{397FC728-34B4-462F-A9F3-4083828F7BB5}" />
+    <r id="{F517C5E4-9A53-46C3-B922-5B44E6DAAA48}" par="Id=SpinnerImage&amp;ImageUrl=%2fsitecore%2fshell%2fclient%2fSpeak%2fAssets%2fimg%2fSpeak%2fProgressIndicator%2fsc-spinner32.gif" ph="NotificationBorder.Content" uid="{894DFCD5-C51A-442A-81AB-3D5A54BE7180}" />
+    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=SpinnerDeploymentLabel&amp;Text=+++Deployment+is+processing..." ph="NotificationBorder.Content" uid="{1A5C3521-FD38-471A-81B1-B1CF8197B87F}" />
+    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=SpinnerVerificationLabel&amp;Text=+++Verification+is+processing...." ph="NotificationBorder.Content" uid="{1A5C3521-FD38-471A-81B1-B1CF8197B87F}" />
+    <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=RowPanel1" ph="RightColumnPanel.Content" uid="{D653792C-DF3C-4601-9EE7-FC483AB73771}" />
+    <r ds="{6DF93627-E35B-4C1C-9D84-C4E2BFB51A54}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=DeployedItemsAccordian&amp;IsCollapsible=1" ph="RowPanel1.Content" uid="{19333965-E7A0-430C-BA04-03528E523EC3}" />
+    <r id="{E6EEB869-EB0D-4D5D-9730-E2E5E2DDB7CF}" par="Id=DeployedList&amp;VerificationLevelToDisplay=DEPLOYED" ph="DeployedItemsAccordian.Body" uid="{9BECC965-CDAC-4F4C-B16A-C51E8FCD3000}" />
+    <r ds="{8AA7E454-9E01-47E4-B103-1573CC83AE3E}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=ErrorAccordian&amp;IsCollapsible=1&amp;IsOpen=0" ph="RowPanel1.Content" uid="{5D1D3331-100E-4B0C-B14C-5E5B903D9CE0}" />
+    <r id="{E6EEB869-EB0D-4D5D-9730-E2E5E2DDB7CF}" par="Id=ErrorList&amp;VerificationLevelToDisplay=ERROR" ph="ErrorAccordian.Body" uid="{9A17AB6A-1DFC-4C6D-99C0-0BCC09B93972}" />
+    <r ds="{4878FF14-2A6D-473E-A617-1197031946A9}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=SevereAccordian&amp;IsCollapsible=1&amp;IsOpen=0" ph="RowPanel1.Content" uid="{5D1D3331-100E-4B0C-B14C-5E5B903D9CE0}" />
+    <r id="{E6EEB869-EB0D-4D5D-9730-E2E5E2DDB7CF}" par="Id=SevereList&amp;VerificationLevelToDisplay=SEVERE" ph="SevereAccordian.Body" uid="{9A17AB6A-1DFC-4C6D-99C0-0BCC09B93972}" />
+    <r ds="{A1424C42-3CB6-455D-A896-F8DF2A4BD5CE}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=WarningAccordian&amp;IsCollapsible=1&amp;IsOpen=0" ph="RowPanel1.Content" uid="{5D1D3331-100E-4B0C-B14C-5E5B903D9CE0}" />
+    <r id="{E6EEB869-EB0D-4D5D-9730-E2E5E2DDB7CF}" par="Id=WarningList&amp;VerificationLevelToDisplay=WARNING" ph="WarningAccordian.Body" uid="{9A17AB6A-1DFC-4C6D-99C0-0BCC09B93972}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processRemoteDeployment()%3b&amp;Id=DeployButton&amp;IsVisible=0&amp;ButtonType=Primary&amp;Text=Execute+Deployment" ph="RightColumnPanel.Content" uid="{2C4794F6-7CC1-4974-A084-1CA104DB22F8}" />
+    <r id="{3055E50C-BA58-4107-B465-267F0F54F1A9}" par="Id=XSpeak&amp;PollingIntervalMinutes=1&amp;ControlList=ErrorList%2cSevereList%2cWarningList" ph="Page.Body" uid="{59881CC9-32D1-4A6A-8868-5B253192726C}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: 5939e4c6-314d-4c9b-94c2-6eec643c6ad4
+
+----field----
+field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
+name: BrowserTitle
+key: browsertitle
+content-length: 25
+
+Vault: Execute Deployment
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150710T162614Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5939e4c6-314d-4c9b-94c2-6eec643c6ad4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160624T004701Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
