@@ -1,0 +1,9 @@
+{
+  "itemName": "DeploymentSelection",
+  "templateId": "{8152CF09-9DD0-40C0-B806-6E91FDF389BC}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{14D4F6C1-3662-40F9-A879-98CA4C32BDAE}",
+  "childIds": [
+    "{342ADFD3-20DB-4F3F-9C13-7F60B3C047E9}"
+  ]
+}

@@ -1,0 +1,88 @@
+----item----
+version: 1
+id: {458A3755-ED26-4D6E-BDFB-BF3171C01D0C}
+database: core
+path: /sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentSelection
+parent: {14D4F6C1-3662-40F9-A879-98CA4C32BDAE}
+name: DeploymentSelection
+master: {00000000-0000-0000-0000-000000000000}
+template: {8152CF09-9DD0-40C0-B806-6E91FDF389BC}
+templatekey: Speak-DialogPage
+
+----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 1
+
+1
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 4230
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
+    <r id="{DAFAFFB8-74AF-4141-A96A-70B16834CEC6}" par="PageCodeScriptFileName=%2fsitecore%2fshell%2fclient%2fApplications%2fData+Change+Tracker%2fCommon%2fScripts%2fXSpeakControllerDeployment.js" ph="Page.Code" uid="{4B5BD1A5-2790-46BE-91C4-7BDEA86106E1}" />
+    <r id="{7BA20861-BC27-4F0E-94DD-8F974628A5C4}" ph="Page.Body" uid="{C51F4AE4-5F25-40C9-A5CF-4ED744F28EFF}" />
+    <r id="{F358D1A3-41A4-41AD-AF57-B2393DFD023A}" ph="DialogHeader" uid="{75A5EFD0-E094-4752-A1C6-34216E432B0A}" />
+    <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=Dialog+Title&amp;TextType=Title&amp;Text=Deployment+Compilation" ph="DialogHeader.Title" uid="{AB29595C-C00E-4D12-80F0-03CD4654BAB2}" />
+    <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=RowPanel" ph="DialogContent" uid="{E628F880-2D2E-4508-8A22-3DC63E0C0436}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanelLeft&amp;GridColumns=6" ph="RowPanel.Content" uid="{F316788C-0136-4F44-AD27-2EE3EAA89C04}" />
+    <r id="{7FC8A6CB-804C-4C52-BB88-38AE4648E506}" par="Id=DCTRulesList1&amp;Tooltip=Rules+Summary" ph="ColumnPanelLeft.Content" uid="{11A37179-6C60-4CEE-A95B-7C7F8FD3A5D9}" />
+    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=Label1&amp;Text=Click+icon+to+open+Rules+Editor" ph="ColumnPanelLeft.Content" uid="{FE6BE613-1E28-4581-A010-1603BEA23E9C}" />
+    <r id="{5521B8A4-2728-414D-8711-A0404515AE2C}" par="Click=javascript%3aapp.rulesWindow()%3b&amp;Id=IconButton&amp;ImageUrl=core2%2f32x32%2fproperties_h.png&amp;Tooltip=Open+Rule+Dialog&amp;Dimensions=id32x32" ph="ColumnPanelLeft.Content" uid="{C73BED07-3E64-492F-83DF-19CCFB96649E}" />
+    <r id="{41EF8D3D-6B51-4E31-B61E-417A5E652AE1}" par="Id=RulesPage&amp;IsVisible=1&amp;Height=684&amp;Width=100%25&amp;SourceUrl=%2fsitecore%2fshell%2f%7e%2fxaml%2fSitecore.Shell.Applications.Rules.RulesEditor.aspx%3fhdl%3d2BE812D2CF844214B8089EAD17B01FF8" ph="ColumnPanelLeft.Content" uid="{F35E4203-A602-4A62-8A63-57E4C642E076}" />
+    <r id="{77A6FBB3-7C7B-4044-9682-5E47C5448059}" par="IsCheckboxEnabled=1&amp;Id=DCTItemTreeView1&amp;SelectMode=2&amp;ShowHiddenItems=1&amp;RootItem=%7b11111111-1111-1111-1111-111111111111%7d&amp;Database=master" ph="ColumnPanelLeft.Content" uid="{5D9D4A84-8E96-4457-B52B-9BDC1DA486A9}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Id=ButtonProcess&amp;ButtonType=Primary&amp;Text=Process+Selections" ph="ColumnPanelLeft.Content" uid="{C2189092-61DE-456E-B2FC-36A71846A512}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Id=ButtonClear&amp;ButtonType=Default&amp;Text=Clear+Selections" ph="ColumnPanelLeft.Content" uid="{C2189092-61DE-456E-B2FC-36A71846A512}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanelRight&amp;GridColumns=4" ph="RowPanel.Content" uid="{F316788C-0136-4F44-AD27-2EE3EAA89C04}" />
+    <r id="{77A6FBB3-7C7B-4044-9682-5E47C5448059}" par="IsCheckboxEnabled=1&amp;Id=DCTItemTreeView2&amp;SelectMode=2&amp;ShowHiddenItems=1&amp;RootItem=%7b11111111-1111-1111-1111-111111111111%7d&amp;Database=master" ph="ColumnPanelRight.Content" uid="{5D9D4A84-8E96-4457-B52B-9BDC1DA486A9}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Id=ButtonSaveDeployment&amp;ButtonType=Primary&amp;Text=Save+Deployment" ph="ColumnPanelRight.Content" uid="{C2189092-61DE-456E-B2FC-36A71846A512}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Id=ButtonUpdate&amp;ButtonType=Primary&amp;Text=Update+Tree+Selections" ph="ColumnPanelRight.Content" uid="{C2189092-61DE-456E-B2FC-36A71846A512}" />
+    <r id="{835FD556-A672-49CE-9482-175791629C05}" par="Id=ProductName&amp;removeBold=0&amp;productName=The+Vault" ph="DialogFooter" uid="{47594713-28E4-499F-B02A-E9F7494C34CE}" />
+    <r id="{F517C5E4-9A53-46C3-B922-5B44E6DAAA48}" par="Id=CompanyLogo&amp;ImageUrl=%2fsitecore%2fshell%2fclient%2fApplications%2fData+Change+Tracker%2fAssets%2fimg%2fLabelLogo.png" ph="DialogFooter" uid="{5A6AE734-F900-4B53-A32E-4FE9E7C96E57}" />
+    <r id="{3055E50C-BA58-4107-B465-267F0F54F1A9}" par="Id=XSpeak" ph="Page.Body" uid="{0DF0123E-1C7C-42E8-8A5E-ECBFAD9F37A3}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: 38f7fc14-7029-47ef-b9fd-3f849d2a23be
+
+----field----
+field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
+name: BrowserTitle
+key: browsertitle
+content-length: 22
+
+Deployment Compilation
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150723T184334Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+38f7fc14-7029-47ef-b9fd-3f849d2a23be
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151119T200938:635835605787602361Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
