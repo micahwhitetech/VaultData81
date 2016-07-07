@@ -1,0 +1,81 @@
+----item----
+version: 1
+id: {44D52B72-D1BF-45B1-81DE-7FE9F64A051F}
+database: core
+path: /sitecore/client/Your Apps/Vault/Vault Dataviewer
+parent: {6899F238-87EA-47CD-8461-32EAA78FD6CB}
+name: Vault Dataviewer
+master: {00000000-0000-0000-0000-000000000000}
+template: {B11AFCCD-C286-4384-B694-4465D6C605DE}
+templatekey: Speak-DashboardPage
+
+----field----
+field: {5E642935-A6FC-48E9-B039-FE1136CED488}
+name: Theme
+key: theme
+content-length: 6
+
+Oxford
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 2184
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
+    <r id="{DAFAFFB8-74AF-4141-A96A-70B16834CEC6}" par="PageCodeScriptFileName=%2fsitecore+modules%2fVault%2fSpeak%2fPageCodes%2fDataviewer.js" ph="Page.Code" uid="{016AD247-EB50-413B-A340-DA8E1E44993A}" />
+    <r id="{BE007891-2D9C-4E67-943C-752DBA0C041F}" ph="Page.Body" uid="{24E3C80E-449A-483B-9F0F-EA8CBCF83CF0}" />
+    <r id="{A91523CD-6E56-4F08-8B21-C39018E0134A}" par="Id=GenericDataProvider" ph="Page.Body" uid="{BF6EE2DD-D637-41A9-B37F-A738B31E7FC8}" />
+    <r id="{5AE97C0C-EE88-4564-A363-4FA11C01C90A}" ph="GlobalHeader" uid="{EDB251AC-FE62-460A-AF05-35533330DF9F}" />
+    <r id="{7A69C522-7E99-4630-A25A-5D571505862A}" par="Id=GlobalLogo1" ph="GlobalHeader.StartButton" uid="{A9485716-533D-469B-B5C9-4E658156E879}" />
+    <r id="{93CEEFCD-2DE1-40AF-AE9A-EBBFBCCC522F}" ph="ApplicationHeader" uid="{CB525DFE-C22E-4EFC-875E-04A0A3588EB6}" />
+    <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=ApplicationTitle&amp;Text=Mojave+Data+Viewer" ph="ApplicationHeader.Title" uid="{337ACB39-3395-473B-86B0-90A2B71844AC}" />
+    <r id="{7C65059F-B991-4022-A461-DD5161822DCF}" ph="ApplicationContent" uid="{D91B659F-7633-4C11-9B61-629FE8FD0103}" />
+    <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=NavTitle&amp;TextType=Divider&amp;Text=Select" ph="ApplicationContent.Navigation" uid="{83722532-8A88-4867-9BF2-173DB0D4CD21}" />
+    <r ds="{A91523CD-6E56-4F08-8B21-C39018E0134A}" id="{08B6767B-8E8A-41C8-8880-EFEBB4EAE0E3}" par="Id=TreeViewSitecoreData" ph="ApplicationContent.Navigation" uid="{4446FD53-2479-46C5-9733-D7741F9AF520}" />
+    <r id="{DDF19992-89DB-4F29-82EC-F16A8C8D15B9}" par="Id=LeftNavigation" ph="ApplicationContent.Navigation" uid="{616E0B39-4459-470C-8A04-A413CFB1E11E}" />
+    <r ds="{7E29561F-6870-4138-93EF-4877F2FC6E3B}" id="{ACE0AFD6-3DE0-42CF-8E62-4E68CD810A8D}" par="Id=ListControl" ph="ApplicationContent.Main" uid="{FC1F60A6-E0D5-40D9-9F5E-A63BEBB2FCBC}" />
+    <r id="{A91523CD-6E56-4F08-8B21-C39018E0134A}" par="Id=TreeDataProvider" ph="ApplicationContent.Main" uid="{57D283BC-9FE5-45A1-8809-4EB282CF4C09}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: ce8b9601-9078-41fa-b355-dc59c52d0bed
+
+----field----
+field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
+name: BrowserTitle
+key: browsertitle
+content-length: 17
+
+Vault Data Viewer
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20140502T182117Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ce8b9601-9078-41fa-b355-dc59c52d0bed
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160225T230844Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

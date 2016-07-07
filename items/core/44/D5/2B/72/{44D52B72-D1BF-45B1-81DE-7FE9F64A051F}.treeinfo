@@ -1,0 +1,9 @@
+{
+  "itemName": "Vault Dataviewer",
+  "templateId": "{B11AFCCD-C286-4384-B694-4465D6C605DE}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6899F238-87EA-47CD-8461-32EAA78FD6CB}",
+  "childIds": [
+    "{4B81023C-5761-47BB-91B0-462D206AB244}"
+  ]
+}
