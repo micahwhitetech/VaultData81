@@ -1,0 +1,9 @@
+{
+  "itemName": "Segmenterings-ActionColumn",
+  "templateId": "{23B8F26C-0957-4328-9D82-087DD65921C6}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{66671DDE-CF14-4869-876C-9A85BE51DAE8}",
+  "childIds": [
+    "{3C0C270B-2C21-426D-B33C-4B38BAB33E72}"
+  ]
+}
