@@ -1,0 +1,9 @@
+{
+  "itemName": "Lists",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4BB2D26D-9EDB-42FC-B1B7-FA4582D74B8D}",
+  "childIds": [
+    "{04124BF7-B261-4498-BF47-E72CA0F79B25}"
+  ]
+}
