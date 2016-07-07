@@ -1,0 +1,9 @@
+{
+  "itemName": "PageSettings",
+  "templateId": "{E35EAA2D-EDEA-431C-A9E6-488272B53782}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{44D52B72-D1BF-45B1-81DE-7FE9F64A051F}",
+  "childIds": [
+    "{7E29561F-6870-4138-93EF-4877F2FC6E3B}"
+  ]
+}
