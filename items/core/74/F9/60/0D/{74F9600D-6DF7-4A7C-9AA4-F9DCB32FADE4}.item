@@ -1,0 +1,44 @@
+----item----
+version: 1
+id: {74F9600D-6DF7-4A7C-9AA4-F9DCB32FADE4}
+database: core
+path: /sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak/XSpeak-Parameters/__Standard Values
+parent: {8EB652CC-0FE3-4071-BD9E-6A72B16C0DE3}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {8EB652CC-0FE3-4071-BD9E-6A72B16C0DE3}
+templatekey: XSpeak-Parameters
+
+----version----
+language: en
+version: 1
+revision: 1f220e56-3ff3-45d4-99ee-367ed9057ecf
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150923T195704Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1f220e56-3ff3-45d4-99ee-367ed9057ecf
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150923T195704:635786350247557463Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
