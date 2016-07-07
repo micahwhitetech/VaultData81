@@ -1,0 +1,44 @@
+----item----
+version: 1
+id: {6DF7936C-BA66-4F86-B1EB-EA9394B5F040}
+database: core
+path: /sitecore/client/Your Apps/Vault/old/Most Active Authors/PageSettings/Lists/ActiveAuthors
+parent: {6BAE40F0-B07D-4FDA-86A0-E61515A033D5}
+name: ActiveAuthors
+master: {00000000-0000-0000-0000-000000000000}
+template: {871931B2-7ECE-4B24-B7D4-3474EB7EAA13}
+templatekey: ListControl
+
+----version----
+language: en
+version: 1
+revision: 865dd829-b7e3-4238-a129-fea4a09eca9d
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150803T183339Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+865dd829-b7e3-4238-a129-fea4a09eca9d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151022T202043:635811420439809829Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
