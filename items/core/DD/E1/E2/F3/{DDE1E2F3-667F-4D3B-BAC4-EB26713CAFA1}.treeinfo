@@ -1,0 +1,10 @@
+{
+  "itemName": "ResultsTab Parameters",
+  "templateId": "{87FE4E75-D567-4873-81B1-CF8560667EE0}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{78C33F78-B8EC-4879-94FD-C37E7A8E876F}",
+  "childIds": [
+    "{DED2F2E5-1738-4121-9F00-F774CB246887}",
+    "{65FF28B7-AD3E-4E3E-BD1B-416C7512DD60}"
+  ]
+}
