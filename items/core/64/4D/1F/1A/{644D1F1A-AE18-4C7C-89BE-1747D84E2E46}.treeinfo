@@ -1,0 +1,9 @@
+{
+  "itemName": "ActionGroup",
+  "templateId": "{12E9DF28-3315-419C-B302-B9F06DB4A155}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{542BEE54-F512-4199-9B42-4C4FEDBFF79D}",
+  "childIds": [
+    "{7CB40D9F-0DD0-4E58-92C4-84D55E7E727B}"
+  ]
+}
