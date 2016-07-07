@@ -1,0 +1,9 @@
+{
+  "itemName": "EcoSystem",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{8EB652CC-0FE3-4071-BD9E-6A72B16C0DE3}",
+  "childIds": [
+    "{0E62F0A2-0CE4-4036-925F-BF9417E09ED0}"
+  ]
+}
