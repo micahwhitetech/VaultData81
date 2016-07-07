@@ -1,0 +1,10 @@
+{
+  "itemName": "Results Accordian",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D75A8D5D-F97C-43F4-9779-7754B2DD964B}",
+  "childIds": [
+    "{670CB12D-B4BE-4791-9A39-928502DB6E29}",
+    "{805D5E70-4321-419E-B4C9-AA812F6D091D}"
+  ]
+}
