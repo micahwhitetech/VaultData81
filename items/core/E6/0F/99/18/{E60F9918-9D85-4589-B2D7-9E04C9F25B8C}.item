@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {E60F9918-9D85-4589-B2D7-9E04C9F25B8C}
+database: core
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/DeploymentAccordian/Deployed Accordian Parameters
+parent: {6D245BFF-37B3-4BEC-B69E-D095B66DDF28}
+name: Deployed Accordian Parameters
+master: {00000000-0000-0000-0000-000000000000}
+template: {1C98E698-030C-43FF-8B6C-08D6D7E1B8DC}
+templatekey: AdvancedExpander Parameters
+
+----version----
+language: en
+version: 1
+revision: 08f1b6e9-3576-489d-bcf8-95c38792cd29
+
+----field----
+field: {8D593EBB-4A48-4B85-8E79-BF745023BD61}
+name: Header
+key: header
+content-length: 2
+
+OK
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151228T193346Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+08f1b6e9-3576-489d-bcf8-95c38792cd29
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151230T150700:635870848203817996Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
