@@ -1,0 +1,9 @@
+{
+  "itemName": "Dashboard",
+  "templateId": "{6B2C1723-B4E0-49BE-8EF2-F1D12C969E54}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{647472D4-D9C0-406B-8E22-60DB2DC634B2}",
+  "childIds": [
+    "{F26D5284-2C62-4AB1-A140-BF62F26CC67C}"
+  ]
+}
