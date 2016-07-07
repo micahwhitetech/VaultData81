@@ -1,0 +1,10 @@
+{
+  "itemName": "VaultLabelContent-Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B0EF8411-B1B4-4B50-A17C-406A1F572386}",
+  "childIds": [
+    "{6944385C-F0BF-4A7E-9B53-DAD21BA3B37F}",
+    "{98AB50DA-F113-4692-8BA0-E89C28DF7C26}"
+  ]
+}
