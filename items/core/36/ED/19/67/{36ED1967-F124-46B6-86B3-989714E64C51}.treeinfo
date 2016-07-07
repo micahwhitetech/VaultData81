@@ -1,5 +1,5 @@
 {
-  "itemName": "複数のアイテムあり",
+  "itemName": "HasPrevItems",
   "templateId": "{455A3E98-A627-4B40-8035-E683A0331AC7}",
   "branchId": "{00000000-0000-0000-0000-000000000000}",
   "parentId": "{770F98F9-277A-470D-9068-6DD8B8CE5C65}",
