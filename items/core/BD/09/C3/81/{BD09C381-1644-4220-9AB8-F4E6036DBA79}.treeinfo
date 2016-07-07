@@ -1,0 +1,9 @@
+{
+  "itemName": "Build Deployment",
+  "templateId": "{B11AFCCD-C286-4384-B694-4465D6C605DE}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{1F70B980-52E8-497C-A8F3-68FEB24701E5}",
+  "childIds": [
+    "{D75A8D5D-F97C-43F4-9779-7754B2DD964B}"
+  ]
+}
