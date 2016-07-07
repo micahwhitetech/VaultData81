@@ -1,0 +1,10 @@
+{
+  "itemName": "Segmenterings-Accordion",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D75A8D5D-F97C-43F4-9779-7754B2DD964B}",
+  "childIds": [
+    "{0877B399-37CB-4D1A-811C-7E738986DFCB}",
+    "{43423AE3-1EAC-45F2-9BC7-7106D3D41E88}"
+  ]
+}
