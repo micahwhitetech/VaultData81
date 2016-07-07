@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {CEBCDEF4-A6C3-4BD2-AAB8-536EEAB0E7B6}
+database: core
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Select Accordian/Select ActionControl Parameters
+parent: {26BDB663-B20E-41E2-B9D8-FB5A7E7288C4}
+name: Select ActionControl Parameters
+master: {00000000-0000-0000-0000-000000000000}
+template: {9294594C-DEA2-4102-929B-60D4E1E1FBC8}
+templatekey: ActionControl Parameters
+
+----version----
+language: en
+version: 1
+revision: e9f4deea-9d63-46b2-b9ca-e09fdc8fde5f
+
+----field----
+field: {E17D3534-A424-47E3-8F2C-3DBBA705565F}
+name: Tooltip
+key: tooltip
+content-length: 7
+
+Actions
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151208T155811Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e9f4deea-9d63-46b2-b9ca-e09fdc8fde5f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20151208T155902:635851871426343108Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
