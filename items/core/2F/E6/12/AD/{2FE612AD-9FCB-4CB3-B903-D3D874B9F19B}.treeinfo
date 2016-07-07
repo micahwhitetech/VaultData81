@@ -1,0 +1,10 @@
+{
+  "itemName": "DeletedItemsDS-Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{58F7915B-F0CA-4679-A143-4748AFC92B71}",
+  "childIds": [
+    "{17B88EC2-6E1E-420E-87D5-CFC7D34BCE08}",
+    "{95F205C8-0EFD-4BEC-BE4C-18FC0DCBE705}"
+  ]
+}
