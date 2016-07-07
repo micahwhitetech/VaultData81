@@ -1,0 +1,9 @@
+{
+  "itemName": "VaultRecentActivity",
+  "templateId": "{99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5A03AA83-A824-4C44-A1EB-52B80B92A1AD}",
+  "childIds": [
+    "{EBE54C64-CEEB-4AFD-8978-5588B777A746}"
+  ]
+}
