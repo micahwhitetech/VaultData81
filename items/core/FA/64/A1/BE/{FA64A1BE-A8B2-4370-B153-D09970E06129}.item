@@ -1,0 +1,44 @@
+----item----
+version: 1
+id: {FA64A1BE-A8B2-4370-B153-D09970E06129}
+database: core
+path: /sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/__Standard Values
+parent: {5596941A-25FC-4041-90FE-8F0CE7AE8C5A}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {5596941A-25FC-4041-90FE-8F0CE7AE8C5A}
+templatekey: DeploymentItemsDS-Parameters
+
+----version----
+language: en
+version: 1
+revision: 53b075cf-1da5-4a73-aaf1-eafec64129ef
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160120T183438Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+53b075cf-1da5-4a73-aaf1-eafec64129ef
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20160121T143029:635889834290179768Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
