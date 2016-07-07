@@ -1,0 +1,9 @@
+{
+  "itemName": "LabelDatabase",
+  "templateId": "{8152CF09-9DD0-40C0-B806-6E91FDF389BC}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{C5D803C7-B76F-467C-96CD-1D656F4129EB}",
+  "childIds": [
+    "{78F922BB-98F5-405F-9648-1A6DACFC50C7}"
+  ]
+}
