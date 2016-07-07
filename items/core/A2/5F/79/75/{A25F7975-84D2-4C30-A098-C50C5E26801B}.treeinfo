@@ -1,0 +1,9 @@
+{
+  "itemName": "Søg",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D457B771-D551-4C81-9D63-20B00BF671D4}",
+  "childIds": [
+    "{6CD7280A-67A7-4619-A7C3-FE1A2AD74E86}"
+  ]
+}
