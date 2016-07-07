@@ -1,0 +1,10 @@
+{
+  "itemName": "SelectTab Parameters",
+  "templateId": "{87FE4E75-D567-4873-81B1-CF8560667EE0}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{78C33F78-B8EC-4879-94FD-C37E7A8E876F}",
+  "childIds": [
+    "{5C92C232-6B58-45B4-AC6A-9CAD10B47350}",
+    "{7BBA1E65-78E4-4AEF-8389-2300E87FE84D}"
+  ]
+}
