@@ -1,0 +1,10 @@
+{
+  "itemName": "ListControl-parametre",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{E39E4319-6F24-46EC-B148-AF8689FEACB3}",
+  "childIds": [
+    "{474461F6-D3DA-4672-9374-225AC9CBB616}",
+    "{D616D881-E705-417B-9F02-77CA711EAB00}"
+  ]
+}
