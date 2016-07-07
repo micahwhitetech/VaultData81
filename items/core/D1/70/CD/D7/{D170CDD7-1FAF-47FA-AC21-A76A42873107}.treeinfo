@@ -1,0 +1,9 @@
+{
+  "itemName": "Deleted Items",
+  "templateId": "{B11AFCCD-C286-4384-B694-4465D6C605DE}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{20913C22-DCB4-42A3-8C15-FEAA3CD3EC8C}",
+  "childIds": [
+    "{045AD94C-2F6A-4D8C-8856-C5F8F2B9DD7E}"
+  ]
+}
