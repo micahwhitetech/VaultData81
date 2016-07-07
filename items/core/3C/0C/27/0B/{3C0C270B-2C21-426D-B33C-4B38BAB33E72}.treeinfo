@@ -1,0 +1,9 @@
+{
+  "itemName": "Segmentation ActionGroup",
+  "templateId": "{12E9DF28-3315-419C-B302-B9F06DB4A155}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{BC79E964-983D-46C6-9C13-636494F3AF89}",
+  "childIds": [
+    "{EB39F41E-983C-4F62-883D-75ABFAE9D04C}"
+  ]
+}
