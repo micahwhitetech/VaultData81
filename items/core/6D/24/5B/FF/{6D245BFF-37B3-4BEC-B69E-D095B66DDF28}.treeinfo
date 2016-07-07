@@ -1,0 +1,9 @@
+{
+  "itemName": "DeploymentAccordian",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A5F2D77D-5B23-49DE-A6EB-34F062CE0A66}",
+  "childIds": [
+    "{E60F9918-9D85-4589-B2D7-9E04C9F25B8C}"
+  ]
+}
