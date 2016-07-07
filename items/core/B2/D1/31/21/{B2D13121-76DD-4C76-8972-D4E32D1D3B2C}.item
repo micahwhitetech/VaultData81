@@ -1,0 +1,122 @@
+----item----
+version: 1
+id: {B2D13121-76DD-4C76-8972-D4E32D1D3B2C}
+database: core
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard
+parent: {6899F238-87EA-47CD-8461-32EAA78FD6CB}
+name: Vault Dashboard
+master: {00000000-0000-0000-0000-000000000000}
+template: {B11AFCCD-C286-4384-B694-4465D6C605DE}
+templatekey: Speak-DashboardPage
+
+----field----
+field: {5E642935-A6FC-48E9-B039-FE1136CED488}
+name: Theme
+key: theme
+content-length: 6
+
+Oxford
+----field----
+field: {3A67AD0F-9530-4B1B-9B70-9230C36AE8D6}
+name: UseFullWidth
+key: usefullwidth
+content-length: 1
+
+1
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 33
+
+XCentium/16x16/Dashboard_icon.png
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 3194
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
+    <r id="{DAFAFFB8-74AF-4141-A96A-70B16834CEC6}" par="PageCodeScriptFileName=%2fsitecore%2fshell%2fclient%2fApplications%2fVault%2fCommon%2fScripts%2fXSpeakController.js" ph="Page.Code" uid="{237256AA-9D30-463E-9ED1-90CFF092FCF6}" />
+    <r id="{BE007891-2D9C-4E67-943C-752DBA0C041F}" ph="Page.Body" uid="{F373AD1A-6282-4295-96D7-3E29D6EE88B3}" />
+    <r id="{835FD556-A672-49CE-9482-175791629C05}" par="Id=VaultProductName1&amp;productName=Vault" ph="ApplicationHeader.Title" uid="{25101088-C2E5-40E0-83CC-7CBE05C62877}" />
+    <r id="{AF79ED5D-4396-4EEC-8E22-9D7C523266FA}" par="Id=Breadcrumb1&amp;RootItemId=%7bB2D13121-76DD-4C76-8972-D4E32D1D3B2C%7d" ph="ApplicationHeader.BreadCrumb" uid="{7C82DD53-5BE7-4744-AF60-B4EC479E8E06}" />
+    <r id="{5AE97C0C-EE88-4564-A363-4FA11C01C90A}" ph="GlobalHeader" uid="{532C7DCD-29E7-4C34-9910-FC283D61A026}" />
+    <r id="{7A69C522-7E99-4630-A25A-5D571505862A}" par="Id=GlobalLogo" ph="GlobalHeader.StartButton" uid="{A340B9F2-9FD0-4767-9B0B-62D7C8B0E5C7}" />
+    <r id="{EA28ED83-0F59-4BB9-AA95-6FAC9C3385D6}" par="Id=NavigationToggler" ph="GlobalHeader.NavigationToggler" uid="{0330E088-D1C0-4394-8F5B-5F2E0F577D5E}" />
+    <r id="{2EE499CD-439A-4F10-B81F-36A54CAC01DB}" par="Id=AccountInformation1" ph="GlobalHeader.LoginInfo" uid="{EBEE593F-4B1D-4D51-9A8B-027274B26138}" />
+    <r id="{EC86834B-890C-405C-BB36-CA25044909E1}" ph="GlobalFooter" uid="{C01DD5BD-DFC2-425B-A301-43AE8363B443}" />
+    <r id="{93CEEFCD-2DE1-40AF-AE9A-EBBFBCCC522F}" par="ShowHeader=0" ph="ApplicationHeader" uid="{1E240370-226C-40E4-9C54-7FE8630DF74A}" />
+    <r id="{EB6214BE-5687-4706-ABA6-B25C0958C85B}" ph="ApplicationContent" uid="{5C96B069-71B7-4B1D-BE44-B673DE81D9DE}" />
+    <r id="{C5D667DE-AA48-4072-872E-7C8BFFCE4D44}" par="IsRootHidden=1&amp;Id=dashboardMenu&amp;ItemsDataSource=%7b647472D4-D9C0-406B-8E22-60DB2DC634B2%7d" ph="ApplicationContent.Navigation" uid="{260AA5B7-3F14-471A-BE28-51E829BCA8DE}" />
+    <r id="{910155C7-3881-4A56-90FB-D126490EDE55}" par="Id=VaultMessageBar" ph="ApplicationContent.Main" uid="{33149E6B-8193-4F36-9408-A408BC381007}" />
+    <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=RowPanelTiles" ph="ApplicationContent.Main" uid="{E3FA32C9-D05D-4C38-BA59-F3823C412F62}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanelTiles&amp;ApplyGridColumsToAllSizes=0&amp;GridColumns=6" ph="RowPanelTiles.Content" uid="{7C00EFBD-386E-4C47-92D9-70BB027C745D}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanelRight&amp;GridColumns=6" ph="RowPanelTiles.Content" uid="{2C1218E8-0624-463C-94BE-3F32492A420F}" />
+    <r id="{AA0E503D-BB64-4978-907C-CD1E343C4B11}" ph="ColumnPanelTiles.Content" uid="{0EADE017-77FC-4E73-9161-4D7257933CC2}" />
+    <r id="{C6DFAFFC-856E-4C79-AE45-4B7357CAFFD0}" ph="ColumnPanelRight.Content" uid="{B4CD333F-49F8-4B03-8C01-DA7768341531}" />
+    <r id="{3055E50C-BA58-4107-B465-267F0F54F1A9}" par="Id=XSpeak&amp;PollingIntervalMinutes=1&amp;ControlList=DCTActivity" ph="Page.Body" uid="{52D6630F-4283-441E-99FE-3C7BADC57322}" />
+  </d>
+</r>
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: a66a78fa-daa9-4533-a716-d5918133057c
+
+----field----
+field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
+name: BrowserTitle
+key: browsertitle
+content-length: 20
+
+The Vault: Dashboard
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 9
+
+Dashboard
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150630T195146Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a66a78fa-daa9-4533-a716-d5918133057c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160624T004634Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
