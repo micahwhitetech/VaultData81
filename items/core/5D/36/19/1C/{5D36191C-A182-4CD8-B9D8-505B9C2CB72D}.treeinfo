@@ -1,0 +1,10 @@
+{
+  "itemName": "ItemVersionsDS-Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{7B082988-8342-484E-8161-6B26D9EE931B}",
+  "childIds": [
+    "{B226B4AA-55D6-4DEB-BBCF-D4F6240DC58C}",
+    "{F7E9A98B-1F28-4B17-AA5E-E375EFC91D86}"
+  ]
+}
