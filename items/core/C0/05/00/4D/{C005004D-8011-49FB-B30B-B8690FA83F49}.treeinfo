@@ -1,0 +1,10 @@
+{
+  "itemName": "Snapshot Accordian",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4BB2D26D-9EDB-42FC-B1B7-FA4582D74B8D}",
+  "childIds": [
+    "{651CC6A3-4A2F-4414-8A5D-22B7A8D1E257}",
+    "{491C14C1-BB5B-4FD9-A2C9-90669854F987}"
+  ]
+}
