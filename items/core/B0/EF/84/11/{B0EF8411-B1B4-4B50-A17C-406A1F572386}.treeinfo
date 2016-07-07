@@ -1,0 +1,9 @@
+{
+  "itemName": "VaultLabelContent",
+  "templateId": "{99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F07F43CD-74D9-47E6-A8B8-91923CF64184}",
+  "childIds": [
+    "{24431A54-AF66-4E1C-9F93-EBE263174F96}"
+  ]
+}
