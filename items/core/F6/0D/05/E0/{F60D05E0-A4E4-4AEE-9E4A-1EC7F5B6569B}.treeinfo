@@ -1,0 +1,9 @@
+{
+  "itemName": "LabelInformationDS",
+  "templateId": "{99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{E07F0766-3975-42E3-8C37-4B90DECD179A}",
+  "childIds": [
+    "{45380BE6-36DB-4150-819A-DF985F38E598}"
+  ]
+}
