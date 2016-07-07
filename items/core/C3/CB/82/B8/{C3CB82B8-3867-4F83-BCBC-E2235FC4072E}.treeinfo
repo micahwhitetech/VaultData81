@@ -1,0 +1,11 @@
+{
+  "itemName": "SelectableVerificationList-Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5DA9D7E0-3D7E-40EC-A1B9-DFBACB764646}",
+  "childIds": [
+    "{08E93857-F964-4D12-9D65-24CB6F4B3961}",
+    "{D04CC789-260C-4481-9B15-96B5B3E06A39}",
+    "{31F404C3-F509-4CF2-A8D8-8316A3C8C56B}"
+  ]
+}
