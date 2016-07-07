@@ -1,0 +1,9 @@
+{
+  "itemName": "Error Accordian",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{CE8E61C7-EA94-4084-B9EE-1F94CC4FDEA3}",
+  "childIds": [
+    "{8AA7E454-9E01-47E4-B103-1573CC83AE3E}"
+  ]
+}
