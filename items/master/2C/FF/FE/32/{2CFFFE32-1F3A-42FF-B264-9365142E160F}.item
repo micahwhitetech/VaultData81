@@ -12,7 +12,7 @@ templatekey: All Fields
 ----version----
 language: en
 version: 1
-revision: 387d4b39-fddd-48f3-bac3-341c4156ed11
+revision: 69d7cc73-fb94-4de4-81a5-77afee1ca432
 
 ----field----
 field: {2961D3C1-59AF-4020-B25D-F8CDF86EAE9E}
@@ -32,9 +32,9 @@ I promise I'm nosdfwwwfddsdfst going insane
 field: {F47C99EB-9C5B-45E4-A399-70A00B0714C8}
 name: Number Field
 key: number field
-content-length: 8
+content-length: 6
 
-12345678
+123678
 ----field----
 field: {EEA9522B-9552-4555-8A59-4DAF704C15AF}
 name: Rich Text Field
@@ -90,14 +90,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-387d4b39-fddd-48f3-bac3-341c4156ed11
+69d7cc73-fb94-4de4-81a5-77afee1ca432
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160708T164054Z
+20160708T164103Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
