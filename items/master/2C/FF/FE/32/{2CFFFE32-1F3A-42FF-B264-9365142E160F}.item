@@ -12,7 +12,7 @@ templatekey: All Fields
 ----version----
 language: en
 version: 1
-revision: 1ce026a8-1062-43fb-9769-25c61e22cb12
+revision: f450d444-c710-4106-ba1f-e8a8e7775379
 
 ----field----
 field: {2961D3C1-59AF-4020-B25D-F8CDF86EAE9E}
@@ -39,9 +39,9 @@ content-length: 8
 field: {EEA9522B-9552-4555-8A59-4DAF704C15AF}
 name: Rich Text Field
 key: rich text field
-content-length: 4
+content-length: 25
 
-wwge
+hello world goodbye world
 ----field----
 field: {B757DF9B-55B2-47C1-9959-407C6718E089}
 name: Date Field
@@ -90,14 +90,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1ce026a8-1062-43fb-9769-25c61e22cb12
+f450d444-c710-4106-ba1f-e8a8e7775379
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160708T164145Z
+20160708T164315Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
