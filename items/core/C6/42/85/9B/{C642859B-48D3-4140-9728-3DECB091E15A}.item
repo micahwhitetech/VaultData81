@@ -34,11 +34,12 @@ content-length: 1
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 18177
+content-length: 18484
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
     <r id="{DAFAFFB8-74AF-4141-A96A-70B16834CEC6}" par="PageCodeScriptFileName=%2fsitecore%2fshell%2fclient%2fApplications%2fVault%2fCommon%2fScripts%2fXSpeakControllerReports.js" ph="Page.Code" uid="{237256AA-9D30-463E-9ED1-90CFF092FCF6}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Id=ReportViewItemButton&amp;IsVisible=%7bBinding+dlDataSource.HasItems%7d&amp;IsEnabled=%7bBinding+lcReport.HasSelectedItem%7d&amp;ButtonType=Primary&amp;Text=Open+Selected" ph="bPagingButtons.Content" uid="{AFB15448-AB57-4783-8057-E79006408EDA}" />
     <r id="{BE007891-2D9C-4E67-943C-752DBA0C041F}" ph="Page.Body" uid="{F373AD1A-6282-4295-96D7-3E29D6EE88B3}" />
     <r id="{A1AC5E61-CCEF-4E22-848E-C728D7BEFBDD}" par="PageSize=20&amp;Id=dlDataSource" ph="Page.Body" uid="{09423A82-C058-42AC-9401-ECEA3C9C9113}" />
     <r id="{B60FB581-44D1-4372-86A2-D6E494F020E1}" par="HeaderText=Advanced&amp;Id=dwAdvanced" ph="Page.Body" uid="{F2A46295-BB8C-443C-86B1-5F339FAA140F}" />
@@ -180,3 +181,43 @@ key: __updated by
 content-length: 18
 
 extranet\Anonymous
+----version----
+language: en
+version: 2
+revision: 4e174b3f-ff7c-4b58-aba9-59058c200296
+
+----field----
+field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
+name: BrowserTitle
+key: browsertitle
+content-length: 14
+
+Vault: Reports
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150710T162614Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4e174b3f-ff7c-4b58-aba9-59058c200296
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160711T203209Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
