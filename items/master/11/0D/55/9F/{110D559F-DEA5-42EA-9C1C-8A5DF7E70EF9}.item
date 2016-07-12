@@ -312,15 +312,15 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 5db655d7-6943-4968-9e8d-0a17914f9b2f
+revision: b1571d0f-bb86-49c5-920e-0b0708ad6654
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
 name: Title
 key: title
-content-length: 23
+content-length: 25
 
-Sitecore Experience Pla
+Sitecore Experience Plaff
 ----field----
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
@@ -395,14 +395,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5db655d7-6943-4968-9e8d-0a17914f9b2f
+b1571d0f-bb86-49c5-920e-0b0708ad6654
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160707T183619Z
+20160712T185259Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
