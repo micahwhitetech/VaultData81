@@ -12,8 +12,22 @@ templatekey: All Fields
 ----version----
 language: en
 version: 1
-revision: 7ef4cc19-4822-47d9-b0c2-824a613c35af
+revision: 3917af9c-8c90-43a6-b6d5-6b72f34c6174
 
+----field----
+field: {2961D3C1-59AF-4020-B25D-F8CDF86EAE9E}
+name: Single Line Text Field
+key: single line text field
+content-length: 6
+
+yippie
+----field----
+field: {A8D5E163-06D9-442B-A68E-2BAFBE686BAE}
+name: Multi Line Text Field
+key: multi line text field
+content-length: 6
+
+ki-yay
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -41,14 +55,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7ef4cc19-4822-47d9-b0c2-824a613c35af
+3917af9c-8c90-43a6-b6d5-6b72f34c6174
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160714T204511Z
+20160714T204735Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
