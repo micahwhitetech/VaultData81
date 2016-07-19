@@ -19,7 +19,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 4ed9076d-8fd6-4c58-93b1-a796bf9e267c
+revision: 1055929e-a3d8-4675-84ca-82ff22f6e588
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -48,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4ed9076d-8fd6-4c58-93b1-a796bf9e267c
+1055929e-a3d8-4675-84ca-82ff22f6e588
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160719T210819Z
+20160719T210905Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -70,3 +70,10 @@ key: __workflow state
 content-length: 38
 
 {190B1C84-F1BE-47ED-AA41-F42193D9C8FC}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 52
+
+<r owner="sitecore\admin" date="20160719T210905Z" />
