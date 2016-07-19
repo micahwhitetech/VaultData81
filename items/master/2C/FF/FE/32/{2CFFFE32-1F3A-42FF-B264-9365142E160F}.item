@@ -12,15 +12,15 @@ templatekey: All Fields
 ----version----
 language: en
 version: 1
-revision: 9bc0b694-6d97-4e7f-99a1-0f0c48d0639e
+revision: efe1ab43-014e-48ce-9755-607143281bd1
 
 ----field----
 field: {2961D3C1-59AF-4020-B25D-F8CDF86EAE9E}
 name: Single Line Text Field
 key: single line text field
-content-length: 39
+content-length: 28
 
-I promise I'm noasdhosdfst going insane
+I promise I'm noasdhosdfst g
 ----field----
 field: {A8D5E163-06D9-442B-A68E-2BAFBE686BAE}
 name: Multi Line Text Field
@@ -90,14 +90,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9bc0b694-6d97-4e7f-99a1-0f0c48d0639e
+efe1ab43-014e-48ce-9755-607143281bd1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160711T163537Z
+20160719T154424Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -105,3 +105,10 @@ key: __updated by
 content-length: 14
 
 sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 52
+
+<r owner="sitecore\admin" date="20160719T154424Z" />
