@@ -19,7 +19,7 @@ content-length: 158
 ----version----
 language: en
 version: 1
-revision: a8e6dced-1b69-4e9b-a83c-6e1c4f36840d
+revision: 880eece1-634f-490b-b1e7-7245d8bdbbf0
 
 ----field----
 field: {96E43D34-70FC-4AF9-B84A-F3926DDD6718}
@@ -27,7 +27,7 @@ name: Query
 key: query
 content-length: 163
 
-Timestamp BETWEEN "2016-03-01T08:00:00.000Z" AND "2016-05-12T06:59:59.000Z" AND (Database = "master" AND EventType != "PackageInstall" AND EventType != "Snapshot")
+Timestamp BETWEEN "2016-05-01T08:00:00.000Z" AND "2016-07-19T06:59:59.000Z" AND (Database = "master" AND EventType != "PackageInstall" AND EventType != "Snapshot")
 ----field----
 field: {EFA0B7F3-1879-46E2-85EF-E399A53CD3A9}
 name: Filters
@@ -41,14 +41,14 @@ name: Start Date
 key: start date
 content-length: 8
 
-20160301
+20160501
 ----field----
 field: {14148E97-C12C-41D7-8E7B-A2F8B5C139CD}
 name: End Date
 key: end date
 content-length: 8
 
-20160511
+20160719
 ----field----
 field: {EBB4296D-83E6-4657-B8B9-7AB766117184}
 name: CombineEvents
@@ -83,14 +83,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a8e6dced-1b69-4e9b-a83c-6e1c4f36840d
+880eece1-634f-490b-b1e7-7245d8bdbbf0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160719T172449Z
+20160719T172711Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
