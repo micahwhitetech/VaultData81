@@ -19,7 +19,7 @@ content-length: 158
 ----version----
 language: en
 version: 1
-revision: 50898219-ee5f-420b-a731-169ef8c7e289
+revision: 7cb8bf21-713d-4dfd-b846-4d2019d25a3b
 
 ----field----
 field: {96E43D34-70FC-4AF9-B84A-F3926DDD6718}
@@ -32,9 +32,9 @@ Timestamp BETWEEN "2016-06-19T04:00:00.000Z" AND "2016-07-20T03:59:59.000Z"
 field: {0FF8D388-BF06-418D-9EAE-4890C9DA9BD6}
 name: Start Date
 key: start date
-content-length: 15
+content-length: 8
 
-20160619T000000
+20160619
 ----field----
 field: {14148E97-C12C-41D7-8E7B-A2F8B5C139CD}
 name: End Date
@@ -76,14 +76,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-50898219-ee5f-420b-a731-169ef8c7e289
+7cb8bf21-713d-4dfd-b846-4d2019d25a3b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160719T213819Z
+20160719T213830Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
