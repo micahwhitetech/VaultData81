@@ -19,22 +19,22 @@ content-length: 158
 ----version----
 language: en
 version: 1
-revision: 433c3555-7c81-4b67-b7b5-a02137004fb4
+revision: a2de54e3-19b9-487c-8388-c057a6c5175c
 
 ----field----
 field: {96E43D34-70FC-4AF9-B84A-F3926DDD6718}
 name: Query
 key: query
-content-length: 81
+content-length: 0
 
-Database = "master" AND EventType != "PackageInstall" AND EventType != "Snapshot"
+
 ----field----
 field: {EFA0B7F3-1879-46E2-85EF-E399A53CD3A9}
 name: Filters
 key: filters
-content-length: 73
+content-length: 0
 
-Database = "master"|EventType != "PackageInstall"|EventType != "Snapshot"
+
 ----field----
 field: {0FF8D388-BF06-418D-9EAE-4890C9DA9BD6}
 name: Start Date
@@ -83,14 +83,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-433c3555-7c81-4b67-b7b5-a02137004fb4
+a2de54e3-19b9-487c-8388-c057a6c5175c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160719T163138Z
+20160719T165255Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
