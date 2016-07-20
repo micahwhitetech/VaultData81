@@ -19,7 +19,7 @@ content-length: 158
 ----version----
 language: en
 version: 1
-revision: af1547c6-2bb8-4253-9f2c-e2f10465e966
+revision: e541fc7f-aa72-4ec2-b96f-6b09e0c85637
 
 ----field----
 field: {96E43D34-70FC-4AF9-B84A-F3926DDD6718}
@@ -39,9 +39,9 @@ ItemName != "Ham Sandwich"
 field: {0FF8D388-BF06-418D-9EAE-4890C9DA9BD6}
 name: Start Date
 key: start date
-content-length: 15
+content-length: 8
 
-20160620T000000
+20160620
 ----field----
 field: {14148E97-C12C-41D7-8E7B-A2F8B5C139CD}
 name: End Date
@@ -62,7 +62,7 @@ name: __Display name
 key: __display name
 content-length: 3
 
-TB3
+TB4
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -83,14 +83,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-af1547c6-2bb8-4253-9f2c-e2f10465e966
+e541fc7f-aa72-4ec2-b96f-6b09e0c85637
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160720T170101Z
+20160720T172622Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
