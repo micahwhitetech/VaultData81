@@ -56,8 +56,8 @@ content-length: 20051
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bSaveAs&amp;PaddingType=Top&amp;UsePadding=1&amp;ShowBorder=0" ph="ColumnPanel2.Content" uid="{F4360958-A7CC-4E15-82A3-5FF456B9D1C8}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bRemove&amp;PaddingType=Top&amp;UsePadding=1&amp;ShowBorder=0" ph="ColumnPanel2.Content" uid="{F4360958-A7CC-4E15-82A3-5FF456B9D1C8}" />
     <r id="{3824DAB6-745A-468A-9D75-044591E72FB5}" par="Id=chkGroupEvents&amp;Text=Group+Events" ph="bOther.Content" uid="{CEF09DA3-80DC-4770-A90F-7168A0A8B294}" />
-    <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=show%3adwConfirmRemove&amp;Id=hlRemoveReport&amp;Text=Remove+Report" ph="bRemove.Content" uid="{C647CE2D-2F0B-4BAD-B48C-33D8F15F1574}" />
     <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=javascript%3aapp.saveReportClick(true)&amp;Id=hlSaveAs&amp;Text=Save+As" ph="bSaveAs.Content" uid="{C647CE2D-2F0B-4BAD-B48C-33D8F15F1574}" />
+    <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=show%3adwConfirmRemove&amp;Id=hlRemoveReport&amp;Text=Remove+Report" ph="bRemove.Content" uid="{C647CE2D-2F0B-4BAD-B48C-33D8F15F1574}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.advancedApply()&amp;Id=btnAdvancedApply&amp;Text=Apply" ph="dwAdvanced.Buttons" uid="{B3059452-9ED4-4A73-B718-A5BD1142E09D}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=hide%3adwAdvanced&amp;Id=btnAdvancedCancel&amp;Text=Cancel" ph="dwAdvanced.Buttons" uid="{9B19487D-60C8-4AF6-A7D5-2DDFEEAC4B71}" />
     <r id="{B60FB581-44D1-4372-86A2-D6E494F020E1}" par="HeaderText=Report&amp;Id=dwConfirmRemove&amp;Size=%7bC2E3A7F7-BD13-4312-A6A7-C03E08951DCC%7d" ph="Page.Body" uid="{F55ECF86-5436-40CB-A183-BDBBBAD5E344}" />
@@ -191,7 +191,7 @@ extranet\Anonymous
 ----version----
 language: en
 version: 2
-revision: bef23c7e-3508-43ca-ac6f-b7a351dcf194
+revision: 076be5ef-2a01-4f0e-8aae-661c14f3e7f7
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
@@ -213,14 +213,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bef23c7e-3508-43ca-ac6f-b7a351dcf194
+076be5ef-2a01-4f0e-8aae-661c14f3e7f7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160720T200130Z
+20160720T200521Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
