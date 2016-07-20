@@ -19,22 +19,22 @@ content-length: 158
 ----version----
 language: en
 version: 1
-revision: 7012dcd4-1ec7-43c0-b87b-e46b2ed8e855
+revision: cd951e94-6fa3-4efc-8af0-7d7707ba9af4
 
 ----field----
 field: {96E43D34-70FC-4AF9-B84A-F3926DDD6718}
 name: Query
 key: query
-content-length: 115
+content-length: 137
 
-Timestamp BETWEEN "2016-06-22T04:00:00.000Z" AND "2016-07-19T03:59:59.000Z" AND (ItemName != "Bob the Dark Wizard")
+Timestamp BETWEEN "2016-06-22T04:00:00.000Z" AND "2016-07-19T03:59:59.000Z" AND (ItemName != "Bob the Dark Wizard" AND ItemName != "Ted")
 ----field----
 field: {EFA0B7F3-1879-46E2-85EF-E399A53CD3A9}
 name: Filters
 key: filters
-content-length: 33
+content-length: 51
 
-ItemName != "Bob the Dark Wizard"
+ItemName != "Bob the Dark Wizard"|ItemName != "Ted"
 ----field----
 field: {0FF8D388-BF06-418D-9EAE-4890C9DA9BD6}
 name: Start Date
@@ -83,14 +83,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7012dcd4-1ec7-43c0-b87b-e46b2ed8e855
+cd951e94-6fa3-4efc-8af0-7d7707ba9af4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160720T164407Z
+20160720T164456Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
