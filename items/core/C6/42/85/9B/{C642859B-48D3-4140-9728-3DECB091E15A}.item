@@ -34,7 +34,7 @@ content-length: 1
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 18528
+content-length: 18738
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
@@ -55,6 +55,7 @@ content-length: 18528
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bOther" ph="ColumnPanel2.Content" uid="{6B1FB47C-B39C-4DBD-82EA-8A4C23AE3D47}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bRemove&amp;PaddingType=Top&amp;UsePadding=1&amp;ShowBorder=0" ph="ColumnPanel2.Content" uid="{F4360958-A7CC-4E15-82A3-5FF456B9D1C8}" />
     <r id="{3824DAB6-745A-468A-9D75-044591E72FB5}" par="Id=chkGroupEvents&amp;Text=Group+Events" ph="bOther.Content" uid="{CEF09DA3-80DC-4770-A90F-7168A0A8B294}" />
+    <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=javascript%3aapp.saveReportClick(true)&amp;Id=hlSaveAs&amp;Text=Save+As" ph="bRemove.Content" uid="{C647CE2D-2F0B-4BAD-B48C-33D8F15F1574}" />
     <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=show%3adwConfirmRemove&amp;Id=hlRemoveReport&amp;Text=Remove+Report" ph="bRemove.Content" uid="{C647CE2D-2F0B-4BAD-B48C-33D8F15F1574}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.advancedApply()&amp;Id=btnAdvancedApply&amp;Text=Apply" ph="dwAdvanced.Buttons" uid="{B3059452-9ED4-4A73-B718-A5BD1142E09D}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=hide%3adwAdvanced&amp;Id=btnAdvancedCancel&amp;Text=Cancel" ph="dwAdvanced.Buttons" uid="{9B19487D-60C8-4AF6-A7D5-2DDFEEAC4B71}" />
@@ -86,7 +87,7 @@ content-length: 18528
     <r id="{3CAC8515-EA11-4B97-A1E5-546DC6FC5E59}" par="Id=dpStartDate&amp;ViewMode=Textbox&amp;FirstDay=Sunday&amp;Format=mm%2fdd%2fyyyy&amp;ShowOtherMonths=1" ph="aeTopReport.ActionBar" uid="{F0CBED6D-054E-4EDD-8804-FD6594850ACE}" />
     <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=txtTo&amp;Text=+to+" ph="aeTopReport.ActionBar" uid="{856D38D1-4D78-4B76-8458-FB2CB97EF891}" />
     <r id="{3CAC8515-EA11-4B97-A1E5-546DC6FC5E59}" par="Id=dpEndDate&amp;FirstDay=Sunday&amp;Format=mm%2fdd%2fyyyy&amp;ShowToday=1" ph="aeTopReport.ActionBar" uid="{2BFD0927-FB5D-45EC-B658-69CA74F63680}" />
-    <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=javascript%3aapp.saveReportClick()&amp;Id=hlSave&amp;Text=Save" ph="aeTopReport.ActionBar" uid="{DF63DF51-59C1-496D-A16D-5FDF7FF3D63D}" />
+    <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=javascript%3aapp.saveReportClick(false)&amp;Id=hlSave&amp;Text=Save" ph="aeTopReport.ActionBar" uid="{DF63DF51-59C1-496D-A16D-5FDF7FF3D63D}" />
     <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=txtSeparator&amp;Text=+%7c+" ph="aeTopReport.ActionBar" uid="{745232E9-3A03-43E3-898C-A754D307C8FE}" />
     <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=show%3adwAdvanced&amp;Id=hlAdvance&amp;Text=Advanced" ph="aeTopReport.ActionBar" uid="{DF63DF51-59C1-496D-A16D-5FDF7FF3D63D}" />
     <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=rowFilters" ph="aeTopReportContainer.Content" uid="{137076DC-6BCF-4DA5-92DD-B110F2887946}" />
@@ -184,7 +185,7 @@ extranet\Anonymous
 ----version----
 language: en
 version: 2
-revision: 36c2f48f-92cb-47f1-bd8d-e7b8972ce958
+revision: 6f6d2a32-1c95-41ff-a0a6-1fc21d7a1d8a
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
@@ -206,14 +207,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-36c2f48f-92cb-47f1-bd8d-e7b8972ce958
+6f6d2a32-1c95-41ff-a0a6-1fc21d7a1d8a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160711T214709Z
+20160720T163743Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
