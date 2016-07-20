@@ -34,7 +34,7 @@ content-length: 1
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 19842
+content-length: 19848
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
@@ -71,7 +71,7 @@ content-length: 19842
     <r id="{57F86E9A-1844-45CE-BF8A-62900AE17A92}" par="IsEnabled=1&amp;Id=tbReportName&amp;IsVisible=1" ph="dwPromptReportName.Content" uid="{9ED73CF1-2793-4593-ABD3-479E93B19E25}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.saveReport(this.tbReportName.get(%22text%22)%2c+true)&amp;Id=btnOkSaveAs&amp;Text=Ok" ph="dwPromptReportNameSaveAs.Buttons" uid="{6CA95E08-E3F5-4172-A57C-7849597BB31A}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.saveReport(this.tbReportName.get(%22text%22)%2c+false)&amp;Id=btnOk&amp;Text=Ok" ph="dwPromptReportName.Buttons" uid="{6CA95E08-E3F5-4172-A57C-7849597BB31A}" />
-    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=hide%3adwPromptReportName&amp;Id=btnCancelSaveAs&amp;Text=Cancel" ph="dwPromptReportNameSaveAs.Buttons" uid="{6CA95E08-E3F5-4172-A57C-7849597BB31A}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=hide%3adwPromptReportNameSaveAs&amp;Id=btnCancelSaveAs&amp;Text=Cancel" ph="dwPromptReportNameSaveAs.Buttons" uid="{6CA95E08-E3F5-4172-A57C-7849597BB31A}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=hide%3adwPromptReportName&amp;Id=btnCancel&amp;Text=Cancel" ph="dwPromptReportName.Buttons" uid="{6CA95E08-E3F5-4172-A57C-7849597BB31A}" />
     <r id="{7A69C522-7E99-4630-A25A-5D571505862A}" par="Id=GlobalLogo" ph="GlobalHeader.StartButton" uid="{A340B9F2-9FD0-4767-9B0B-62D7C8B0E5C7}" />
     <r id="{EA28ED83-0F59-4BB9-AA95-6FAC9C3385D6}" par="Id=NavigationToggler" ph="GlobalHeader.NavigationToggler" uid="{0330E088-D1C0-4394-8F5B-5F2E0F577D5E}" />
@@ -190,7 +190,7 @@ extranet\Anonymous
 ----version----
 language: en
 version: 2
-revision: 41e7b4e5-96b8-4f97-b9fe-be5b34fbf5d3
+revision: 565fcc04-7131-4a1c-bd30-b30f59d1705f
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
@@ -212,14 +212,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-41e7b4e5-96b8-4f97-b9fe-be5b34fbf5d3
+565fcc04-7131-4a1c-bd30-b30f59d1705f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160720T192619Z
+20160720T193001Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
