@@ -34,7 +34,7 @@ content-length: 1
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 19999
+content-length: 20051
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
@@ -90,9 +90,9 @@ content-length: 19999
     <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblLoading&amp;Text=Loading..." ph="NotificationBorder.Content" uid="{FFDFB22B-330B-47EA-BFB8-1BC1B74C99CC}" />
     <r id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=aeTopReport&amp;Header=Reports&amp;IsCollapsible=1" ph="ApplicationContent.Main" uid="{61B4C73D-A5F2-4E2B-85EE-A787FF5B5242}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=aeTopReportContainer&amp;PaddingType=All&amp;UsePadding=1" ph="aeTopReport.Body" uid="{E173B6F0-3F31-4F3D-9948-76C27CA52512}" />
-    <r id="{3CAC8515-EA11-4B97-A1E5-546DC6FC5E59}" par="Id=dpStartDate&amp;ViewMode=Textbox&amp;FirstDay=Sunday&amp;ShowOtherMonths=1" ph="aeTopReport.ActionBar" uid="{F0CBED6D-054E-4EDD-8804-FD6594850ACE}" />
+    <r id="{3CAC8515-EA11-4B97-A1E5-546DC6FC5E59}" par="Id=dpStartDate&amp;ViewMode=Textbox&amp;FirstDay=Sunday&amp;Format=mm%2fdd%2fyyyy&amp;ShowOtherMonths=1" ph="aeTopReport.ActionBar" uid="{F0CBED6D-054E-4EDD-8804-FD6594850ACE}" />
     <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=txtTo&amp;Text=+to+" ph="aeTopReport.ActionBar" uid="{856D38D1-4D78-4B76-8458-FB2CB97EF891}" />
-    <r id="{3CAC8515-EA11-4B97-A1E5-546DC6FC5E59}" par="Id=dpEndDate&amp;FirstDay=Sunday&amp;ShowToday=1" ph="aeTopReport.ActionBar" uid="{2BFD0927-FB5D-45EC-B658-69CA74F63680}" />
+    <r id="{3CAC8515-EA11-4B97-A1E5-546DC6FC5E59}" par="Id=dpEndDate&amp;FirstDay=Sunday&amp;Format=mm%2fdd%2fyyyy&amp;ShowToday=1" ph="aeTopReport.ActionBar" uid="{2BFD0927-FB5D-45EC-B658-69CA74F63680}" />
     <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=javascript%3aapp.saveReportClick(false)&amp;Id=hlSave&amp;Text=Save" ph="aeTopReport.ActionBar" uid="{DF63DF51-59C1-496D-A16D-5FDF7FF3D63D}" />
     <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=txtSeparator&amp;Text=+%7c+" ph="aeTopReport.ActionBar" uid="{745232E9-3A03-43E3-898C-A754D307C8FE}" />
     <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=show%3adwAdvanced&amp;Id=hlAdvance&amp;Text=Advanced" ph="aeTopReport.ActionBar" uid="{DF63DF51-59C1-496D-A16D-5FDF7FF3D63D}" />
@@ -191,7 +191,7 @@ extranet\Anonymous
 ----version----
 language: en
 version: 2
-revision: 15ab5900-8a1d-4665-90d2-5a32e5e6abbe
+revision: d454ece8-d633-43ec-9ca2-a2a5f3ed368f
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
@@ -213,14 +213,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-15ab5900-8a1d-4665-90d2-5a32e5e6abbe
+d454ece8-d633-43ec-9ca2-a2a5f3ed368f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160721T200550Z
+20160721T201152Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
