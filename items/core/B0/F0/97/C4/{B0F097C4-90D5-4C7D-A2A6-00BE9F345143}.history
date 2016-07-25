@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{B0F097C4-90D5-4C7D-A2A6-00BE9F345143}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-25T22:38:03.1649079Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "This report name is way too long and hopefully it wont let me make it this atrociously long",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/This report name is way too long and hopefully it wont let me make it this atrociously long",
+    "template": "Vault Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
