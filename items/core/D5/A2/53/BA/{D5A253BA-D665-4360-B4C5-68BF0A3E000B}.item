@@ -9,11 +9,60 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {4288C357-8017-47BC-827F-D69181CAAAA1}
 templatekey: Vault Report
 
+----field----
+field: {AEE5C6C6-CB2D-4645-AE50-8640E8ED293F}
+name: NavigateUrl
+key: navigateurl
+content-length: 158
+
+/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports?id={D5A253BA-D665-4360-B4C5-68BF0A3E000B}&menuItemId={D5A253BA-D665-4360-B4C5-68BF0A3E000B}
 ----version----
 language: en
 version: 1
-revision: 73c3c65a-d3dd-48a2-9dcb-801eb05ab529
+revision: 5ab384ed-9677-42f8-afd8-64f3f4e6f99a
 
+----field----
+field: {96E43D34-70FC-4AF9-B84A-F3926DDD6718}
+name: Query
+key: query
+content-length: 100
+
+Timestamp BETWEEN "2016-06-20T04:00:00.000Z" AND "2016-07-21T03:59:59.000Z" AND (ItemName != "jsfd")
+----field----
+field: {EFA0B7F3-1879-46E2-85EF-E399A53CD3A9}
+name: Filters
+key: filters
+content-length: 18
+
+ItemName != "jsfd"
+----field----
+field: {0FF8D388-BF06-418D-9EAE-4890C9DA9BD6}
+name: Start Date
+key: start date
+content-length: 15
+
+20160620T000000
+----field----
+field: {14148E97-C12C-41D7-8E7B-A2F8B5C139CD}
+name: End Date
+key: end date
+content-length: 7
+
+{today}
+----field----
+field: {EBB4296D-83E6-4657-B8B9-7AB766117184}
+name: CombineEvents
+key: combineevents
+content-length: 1
+
+0
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 137
+
+asdfkljsd lfkjs dfosuihdf osid fhsldkh lksdhglksd glhskdghlsd gklsdhgskldgh sdlkh dlgkhsdkg skldgh skldgh skldgh slkdgh sdkhg slkdgh sldg
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -34,7 +83,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-73c3c65a-d3dd-48a2-9dcb-801eb05ab529
+5ab384ed-9677-42f8-afd8-64f3f4e6f99a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
