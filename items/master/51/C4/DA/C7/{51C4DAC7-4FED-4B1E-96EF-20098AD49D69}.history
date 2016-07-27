@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{51C4DAC7-4FED-4B1E-96EF-20098AD49D69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-27T17:53:54.8048428Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Droplist Field",
+    "itemPath": "/sitecore/templates/Testing/All Fields/Fields/Droplist Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
