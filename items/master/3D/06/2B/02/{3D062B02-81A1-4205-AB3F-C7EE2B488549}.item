@@ -12,8 +12,29 @@ templatekey: All Fields
 ----version----
 language: en
 version: 1
-revision: edb605a5-dd0f-432e-b65e-952e2dbb34c6
+revision: 9e83cd63-063a-45b5-a184-e41638ccfbed
 
+----field----
+field: {9B07900E-E4CF-40AF-9861-1273F9807B63}
+name: Integer Field
+key: integer field
+content-length: 1
+
+3
+----field----
+field: {51C4DAC7-4FED-4B1E-96EF-20098AD49D69}
+name: Droplist Field
+key: droplist field
+content-length: 10
+
+All Fields
+----field----
+field: {0E122936-EC9F-4AAD-8AFC-7299E47D0FFC}
+name: Droplink Field
+key: droplink field
+content-length: 38
+
+{A1E2D8B8-EE84-449C-AFC4-75E93F47B3C0}
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -41,14 +62,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-edb605a5-dd0f-432e-b65e-952e2dbb34c6
+9e83cd63-063a-45b5-a184-e41638ccfbed
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160727T180020Z
+20160727T180030Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
