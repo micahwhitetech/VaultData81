@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3D062B02-81A1-4205-AB3F-C7EE2B488549}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-27T18:00:20.8741479Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test All Fields",
+    "itemPath": "/sitecore/content/Test All Fields",
+    "template": "All Fields",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
