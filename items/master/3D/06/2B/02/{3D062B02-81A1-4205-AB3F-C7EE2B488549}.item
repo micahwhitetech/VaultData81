@@ -12,7 +12,7 @@ templatekey: All Fields
 ----version----
 language: en
 version: 1
-revision: 24cfb4e5-e07a-4719-a69a-2579244c5839
+revision: 479d9812-9883-4009-80ea-1de0419578e5
 
 ----field----
 field: {9B07900E-E4CF-40AF-9861-1273F9807B63}
@@ -25,9 +25,9 @@ content-length: 1
 field: {51C4DAC7-4FED-4B1E-96EF-20098AD49D69}
 name: Droplist Field
 key: droplist field
-content-length: 12
+content-length: 15
 
-Number Field
+Rich Text Field
 ----field----
 field: {0E122936-EC9F-4AAD-8AFC-7299E47D0FFC}
 name: Droplink Field
@@ -62,14 +62,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-24cfb4e5-e07a-4719-a69a-2579244c5839
+479d9812-9883-4009-80ea-1de0419578e5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160728T184330Z
+20160728T185505Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
