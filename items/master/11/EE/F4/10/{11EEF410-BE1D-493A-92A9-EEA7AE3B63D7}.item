@@ -12,7 +12,7 @@ templatekey: Most Fields
 ----version----
 language: en
 version: 1
-revision: bbd13518-f2a8-4c45-844e-ce3b9b1cd6f0
+revision: 9dde04e1-3fe9-44c1-9ab9-d2b87d161fc4
 
 ----field----
 field: {F45E8932-5C68-4E74-B58E-7EE14CFBAF67}
@@ -51,6 +51,13 @@ key: accounts multilist field
 content-length: 38
 
 {A55E139C-5F13-4983-8F6D-2E96ED497BFD}
+----field----
+field: {54859306-A971-47B5-BE3F-CE0150DF2BCE}
+name: Checklist Field
+key: checklist field
+content-length: 38
+
+{A1E2D8B8-EE84-449C-AFC4-75E93F47B3C0}
 ----field----
 field: {F7A2A989-E38B-4D61-9BBE-8DF5BCF4E103}
 name: Droplist Field
@@ -212,14 +219,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bbd13518-f2a8-4c45-844e-ce3b9b1cd6f0
+9dde04e1-3fe9-44c1-9ab9-d2b87d161fc4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160729T191227Z
+20160729T191316Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
