@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{7A5615DF-FAC8-4B31-B35B-320A01C8BFA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.6598124Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Droptree field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/Droptree field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
