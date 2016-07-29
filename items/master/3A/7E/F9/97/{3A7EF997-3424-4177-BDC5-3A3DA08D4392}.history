@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3A7EF997-3424-4177-BDC5-3A3DA08D4392}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T18:32:40.4134498Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All text fields",
+    "itemPath": "/sitecore/templates/Testing/All text fields",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
