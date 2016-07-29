@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E8D7D291-7E34-4C45-B41A-49D9E1EF3CE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.6207848Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Droplink Field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/Droplink Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
