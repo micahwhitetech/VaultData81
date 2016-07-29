@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A74A8AFA-1347-484A-9510-F61B49D5E479}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.2948607Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Grouped Droplink Field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/Grouped Droplink Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
