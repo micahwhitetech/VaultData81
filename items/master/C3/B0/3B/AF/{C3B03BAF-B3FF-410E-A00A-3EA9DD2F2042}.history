@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C3B03BAF-B3FF-410E-A00A-3EA9DD2F2042}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T18:32:20.0551636Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Integer Field",
+    "itemPath": "/sitecore/templates/Testing/Every Single Field/Fields/Integer Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
