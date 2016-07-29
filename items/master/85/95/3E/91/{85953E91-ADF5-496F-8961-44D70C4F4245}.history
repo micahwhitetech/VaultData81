@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{85953E91-ADF5-496F-8961-44D70C4F4245}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.4589901Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Name Lookup Value List Field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/Name Lookup Value List Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
