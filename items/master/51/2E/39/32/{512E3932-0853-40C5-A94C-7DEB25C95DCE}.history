@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{512E3932-0853-40C5-A94C-7DEB25C95DCE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.9035835Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Password field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/Password field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
