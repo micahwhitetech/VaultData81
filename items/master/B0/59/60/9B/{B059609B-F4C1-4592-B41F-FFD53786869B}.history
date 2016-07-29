@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B059609B-F4C1-4592-B41F-FFD53786869B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.7779429Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Version Identity Field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/Version Identity Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
