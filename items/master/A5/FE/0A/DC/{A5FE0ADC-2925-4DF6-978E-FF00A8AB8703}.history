@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A5FE0ADC-2925-4DF6-978E-FF00A8AB8703}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T18:32:20.3561330Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Accounts Multilist Field",
+    "itemPath": "/sitecore/templates/Testing/Every Single Field/Fields/Accounts Multilist Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
