@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{435DF6F1-8FA7-4515-AF68-0AE922323C2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T18:32:20.0956941Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multi-Line Text field",
+    "itemPath": "/sitecore/templates/Testing/Every Single Field/Fields/Multi-Line Text field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
