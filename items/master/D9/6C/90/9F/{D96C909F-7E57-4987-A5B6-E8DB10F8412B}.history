@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{D96C909F-7E57-4987-A5B6-E8DB10F8412B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T18:32:20.1398800Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "number field",
+    "itemPath": "/sitecore/templates/Testing/Every Single Field/Fields/number field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
