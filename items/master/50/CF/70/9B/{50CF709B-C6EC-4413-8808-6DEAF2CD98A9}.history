@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{50CF709B-C6EC-4413-8808-6DEAF2CD98A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.5759883Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Treelist Ex Field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/Treelist Ex Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
