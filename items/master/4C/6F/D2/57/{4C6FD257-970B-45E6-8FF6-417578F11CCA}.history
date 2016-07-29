@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{4C6FD257-970B-45E6-8FF6-417578F11CCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T18:32:20.0091303Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image field",
+    "itemPath": "/sitecore/templates/Testing/Every Single Field/Fields/Image field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
