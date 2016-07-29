@@ -12,8 +12,45 @@ templatekey: Most Fields
 ----version----
 language: en
 version: 1
-revision: 99417bb2-5729-439c-8f12-e06cf635b80a
+revision: 12826289-729f-4a9b-af85-af5f4ef3ca98
 
+----field----
+field: {F45E8932-5C68-4E74-B58E-7EE14CFBAF67}
+name: Date Field
+key: date field
+content-length: 16
+
+20160729T040000Z
+----field----
+field: {C3F8F283-553C-4805-8F76-412B47EFF421}
+name: Datetime Field
+key: datetime field
+content-length: 16
+
+20160729T190800Z
+----field----
+field: {47849165-D551-4F2F-BDFC-1D6E8BBB207F}
+name: Integer Field
+key: integer field
+content-length: 6
+
+123456
+----field----
+field: {64A64085-5473-4A77-8BB0-3F2690003DED}
+name: Multi-Line Text Field
+key: multi-line text field
+content-length: 63
+
+hey ahosfdhihdihidhf
+this is hlsdfhoisdhsldkhdsf
+how are you?
+----field----
+field: {1BBC0272-D9EC-4755-ACA8-B2299B2E937F}
+name: Multilist with Search Field
+key: multilist with search field
+content-length: 38
+
+{EB2E4FFD-2761-4653-B052-26A64D385227}
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -41,14 +78,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-99417bb2-5729-439c-8f12-e06cf635b80a
+12826289-729f-4a9b-af85-af5f4ef3ca98
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160729T190816Z
+20160729T190928Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
