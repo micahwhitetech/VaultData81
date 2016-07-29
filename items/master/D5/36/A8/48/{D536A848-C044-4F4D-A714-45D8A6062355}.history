@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{D536A848-C044-4F4D-A714-45D8A6062355}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T18:32:19.8768807Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Date Field",
+    "itemPath": "/sitecore/templates/Testing/Every Single Field/Fields/Date Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
