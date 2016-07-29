@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{CFFF62E8-1CFE-4F51-8519-701C68BF729F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.4950181Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Name Value List Field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/Name Value List Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
