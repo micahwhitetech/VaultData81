@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{D40A4651-7193-4157-BE5A-027D47D252DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.7008469Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General Link Field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/General Link Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
