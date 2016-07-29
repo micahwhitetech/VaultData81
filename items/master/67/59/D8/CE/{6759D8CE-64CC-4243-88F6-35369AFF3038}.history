@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6759D8CE-64CC-4243-88F6-35369AFF3038}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T18:32:19.9670962Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "File Field",
+    "itemPath": "/sitecore/templates/Testing/Every Single Field/Fields/File Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
