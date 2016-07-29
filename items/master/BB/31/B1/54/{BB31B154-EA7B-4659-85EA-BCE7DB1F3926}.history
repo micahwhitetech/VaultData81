@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{BB31B154-EA7B-4659-85EA-BCE7DB1F3926}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.9426114Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rich Text field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/Rich Text field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
