@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1BBC0272-D9EC-4755-ACA8-B2299B2E937F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.4179603Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multilist with Search Field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/Multilist with Search Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
