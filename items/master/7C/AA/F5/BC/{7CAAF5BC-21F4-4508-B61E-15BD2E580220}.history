@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{7CAAF5BC-21F4-4508-B61E-15BD2E580220}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.3759225Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multilist Field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/Multilist Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
