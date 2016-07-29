@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A55E139C-5F13-4983-8F6D-2E96ED497BFD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:49.9605864Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checkbox Field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/Checkbox Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
