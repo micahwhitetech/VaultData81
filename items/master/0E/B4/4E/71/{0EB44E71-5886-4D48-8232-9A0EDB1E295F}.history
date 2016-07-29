@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0EB44E71-5886-4D48-8232-9A0EDB1E295F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T18:32:19.9220632Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Datetime field",
+    "itemPath": "/sitecore/templates/Testing/Every Single Field/Fields/Datetime field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
