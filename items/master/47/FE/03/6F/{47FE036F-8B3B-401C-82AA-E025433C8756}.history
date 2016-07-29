@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{47FE036F-8B3B-401C-82AA-E025433C8756}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T19:07:50.7408874Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General Link with Search Field",
+    "itemPath": "/sitecore/templates/Testing/Most Fields/Fields/General Link with Search Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
