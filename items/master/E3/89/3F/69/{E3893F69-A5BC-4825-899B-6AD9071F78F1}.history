@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E3893F69-A5BC-4825-899B-6AD9071F78F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-29T18:32:19.7903059Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tracking Field",
+    "itemPath": "/sitecore/templates/Testing/Every Single Field/Fields/Tracking Field",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
