@@ -1,0 +1,44 @@
+----item----
+version: 1
+id: {870483F3-48AD-4DFD-85BB-14DE92D6C90A}
+database: master
+path: /sitecore/templates/Testing/Every Single Field/Fields/Single Line Text Field
+parent: {4282789A-1675-43E6-9F6C-2BC5F0EB270C}
+name: Single Line Text Field
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
+----version----
+language: en
+version: 1
+revision: ca8531fc-a9d9-44b5-a7e8-901ea8ebd2c5
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160729T183220Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ca8531fc-a9d9-44b5-a7e8-901ea8ebd2c5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160729T183220Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
