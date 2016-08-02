@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{9F0AD44A-ADBD-4E38-86B6-1F9BCFF96FDC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-02T22:02:45.6713858Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TheVault",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
