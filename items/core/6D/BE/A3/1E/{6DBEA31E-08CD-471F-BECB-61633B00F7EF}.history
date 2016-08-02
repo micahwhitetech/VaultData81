@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6DBEA31E-08CD-471F-BECB-61633B00F7EF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-02T22:02:45.6748890Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Versions",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault/Versions",
+    "template": "Large Gallery Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
