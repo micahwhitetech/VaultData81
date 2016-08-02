@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F4F2A609-5EEB-414C-AE7F-ECCB79CE543B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-02T22:02:45.6763897Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultTime",
+    "itemPath": "/sitecore/content/Applications/Desktop/Tray/VaultTime",
+    "template": "Toolbutton",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C3FEB254-4C6B-44A9-B3A4-DADED3C8EE2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-02T22:02:45.6763897Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Versions",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Strips/Vault/Versions",
+    "template": "Reference",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
