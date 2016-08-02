@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{FA2FF289-B088-4BB9-8AEE-4D00AAB899A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-02T22:02:45.2751816Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault",
+    "itemPath": "/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Vault/Vault",
+    "template": "LaunchPad-Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
