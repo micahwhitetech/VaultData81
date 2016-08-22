@@ -1,0 +1,28 @@
+{
+  "id": "46477f17-826f-4650-9b09-52c2bb088b1b",
+  "releaseName": "Test with Chris",
+  "lastModified": "2016-08-22T16:20:47.061547Z",
+  "lastDeployed": "0001-01-01T00:00:00",
+  "lastRollback": "0001-01-01T00:00:00",
+  "releaseItems": [
+    {
+      "database": "master",
+      "recursive": false,
+      "installMode": 0,
+      "sitecoreItemId": "{11EEF410-BE1D-493A-92A9-EEA7AE3B63D7}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": false,
+      "installMode": 0,
+      "sitecoreItemId": "{3A7EF997-3424-4177-BDC5-3A3DA08D4392}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    }
+  ],
+  "serverDeployments": null
+}
