@@ -1,0 +1,12 @@
+[
+  {
+    "id": "89378693-206f-4d7b-a698-bf79c45dfa1f",
+    "database": "master",
+    "isFull": true,
+    "snapshotName": "Micah lives on forever",
+    "snapshotRoot": "/sitecore",
+    "created": "2016-08-22T16:30:53.10027Z",
+    "lastDeployed": "0001-01-01T00:00:00",
+    "lastRollback": "0001-01-01T00:00:00"
+  }
+]
