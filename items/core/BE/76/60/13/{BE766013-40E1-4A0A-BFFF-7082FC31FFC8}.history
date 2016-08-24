@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{BE766013-40E1-4A0A-BFFF-7082FC31FFC8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-24T15:27:59.7302121Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Micahs dope report",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Micahs dope report",
+    "template": "Vault Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
