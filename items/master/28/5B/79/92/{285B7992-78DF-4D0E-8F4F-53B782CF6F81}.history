@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{285B7992-78DF-4D0E-8F4F-53B782CF6F81}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:15.4496344Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ignore Dictionary Translations",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Ignore Dictionary Translations",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

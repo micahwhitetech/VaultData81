@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB18986F-0886-4D3C-BA5B-AE8EA21301BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:49.8394619Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IncludeOutcomes",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ExperienceMap/Options/IncludeOutcomes",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E01F9B51-E7E1-4691-AECE-852F2756754D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:20.0209660Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Onsite Behaviour",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Onsite Behaviour",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

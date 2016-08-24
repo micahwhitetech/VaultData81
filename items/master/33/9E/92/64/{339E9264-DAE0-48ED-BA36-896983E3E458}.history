@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{339E9264-DAE0-48ED-BA36-896983E3E458}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:31.0632456Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Editor",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Content Editor",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

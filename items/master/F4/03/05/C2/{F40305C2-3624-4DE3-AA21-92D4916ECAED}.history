@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F40305C2-3624-4DE3-AA21-92D4916ECAED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:19.6918000Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "StateProvince",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/StateProvince",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

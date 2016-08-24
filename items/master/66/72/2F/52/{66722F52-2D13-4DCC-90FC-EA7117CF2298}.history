@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66722F52-2D13-4DCC-90FC-EA7117CF2298}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:19.3119558Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Login",
+    "template": "Goal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

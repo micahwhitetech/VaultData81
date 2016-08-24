@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32DF7EF0-56D8-4CFF-AE46-884A7533BC9D}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:52.8363340Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tool Button Group",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button Group",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

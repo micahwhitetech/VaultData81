@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABD7B792-203A-4389-833D-7B91D010F638}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:16.3784779Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MaxDuration",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Scheduling/MaxDuration",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

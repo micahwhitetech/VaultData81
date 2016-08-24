@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00E978AE-076D-402F-B540-B1ACA5BC65A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:58.9390198Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Box Dropdown",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

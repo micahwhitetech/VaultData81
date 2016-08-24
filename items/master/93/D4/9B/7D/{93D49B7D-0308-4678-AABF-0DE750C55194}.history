@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93D49B7D-0308-4678-AABF-0DE750C55194}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:09.8159797Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download Brochure",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Download Brochure",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6A1AEA0-E515-4B77-950B-5B19F317BBF3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:29.9361584Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Anonymous",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Anonymous",
+    "template": "Preset Persona",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

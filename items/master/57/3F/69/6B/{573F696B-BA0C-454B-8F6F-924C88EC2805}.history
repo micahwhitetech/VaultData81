@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{573F696B-BA0C-454B-8F6F-924C88EC2805}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:41.0684233Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Empty Message",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Message",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

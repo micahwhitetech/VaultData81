@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB981BF2-628F-4F71-80AA-4EB834BEA379}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:44.9358949Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nauru",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nauru",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

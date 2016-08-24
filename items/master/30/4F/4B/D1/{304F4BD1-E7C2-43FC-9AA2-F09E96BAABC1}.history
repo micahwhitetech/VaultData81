@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{304F4BD1-E7C2-43FC-9AA2-F09E96BAABC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:26.3575631Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Acquisition",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Global Maps/Outcomes/Contact Acquisition",
+    "template": "OutcomeMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

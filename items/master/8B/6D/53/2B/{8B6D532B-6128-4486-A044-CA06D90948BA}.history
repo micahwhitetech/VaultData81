@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8B6D532B-6128-4486-A044-CA06D90948BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:39.2764894Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaryByData",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/VaryByData",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

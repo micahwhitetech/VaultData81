@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D20BC0A-E391-41C8-9724-3A9E41222A76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:19.9758205Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn Share Buttons",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/LinkedIn/LinkedIn Share Buttons",
+    "template": "Campaign",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{948235C2-D1AF-461E-AFFF-F4A0504F5145}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:05.4919200Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Deleted",
+    "itemPath": "/sitecore/system/Settings/Rules/Item Deleted",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

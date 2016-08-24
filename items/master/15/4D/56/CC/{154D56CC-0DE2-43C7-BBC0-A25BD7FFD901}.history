@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:57.3979330Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TagRepository",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85ADBF5B-E836-4932-A333-FE0F9FA1ED1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:11.8425054Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Branch Folder",
+    "itemPath": "/sitecore/templates/System/Branches/Branch Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64AE12F1-6EFC-4679-A3D7-C3EBD988CC82}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:42.7144061Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Iran Islamic Republic of",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Iran Islamic Republic of",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

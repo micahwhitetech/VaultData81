@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C05708AE-E897-4597-A33F-419CE3B45240}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:07.2368126Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Profile Options",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Experience Profile Options",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

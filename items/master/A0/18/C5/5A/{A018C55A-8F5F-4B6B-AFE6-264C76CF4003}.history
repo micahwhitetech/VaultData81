@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A018C55A-8F5F-4B6B-AFE6-264C76CF4003}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:48.3612291Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MapType",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/MapType",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

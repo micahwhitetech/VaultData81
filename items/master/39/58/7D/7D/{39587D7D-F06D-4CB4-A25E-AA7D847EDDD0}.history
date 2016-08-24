@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39587D7D-F06D-4CB4-A25E-AA7D847EDDD0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:33.2840416Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Method Rendering",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Method Rendering",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ECB1D97A-FD2B-4863-A27B-4512C2C2458E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:08.0081664Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-collateral",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-collateral",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6833B28C-A849-4AD7-BC77-1A28279D2072}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:01.8653127Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IDView",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/IDView",
+    "template": "View",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

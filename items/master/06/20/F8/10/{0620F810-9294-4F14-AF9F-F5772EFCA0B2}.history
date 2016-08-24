@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0620F810-9294-4F14-AF9F-F5772EFCA0B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:29.4056114Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Regional Iso Code",
+    "itemPath": "/sitecore/templates/System/Language/Data/Regional Iso Code",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

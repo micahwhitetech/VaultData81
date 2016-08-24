@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E95BD219-79CA-4821-8E13-35B8771A837E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:20.3009312Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Klout Score",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Klout Score",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

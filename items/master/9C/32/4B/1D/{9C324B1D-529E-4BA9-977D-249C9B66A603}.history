@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C324B1D-529E-4BA9-977D-249C9B66A603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:40.7281642Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referenced Item Is Invalid",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Path Analyzer/Referenced Item Is Invalid",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

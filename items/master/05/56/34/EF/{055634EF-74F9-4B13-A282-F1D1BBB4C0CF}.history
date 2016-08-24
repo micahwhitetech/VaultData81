@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{055634EF-74F9-4B13-A282-F1D1BBB4C0CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:28.1906492Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Predefined Conditions",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

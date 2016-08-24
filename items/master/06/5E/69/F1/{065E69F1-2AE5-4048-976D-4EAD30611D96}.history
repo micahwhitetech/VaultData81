@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{065E69F1-2AE5-4048-976D-4EAD30611D96}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:44.2331426Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marshall Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Marshall Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

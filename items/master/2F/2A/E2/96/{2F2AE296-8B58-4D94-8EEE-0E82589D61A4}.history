@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F2AE296-8B58-4D94-8EEE-0E82589D61A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:07.6826731Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Show in Page Events",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Experience Profile Options/Show in Page Events",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

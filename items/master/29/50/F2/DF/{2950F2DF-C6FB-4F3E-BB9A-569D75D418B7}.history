@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2950F2DF-C6FB-4F3E-BB9A-569D75D418B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:59.7638957Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalize",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Personalize",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

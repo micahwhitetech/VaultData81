@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DD8E89E-9ECF-4D3B-AC8C-A47B6A455001}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:00.6109172Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Text",
+    "template": "Search Control Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

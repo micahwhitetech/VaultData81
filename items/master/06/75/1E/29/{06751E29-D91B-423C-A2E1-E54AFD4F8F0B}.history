@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{06751E29-D91B-423C-A2E1-E54AFD4F8F0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:06.3927844Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Marketer Message",
+    "itemPath": "/sitecore/templates/System/Social/Message/Social Marketer Message",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

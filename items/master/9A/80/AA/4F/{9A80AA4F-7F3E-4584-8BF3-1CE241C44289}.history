@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A80AA4F-7F3E-4584-8BF3-1CE241C44289}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:09.4439850Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Psychographics",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Psychographics",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

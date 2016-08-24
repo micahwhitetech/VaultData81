@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F3D8F9B-2D76-4ACE-803F-35415D2B230A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:52.1118870Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chunk",
+    "itemPath": "/sitecore/templates/System/Ribbon/Chunk",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

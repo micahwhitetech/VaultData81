@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C181989-2794-4B28-8EE4-6BB5CB928DC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:11.6654917Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Boosting Rules",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Indexing/Indexing/__Boosting Rules",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

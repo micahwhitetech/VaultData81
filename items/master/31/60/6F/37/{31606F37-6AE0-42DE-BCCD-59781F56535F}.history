@@ -12,9 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Description",
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Description",
-    "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": "90f8506b336d11284a1883beb5f8a6d4006e32c7"
+    "sourceControlRevisionId": "90f8506b336d11284a1883beb5f8a6d4006e32c7",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -29,9 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Description",
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Description",
-    "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": "0d85e0ce4bf469671c20280a39ba6c243ff0dce7"
+    "sourceControlRevisionId": "0d85e0ce4bf469671c20280a39ba6c243ff0dce7",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -46,8 +50,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Description",
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Description",
-    "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{31606F37-6AE0-42DE-BCCD-59781F56535F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:21.8797845Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Description",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Description",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{790A6878-348F-4F81-9DCB-44F0EBCB257C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:36.5283365Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MVC Controllers",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/MVC Controllers",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

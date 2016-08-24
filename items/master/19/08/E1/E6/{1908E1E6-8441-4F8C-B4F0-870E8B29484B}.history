@@ -12,11 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "MT3",
     "itemPath": "/sitecore/templates/Testing/MT3",
-    "commandType": "Item",
     "template": "Template",
     "sourceControlRevisionId": "d78a17c85b835ef6af5b148c63515023134cf058",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -31,11 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "MT3",
     "itemPath": "/sitecore/templates/Testing/MT3",
-    "commandType": "Item",
     "template": "Template",
     "sourceControlRevisionId": "f59e1c0fc089e1f1a28c0547e9763bcee4125e44",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -50,11 +50,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "MT3",
     "itemPath": "/sitecore/templates/Testing/MT3",
-    "commandType": "Item",
     "template": "Template",
     "sourceControlRevisionId": "c4939db275d19abdd3a3b78ac0a274e96a3a0e5a",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "CheckedOut",
@@ -69,10 +69,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "MT3",
     "itemPath": "/sitecore/templates/Testing/MT3",
-    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1908E1E6-8441-4F8C-B4F0-870E8B29484B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:21.0222280Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MT3",
+    "itemPath": "/sitecore/templates/Testing/MT3",
     "template": "Template",
     "sourceControlRevisionId": null,
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

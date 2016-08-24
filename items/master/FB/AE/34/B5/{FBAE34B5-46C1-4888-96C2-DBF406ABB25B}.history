@@ -12,11 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New Same Name",
     "itemPath": "/sitecore/content/path 1/path 2/New Same Name",
-    "commandType": "Item",
     "template": "Same Name",
     "sourceControlRevisionId": "ce77b8b0ef0af6f2e7077071cbbba4691c399eb1",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -31,11 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New Same Name",
     "itemPath": "/sitecore/content/path 1/path 2/New Same Name",
-    "commandType": "Item",
     "template": "Same Name",
     "sourceControlRevisionId": "d362c3f654731ee05801a45a7e1ef1059f40e984",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "Renamed",
@@ -50,11 +50,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "bub",
     "itemPath": "/sitecore/content/path 1/path 2/bub",
-    "commandType": "Item",
     "template": "Same Name",
     "sourceControlRevisionId": "a36c9efe95abc32c2904bcf3da5b545a2ca24619",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -69,10 +69,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "bub",
     "itemPath": "/sitecore/content/path 1/path 2/bub",
-    "commandType": "Item",
+    "template": "Same Name",
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBAE34B5-46C1-4888-96C2-DBF406ABB25B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:02.9832213Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "bub",
+    "itemPath": "/sitecore/content/path 1/path 2/bub",
     "template": "Same Name",
     "sourceControlRevisionId": null,
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

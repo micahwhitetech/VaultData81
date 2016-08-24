@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92FCD8A1-4E1B-4F43-A555-9441D40C86DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:39.8236386Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cambodia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cambodia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2990487C-5D2E-4E71-9B49-359895775D13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:11.5389935Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Browser Supports JavaScript",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Browser Supports JavaScript",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

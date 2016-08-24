@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{220E8575-DA98-4F87-97A6-34940BEA0109}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:36.0751082Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitor Identification Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

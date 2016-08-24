@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4698B7F3-1395-4DB6-85D3-A6B4873FABBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:39.3823180Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bermuda",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bermuda",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

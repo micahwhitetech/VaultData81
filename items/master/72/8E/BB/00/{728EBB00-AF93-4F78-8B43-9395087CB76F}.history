@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{728EBB00-AF93-4F78-8B43-9395087CB76F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:03.7583621Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FXM",
+    "itemPath": "/sitecore/layout/Layouts/System/FXM",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

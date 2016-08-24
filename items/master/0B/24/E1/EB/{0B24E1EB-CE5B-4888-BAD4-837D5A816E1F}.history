@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B24E1EB-CE5B-4888-BAD4-837D5A816E1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:09.0472171Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-ppc-advertising",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-ppc-advertising",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82A7C02F-9A55-4BFE-B494-D1713D4BE9FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:18.4202946Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suppress Comment",
+    "itemPath": "/sitecore/templates/System/Workflow/Command/Data/Suppress Comment",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

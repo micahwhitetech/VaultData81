@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BAB68954-D9E6-464D-88E5-C207CB392AA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:19.2562637Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preset Persona",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

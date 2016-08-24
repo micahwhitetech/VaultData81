@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C50B1F5B-26DA-476A-AAC6-9B734975971C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:37.7452924Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Assembly",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Webcontrol/Data/Assembly",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5FB707BA-6254-4074-98A2-DD822D7414A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:05.1616379Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Google",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Google",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

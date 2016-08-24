@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57E36ADA-364F-4EBD-9AC0-9EACB67A5490}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:53.6464299Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referred - News",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - News",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

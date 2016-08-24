@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE897397-6275-4F94-9C3C-B3D860A53320}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:41.8008203Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rule Elements Type Field Validator",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Rule Elements Type Field Validator",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

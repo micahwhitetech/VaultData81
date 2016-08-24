@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6550DFE5-6F88-4A69-AF86-BC2C4594AA08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:42.5741909Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Droplist",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Droplist",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

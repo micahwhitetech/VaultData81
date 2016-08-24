@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4882658B-7490-4F7A-A16F-080BB4AE9E99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:19.3711222Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Accordion Name",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Accordion/accordion/Accordion Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0114342-587F-4753-87A2-308CC7AEE48D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:02.7036065Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Link",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Data/Campaign Link",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

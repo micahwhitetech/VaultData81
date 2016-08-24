@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{861F1312-64F9-49E3-8880-8FA1082F98AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:46.6734420Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checkbox",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Checkbox",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

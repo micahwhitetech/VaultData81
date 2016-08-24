@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA1DECB2-B4F2-4AE0-99A8-30FDED9B8B50}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:39.6556525Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Logical",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Logical",
+    "template": "Child Sorting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

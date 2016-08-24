@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A705D262-5714-4880-9962-051E25F1416D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:45.0928688Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Schedules",
+    "itemPath": "/sitecore/system/Tasks/Schedules",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD9BDB47-E514-448C-B4E8-D35D6317FE8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:36.8360983Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Designer Options",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/View rendering/Designer Options",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

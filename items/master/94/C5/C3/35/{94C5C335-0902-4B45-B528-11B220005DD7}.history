@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94C5C335-0902-4B45-B528-11B220005DD7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:18.1786943Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Run Script",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Script/Run Script",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6B77E775-31D2-4424-980D-B5B5DBA88D3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:51.0563389Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Average Time on Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Average Time on Page",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5391198-5B0F-4048-BECC-1856480D9384}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:11.1900920Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Phone_landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Phone_landscape",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

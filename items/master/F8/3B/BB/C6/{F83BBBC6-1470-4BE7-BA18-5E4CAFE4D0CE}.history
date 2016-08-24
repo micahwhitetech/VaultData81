@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F83BBBC6-1470-4BE7-BA18-5E4CAFE4D0CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:24.0396455Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Non-branded organic search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Non-branded organic search",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

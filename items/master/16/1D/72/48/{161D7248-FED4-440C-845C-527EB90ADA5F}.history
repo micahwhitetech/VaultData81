@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{161D7248-FED4-440C-845C-527EB90ADA5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:54.6105815Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Account",
+    "itemPath": "/sitecore/templates/Branches/System/Social/Twitter Account",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D87CB7F-2990-4B28-84A1-02C6152477A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:24.0500979Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tidy on paste",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Tidy on paste",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

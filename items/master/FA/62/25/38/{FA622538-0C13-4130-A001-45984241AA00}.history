@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA622538-0C13-4130-A001-45984241AA00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:15.3338306Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Enable Language Fallback",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Enable Language Fallback",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

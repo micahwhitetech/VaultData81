@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5EADFD28-065A-4E97-A186-6B30A0098CB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:21.5800229Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Responsibility",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona/Data/Responsibility",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

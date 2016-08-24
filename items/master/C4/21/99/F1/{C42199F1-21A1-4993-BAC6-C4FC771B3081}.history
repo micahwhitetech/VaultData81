@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C42199F1-21A1-4993-BAC6-C4FC771B3081}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:37.4737342Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Place Holders",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/View rendering/Designer Options/Place Holders",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09C77BD0-9022-4867-A75A-4C45176AFCFD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:10.6240111Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rate",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Rate",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

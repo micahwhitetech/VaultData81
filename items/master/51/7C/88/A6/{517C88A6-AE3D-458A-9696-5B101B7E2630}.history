@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{517C88A6-AE3D-458A-9696-5B101B7E2630}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:20.5913983Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Call Script",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Call Script",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

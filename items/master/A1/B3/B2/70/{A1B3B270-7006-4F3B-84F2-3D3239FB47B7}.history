@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1B3B270-7006-4F3B-84F2-3D3239FB47B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:59.2830625Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sort",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks/sort",
+    "template": "Clientside Hook",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32F344EE-3C38-4173-A0C4-7BE248A96C35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:59.7249150Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Editor",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Page Editor",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

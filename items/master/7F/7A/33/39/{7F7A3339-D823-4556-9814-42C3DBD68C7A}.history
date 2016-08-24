@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F7A3339-D823-4556-9814-42C3DBD68C7A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:26.2825435Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Quick Action",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Quick Action",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

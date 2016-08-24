@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28C3CE9D-E280-43A9-8DD0-A1DC8F3C67B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:45.8094997Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Papua New Guinea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Papua New Guinea",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

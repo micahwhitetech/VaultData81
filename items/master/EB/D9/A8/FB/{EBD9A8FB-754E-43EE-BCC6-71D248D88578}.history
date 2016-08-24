@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EBD9A8FB-754E-43EE-BCC6-71D248D88578}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:34.5255873Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Map Settings/Google",
+    "template": "Map Provider",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

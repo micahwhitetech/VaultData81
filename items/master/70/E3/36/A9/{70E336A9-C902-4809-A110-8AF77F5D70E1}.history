@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70E336A9-C902-4809-A110-8AF77F5D70E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:18.0297264Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Versions",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Not Enough Versions Execute Command Action/Versions",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

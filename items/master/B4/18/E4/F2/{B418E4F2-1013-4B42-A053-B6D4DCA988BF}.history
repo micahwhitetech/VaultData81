@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B418E4F2-1013-4B42-A053-B6D4DCA988BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:15.2401919Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Direct",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Direct/Direct",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

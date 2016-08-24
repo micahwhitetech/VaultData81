@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0AE33DC-0CDB-4E18-B69F-885457F42E68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:56.3141339Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Html Editor Profiles",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

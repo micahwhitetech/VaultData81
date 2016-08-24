@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EABDC2B2-3B17-4113-BD3F-2B6812A5F0B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:06.2767295Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Shared Secret",
+    "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/Data/Shared Secret",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

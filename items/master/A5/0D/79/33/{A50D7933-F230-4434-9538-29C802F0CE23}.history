@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A50D7933-F230-4434-9538-29C802F0CE23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:19.4927557Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fatal Error",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Fatal Error",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

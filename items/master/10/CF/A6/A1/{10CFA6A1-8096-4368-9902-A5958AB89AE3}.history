@@ -1,1 +1,40 @@
-[{"eventType":"Saved","database":"master","itemId":"{10CFA6A1-8096-4368-9902-A5958AB89AE3}","version":1,"language":"en","timestamp":"2016-07-19T15:47:00.5407950Z","label":"Saved","workflowState":"","workflowStateName":"","activeUser":"sitecore\\admin","itemName":"__Standard Values","itemPath":"/sitecore/templates/System/Workflow/Standard Comment Template/__Standard Values","template":"Standard Comment Template","sourceControlRevisionId":null,"sitecoreVersion":"8.1.160302","vaultVersion":"1.0.144","deploymentId":null}]
+[
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{10CFA6A1-8096-4368-9902-A5958AB89AE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-19T15:47:00.5407950Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Workflow/Standard Comment Template/__Standard Values",
+    "template": "Standard Comment Template",
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10CFA6A1-8096-4368-9902-A5958AB89AE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:18.8998954Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Workflow/Standard Comment Template/__Standard Values",
+    "template": "Standard Comment Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F744CC9C-4BB1-4B38-8D5C-1E9CE7F45D2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:48.0932262Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Approve",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

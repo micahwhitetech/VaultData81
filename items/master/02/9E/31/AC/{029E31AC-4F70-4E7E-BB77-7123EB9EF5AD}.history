@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{029E31AC-4F70-4E7E-BB77-7123EB9EF5AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:05.0776789Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Button Parameters for Klout",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login Button Parameters for Klout",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

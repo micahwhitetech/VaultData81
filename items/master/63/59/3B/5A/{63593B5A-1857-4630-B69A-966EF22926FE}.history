@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63593B5A-1857-4630-B69A-966EF22926FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:47.6742341Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Secure Map",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Deployed/Re-deploy/Secure Map",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DFBF335C-FE2A-477D-908D-F518BE7B2DBB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:00.5533733Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Slider",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Slider",
+    "template": "Search Control Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

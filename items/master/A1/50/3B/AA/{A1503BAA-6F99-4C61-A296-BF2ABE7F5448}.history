@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1503BAA-6F99-4C61-A296-BF2ABE7F5448}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:56.5916131Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Users In State",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Users In State",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

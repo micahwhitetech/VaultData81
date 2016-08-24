@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03A6F40D-AA49-41DD-A5AC-74A2724174A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:01.3744597Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Tab Not Selected",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab Not Selected",
+    "template": "Open Result Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

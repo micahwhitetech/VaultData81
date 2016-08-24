@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{945B9753-AEAB-4A3E-B15E-6EE1CDAABACA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:41.7041773Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "French Southern Territories",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/French Southern Territories",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

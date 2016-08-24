@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76DBBDDE-9A96-414C-846F-36D7FD8BFDC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:07.6094026Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simulator Backgrounds",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28AA9CBE-907B-4174-84CA-8B745CCBE94F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:04.0022934Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deprecated",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Deprecated",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

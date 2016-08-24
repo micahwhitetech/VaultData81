@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{317ADE1D-337A-464A-B7D0-06B4424FC0EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:31.4473812Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Flash Support Trait",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/No Flash Support Trait",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

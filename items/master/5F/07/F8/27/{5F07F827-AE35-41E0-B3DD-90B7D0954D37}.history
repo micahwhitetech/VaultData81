@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F07F827-AE35-41E0-B3DD-90B7D0954D37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:56.5445403Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Units Business Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Units Business Visits",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -12,9 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New Folderzzz",
     "itemPath": "/sitecore/content/New Folderzzz",
-    "commandType": "Item",
     "template": "Folder",
-    "sourceControlRevisionId": "1055aafdc49bad1e3726eaaf6d52413ec675dca3"
+    "sourceControlRevisionId": "1055aafdc49bad1e3726eaaf6d52413ec675dca3",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -29,9 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New Folderzzz",
     "itemPath": "/sitecore/content/New Folderzzz",
-    "commandType": "Item",
     "template": "Folder",
-    "sourceControlRevisionId": "52769092212f47d2dde33654345bc17748bb0960"
+    "sourceControlRevisionId": "52769092212f47d2dde33654345bc17748bb0960",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -46,8 +50,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New Folderzzz",
     "itemPath": "/sitecore/content/New Folderzzz",
-    "commandType": "Item",
     "template": "Folder",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A7AF7064-2B0E-414A-9623-28293B7D4FA1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:01.9699783Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Folderzzz",
+    "itemPath": "/sitecore/content/New Folderzzz",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0CAF698-8A42-4B66-9EAF-7D442B46F722}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:54.8569860Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segmented List",
+    "itemPath": "/sitecore/templates/List Manager/Segmented List",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4BF22E26-3A47-454E-B047-5F31480396FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:20.4951933Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filter",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/BaseSegment/Data/Filter",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

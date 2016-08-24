@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1672DDDD-28E4-42A9-9ADC-6B7CD4DCE26B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:09.2566420Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DayOfMyLive",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/DayOfMyLive",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

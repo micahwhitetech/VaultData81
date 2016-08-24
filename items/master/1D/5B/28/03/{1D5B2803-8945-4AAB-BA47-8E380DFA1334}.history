@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D5B2803-8945-4AAB-BA47-8E380DFA1334}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:50.3563055Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session begin",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Session begin",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

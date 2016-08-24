@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88CA41B4-1661-4C75-8C98-1D952F56D815}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:05.8206185Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPhone",
+    "itemPath": "/sitecore/layout/Simulators/iPhone",
+    "template": "Simulator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

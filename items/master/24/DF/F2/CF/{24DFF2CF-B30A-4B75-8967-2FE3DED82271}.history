@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24DFF2CF-B30A-4B75-8967-2FE3DED82271}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:28.8774653Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Focus",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus",
+    "template": "Profile",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

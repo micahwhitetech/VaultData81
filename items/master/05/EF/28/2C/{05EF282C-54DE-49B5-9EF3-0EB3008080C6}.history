@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05EF282C-54DE-49B5-9EF3-0EB3008080C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:57.8328884Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image Dimensions",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Image Dimensions",
+    "template": "Facet",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

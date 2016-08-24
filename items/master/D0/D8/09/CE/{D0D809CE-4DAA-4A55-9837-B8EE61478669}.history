@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0D809CE-4DAA-4A55-9837-B8EE61478669}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:01.8584570Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security Preset",
+    "itemPath": "/sitecore/templates/System/Security/Security Preset/Data/Security Preset",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

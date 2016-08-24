@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85AC4FF4-FA4D-4A21-8C1F-69F596531D26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:05.6384961Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path Analyzer Map Groups",
+    "itemPath": "/sitecore/system/Settings/Rules/Path Analyzer Map Groups",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

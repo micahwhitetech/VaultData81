@@ -12,9 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Random Youtube Link",
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Random Youtube Link",
-    "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": "7f83bda21d75a0978cec3c6c9c274fb11309b719"
+    "sourceControlRevisionId": "7f83bda21d75a0978cec3c6c9c274fb11309b719",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -29,9 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Random Youtube Link",
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Random Youtube Link",
-    "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": "919597fedc0109d7d020d766f214c8187c9915d2"
+    "sourceControlRevisionId": "919597fedc0109d7d020d766f214c8187c9915d2",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -46,8 +50,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Random Youtube Link",
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Random Youtube Link",
-    "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D617D414-4CBA-45A4-875B-98E30A405E07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:21.9252804Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Random Youtube Link",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Random Youtube Link",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

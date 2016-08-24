@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{90E58477-0CD6-498D-9B3C-DE5814140C78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:17.4912572Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FDA",
+    "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder/FDA",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

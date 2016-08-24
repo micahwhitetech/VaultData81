@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03C88BC4-8583-4AB9-A7CB-428E13E7C325}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:22.4093037Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Value Points",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Engagement Value Points",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

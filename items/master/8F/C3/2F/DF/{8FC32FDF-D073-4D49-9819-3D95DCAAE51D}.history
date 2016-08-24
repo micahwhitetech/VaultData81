@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8FC32FDF-D073-4D49-9819-3D95DCAAE51D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:10.1219604Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Failed",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Login Failed",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

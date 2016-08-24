@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{34E1F0D9-CCFF-4F03-A38D-933437AA3A2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:58.5594354Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RuleBase",
+    "itemPath": "/sitecore/templates/System/Rules/RuleBase",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

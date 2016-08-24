@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54FC77FC-0B1D-48BB-9167-67F832ABD308}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:14.6575454Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ISP Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/ISP Name",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

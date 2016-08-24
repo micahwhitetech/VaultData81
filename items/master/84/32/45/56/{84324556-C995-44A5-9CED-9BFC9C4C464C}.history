@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{84324556-C995-44A5-9CED-9BFC9C4C464C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:46.1197805Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Account Renewal",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal",
+    "template": "Workflow",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

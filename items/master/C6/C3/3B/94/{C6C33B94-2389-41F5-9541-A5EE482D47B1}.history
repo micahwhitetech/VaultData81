@@ -12,11 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Same Name",
     "itemPath": "/sitecore/templates/Testing/Same Name",
-    "commandType": "Item",
     "template": "Template",
     "sourceControlRevisionId": "f4839db4d00d1ca46387ee28da9f2b9fc32a0778",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -31,11 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Same Name",
     "itemPath": "/sitecore/templates/Testing/Same Name",
-    "commandType": "Item",
     "template": "Template",
     "sourceControlRevisionId": "502c9371ac96881626c01fc6c07c7d4d987df465",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -50,11 +50,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Same Name",
     "itemPath": "/sitecore/templates/Testing/Same Name",
-    "commandType": "Item",
     "template": "Template",
     "sourceControlRevisionId": "a30ba4918f2665f95b92d6df1bf6bd952f70ffed",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "CheckedOut",
@@ -69,10 +69,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Same Name",
     "itemPath": "/sitecore/templates/Testing/Same Name",
-    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6C33B94-2389-41F5-9541-A5EE482D47B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:21.1127953Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Same Name",
+    "itemPath": "/sitecore/templates/Testing/Same Name",
     "template": "Template",
     "sourceControlRevisionId": null,
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

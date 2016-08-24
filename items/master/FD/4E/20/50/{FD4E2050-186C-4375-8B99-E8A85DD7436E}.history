@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD4E2050-186C-4375-8B99-E8A85DD7436E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:10.5784602Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Enable item fallback",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Advanced/Advanced/__Enable item fallback",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A500DABD-90F0-4844-BC51-29A67C58C3D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:35.0241382Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Proxies",
+    "itemPath": "/sitecore/system/Settings/Proxies",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

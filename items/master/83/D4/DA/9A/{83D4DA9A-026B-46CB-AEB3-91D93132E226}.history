@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83D4DA9A-026B-46CB-AEB3-91D93132E226}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:35.7155674Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preset Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Preset Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

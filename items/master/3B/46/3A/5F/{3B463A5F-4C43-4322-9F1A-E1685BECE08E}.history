@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B463A5F-4C43-4322-9F1A-E1685BECE08E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:13.6345863Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Test Canceled",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data/Data/Is Test Canceled",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

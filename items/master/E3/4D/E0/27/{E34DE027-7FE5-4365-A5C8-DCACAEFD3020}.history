@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E34DE027-7FE5-4365-A5C8-DCACAEFD3020}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:38.6452481Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Antarctica",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Antarctica",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD72E892-D8BB-487C-9EB1-6A57C48C72CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:18.7372160Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fallback Domain",
+    "itemPath": "/sitecore/templates/System/Dictionary/Dictionary Domain/Data/Fallback Domain",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

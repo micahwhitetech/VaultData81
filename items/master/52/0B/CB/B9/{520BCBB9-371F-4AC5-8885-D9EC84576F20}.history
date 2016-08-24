@@ -12,9 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Testing",
     "itemPath": "/sitecore/templates/Testing",
-    "commandType": "Item",
     "template": "Template Folder",
-    "sourceControlRevisionId": "6d0ff83402772925c175697112424aa7c9ac77c0"
+    "sourceControlRevisionId": "6d0ff83402772925c175697112424aa7c9ac77c0",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -29,9 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Testing",
     "itemPath": "/sitecore/templates/Testing",
-    "commandType": "Item",
     "template": "Template Folder",
-    "sourceControlRevisionId": "e12334074522829f5facb682d5cf0b5cb26bd5bc"
+    "sourceControlRevisionId": "e12334074522829f5facb682d5cf0b5cb26bd5bc",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -46,8 +50,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Testing",
     "itemPath": "/sitecore/templates/Testing",
-    "commandType": "Item",
     "template": "Template Folder",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{520BCBB9-371F-4AC5-8885-D9EC84576F20}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:50.1585815Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testing",
+    "itemPath": "/sitecore/templates/Testing",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

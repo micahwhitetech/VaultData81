@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0D50E0A-FAFA-4F37-96A9-DF6124AA197B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:23.6579923Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clean on button",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Clean on button",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

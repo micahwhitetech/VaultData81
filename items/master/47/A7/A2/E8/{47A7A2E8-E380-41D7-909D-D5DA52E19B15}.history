@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{47A7A2E8-E380-41D7-909D-D5DA52E19B15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:26.8186692Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dropdown List",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Dropdown List/Dropdown List",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

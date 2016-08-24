@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{032A5ADB-55DB-4F97-B281-A2FB2DF3A1A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:08.0880954Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Post automatically",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Content Posting Configuration/Data/Post automatically",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

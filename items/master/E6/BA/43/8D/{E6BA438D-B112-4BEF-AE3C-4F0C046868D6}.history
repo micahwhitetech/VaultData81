@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6BA438D-B112-4BEF-AE3C-4F0C046868D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:11.3651223Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feature Phone",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Feature Phone",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

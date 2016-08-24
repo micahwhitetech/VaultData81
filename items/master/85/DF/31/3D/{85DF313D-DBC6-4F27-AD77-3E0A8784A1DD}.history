@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85DF313D-DBC6-4F27-AD77-3E0A8784A1DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:13.2726104Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Variable",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Variable",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

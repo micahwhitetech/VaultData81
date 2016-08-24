@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F6E14E6-C593-410B-A57E-21F6B5A413AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:26.1943386Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Buckets Settings",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Item Buckets Settings",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

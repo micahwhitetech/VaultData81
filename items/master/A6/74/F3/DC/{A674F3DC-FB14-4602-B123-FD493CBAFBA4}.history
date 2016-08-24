@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A674F3DC-FB14-4602-B123-FD493CBAFBA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:41.6316000Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "French Guiana",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/French Guiana",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

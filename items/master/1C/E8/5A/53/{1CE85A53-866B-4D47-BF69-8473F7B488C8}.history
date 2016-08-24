@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CE85A53-866B-4D47-BF69-8473F7B488C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:39.9884169Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cayman Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cayman Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

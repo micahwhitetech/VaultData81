@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B84465A0-DF87-45E7-80B4-7013583089BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:11.5230914Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPad",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/iPad",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

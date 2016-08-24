@@ -12,11 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Missing Template",
     "itemPath": "/sitecore/templates/Testing/Missing Template",
-    "commandType": "Item",
     "template": "Template",
     "sourceControlRevisionId": "45a33b11350d2fd72fede68569330a0c6618fbe0",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -31,11 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Missing Template",
     "itemPath": "/sitecore/templates/Testing/Missing Template",
-    "commandType": "Item",
     "template": "Template",
     "sourceControlRevisionId": "189d13c17a2cf6a6a7f8cf7c8af39fdfc9124772",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -50,11 +50,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Missing Template",
     "itemPath": "/sitecore/templates/Testing/Missing Template",
-    "commandType": "Item",
     "template": "Template",
     "sourceControlRevisionId": "93547e3b472b991e1bbe392e17701780c8de0c87",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "CheckedOut",
@@ -69,10 +69,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Missing Template",
     "itemPath": "/sitecore/templates/Testing/Missing Template",
-    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7BA8407-BCF9-4D2A-A6E5-75C79195AA7A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:20.8832038Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Missing Template",
+    "itemPath": "/sitecore/templates/Testing/Missing Template",
     "template": "Template",
     "sourceControlRevisionId": null,
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

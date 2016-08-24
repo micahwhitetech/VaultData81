@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E78F4374-2C52-4FAF-9AB7-A280DB7575BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:21.9668160Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EnclosureField",
+    "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters/Data/EnclosureField",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

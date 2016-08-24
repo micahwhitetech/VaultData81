@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6699A12-8C1F-4C91-A370-2BCC6938A609}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:18.7838475Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mail server",
+    "itemPath": "/sitecore/templates/System/Workflow/Email action/Data/Mail server",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

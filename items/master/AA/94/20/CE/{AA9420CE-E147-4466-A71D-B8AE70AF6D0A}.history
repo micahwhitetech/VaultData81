@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AA9420CE-E147-4466-A71D-B8AE70AF6D0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:37.0524200Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Applications",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Social Applications",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{548275DC-06AC-4426-8267-49C56BC97110}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:41.0322307Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Empty Campaign",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Campaign",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

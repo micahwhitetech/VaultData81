@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6CD7D67-7FB0-49D2-9212-3E91FDEC1C2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:02.5055989Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Mv Test",
+    "itemPath": "/sitecore/system/Settings/Content Testing/End Test Behavior/Is Mv Test",
+    "template": "Rule Container",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

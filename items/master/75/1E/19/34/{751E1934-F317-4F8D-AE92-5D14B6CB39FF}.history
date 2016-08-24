@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{751E1934-F317-4F8D-AE92-5D14B6CB39FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:13.4830547Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tagging",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tagging/Tagging",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3776FD4-C9F5-45C6-9EEE-25D34B898695}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:53.0357654Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organization Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visits",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

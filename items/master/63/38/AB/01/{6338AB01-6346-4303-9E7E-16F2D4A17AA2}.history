@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6338AB01-6346-4303-9E7E-16F2D4A17AA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:48.8289358Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Virgin Islands US",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Virgin Islands US",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

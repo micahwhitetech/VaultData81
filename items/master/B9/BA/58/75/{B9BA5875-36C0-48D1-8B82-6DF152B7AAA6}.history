@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9BA5875-36C0-48D1-8B82-6DF152B7AAA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:19.9297106Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DimensionFolder",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/DimensionFolder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

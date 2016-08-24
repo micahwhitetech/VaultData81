@@ -12,11 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New Folder",
     "itemPath": "/sitecore/content/New Folder",
-    "commandType": "Item",
     "template": "Folder",
     "sourceControlRevisionId": "3742ad0ea5f7ec0c0a8c0db608d3a0c859ae4088",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -31,11 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New Folder",
     "itemPath": "/sitecore/content/New Folder",
-    "commandType": "Item",
     "template": "Folder",
     "sourceControlRevisionId": "0562feeeba9a70516a8a32330d3b8d2994b96f9d",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "Renamed",
@@ -50,10 +50,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "path 1",
     "itemPath": "/sitecore/content/path 1",
-    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C6CD94C-1FF9-4F0B-A541-CCDD8F96B848}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:02.0500235Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "path 1",
+    "itemPath": "/sitecore/content/path 1",
     "template": "Folder",
     "sourceControlRevisionId": null,
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57337BB8-A18B-4C05-8C6F-140C7C34CE7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:48.5482015Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "United States Minor Outlying Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/United States Minor Outlying Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

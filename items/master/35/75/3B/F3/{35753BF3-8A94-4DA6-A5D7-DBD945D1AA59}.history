@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35753BF3-8A94-4DA6-A5D7-DBD945D1AA59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:46.3599095Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Menu divider",
+    "itemPath": "/sitecore/templates/System/Menus/Menu divider",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1036F6B-0FD2-43B4-B4FD-00FB80243D08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:32.5295238Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Use Alternate Content",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Sections/Unsupported Content/Content/Use Alternate Content",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

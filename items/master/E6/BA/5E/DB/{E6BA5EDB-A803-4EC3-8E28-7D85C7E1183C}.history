@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6BA5EDB-A803-4EC3-8E28-7D85C7E1183C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:08.3784281Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Xdb",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Xdb",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

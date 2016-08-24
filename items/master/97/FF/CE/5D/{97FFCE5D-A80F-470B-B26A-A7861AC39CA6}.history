@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97FFCE5D-A80F-470B-B26A-A7861AC39CA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:23.9695259Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tidy on button",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Tidy on button",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

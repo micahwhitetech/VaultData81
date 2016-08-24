@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{440A3125-A076-4359-A4EC-200459CDA166}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:45.1411212Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FrameCount",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Flash/Flash/FrameCount",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

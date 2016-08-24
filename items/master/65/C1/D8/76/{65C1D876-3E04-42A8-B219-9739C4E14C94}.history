@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65C1D876-3E04-42A8-B219-9739C4E14C94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:14.4752719Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Business Name",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

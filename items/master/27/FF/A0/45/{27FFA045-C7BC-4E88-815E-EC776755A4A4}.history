@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27FFA045-C7BC-4E88-815E-EC776755A4A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:37.3805662Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Predefined items",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A3422A7-847E-4765-9C67-4C382AB2CB5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:45.1059762Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Caledonia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/New Caledonia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

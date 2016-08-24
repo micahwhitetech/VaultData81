@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{29F789EF-C2B6-435A-B9B1-58FE42625689}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:36.3600906Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Conditional Renderings Conditions",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Conditional Renderings Conditions",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

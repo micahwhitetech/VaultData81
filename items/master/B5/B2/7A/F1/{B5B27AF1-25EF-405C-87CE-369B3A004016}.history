@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5B27AF1-25EF-405C-87CE-369B3A004016}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:39.6627480Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Datasource Location",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Datasource Location",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

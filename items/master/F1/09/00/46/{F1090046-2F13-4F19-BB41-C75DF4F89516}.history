@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F1090046-2F13-4F19-BB41-C75DF4F89516}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:18.4603420Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comment Template",
+    "itemPath": "/sitecore/templates/System/Workflow/Command/Data/Comment Template",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9C8D7C7-A170-4305-A40F-DF6CF543C007}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:03.5675925Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Oracle",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Queries/Oracle",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

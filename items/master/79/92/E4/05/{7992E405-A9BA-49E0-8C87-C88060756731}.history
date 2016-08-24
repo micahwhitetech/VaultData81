@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7992E405-A9BA-49E0-8C87-C88060756731}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:11.9005739Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "leopard-folder-big",
+    "itemPath": "/sitecore/media library/System/Template Thumbnails/leopard-folder-big",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4533AAD8-B0D5-443D-9315-B2D06B56BC48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:03.0130897Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cost Base",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost Base",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

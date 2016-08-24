@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8428729B-93B4-4A6B-8E78-603D5986FBD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:00.2933082Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Suggest List",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Auto Suggest List",
+    "template": "Search Control Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

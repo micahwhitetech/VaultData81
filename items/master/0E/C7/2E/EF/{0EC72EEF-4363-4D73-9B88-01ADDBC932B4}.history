@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0EC72EEF-4363-4D73-9B88-01ADDBC932B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:04.0086254Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social MVC",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

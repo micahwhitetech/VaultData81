@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC773C4F-DF6C-4FF0-927D-BC4069003687}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:17.2880701Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Launch Create Test Dialog Action",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Launch Create Test Dialog Action",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

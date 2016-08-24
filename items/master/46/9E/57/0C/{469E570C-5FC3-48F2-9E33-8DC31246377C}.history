@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{469E570C-5FC3-48F2-9E33-8DC31246377C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:40.3613314Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Email",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Email",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D685E9A2-41A2-49AD-A396-21D5492392E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:15.9921661Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Traffic Allocation",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/Traffic Allocation",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

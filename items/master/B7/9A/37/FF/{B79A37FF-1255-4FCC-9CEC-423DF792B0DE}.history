@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B79A37FF-1255-4FCC-9CEC-423DF792B0DE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:54.1039048Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gallery Width",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Combo Button/Data/Gallery Width",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

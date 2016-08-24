@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5FDF44D-37D8-4235-8D06-29CE46B63C33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:50.1924366Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register for event",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Register for event",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

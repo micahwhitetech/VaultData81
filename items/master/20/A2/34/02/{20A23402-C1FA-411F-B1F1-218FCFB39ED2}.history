@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{20A23402-C1FA-411F-B1F1-218FCFB39ED2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:06.3445352Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Silverlight Support Trait",
+    "itemPath": "/sitecore/layout/Simulators/HD TV/No Silverlight Support Trait",
+    "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

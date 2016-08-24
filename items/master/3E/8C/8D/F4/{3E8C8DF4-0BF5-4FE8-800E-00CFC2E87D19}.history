@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E8C8DF4-0BF5-4FE8-800E-00CFC2E87D19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:06.0577630Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Klout Application",
+    "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

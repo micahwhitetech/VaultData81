@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0145335-8735-414B-9169-A1D4E4DC9641}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:42.6400301Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Software",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Software",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

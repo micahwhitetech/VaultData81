@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C4D09683-5EB3-4D8E-BF9E-13CB41C197B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:54.8216929Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "List Folder",
+    "itemPath": "/sitecore/templates/List Manager/List Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

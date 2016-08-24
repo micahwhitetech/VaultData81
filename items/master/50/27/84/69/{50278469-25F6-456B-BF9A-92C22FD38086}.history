@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50278469-25F6-456B-BF9A-92C22FD38086}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:29.5884398Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chris",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Chris",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -12,9 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "More Cat Videos",
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/More Cat Videos",
-    "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": "c95fae6e05cbeaef7b3bc709a639ca14460102a8"
+    "sourceControlRevisionId": "c95fae6e05cbeaef7b3bc709a639ca14460102a8",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -29,9 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "More Cat Videos",
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/More Cat Videos",
-    "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": "5dcbce9e4c061dd2f880826715d38176da28aa93"
+    "sourceControlRevisionId": "5dcbce9e4c061dd2f880826715d38176da28aa93",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -46,8 +50,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "More Cat Videos",
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/More Cat Videos",
-    "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F38E1782-DBCE-4C27-9DCC-FFAC192EDA89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:22.0157421Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "More Cat Videos",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info/More Cat Videos",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

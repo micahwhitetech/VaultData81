@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:18.9241085Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Phrase",
+    "itemPath": "/sitecore/templates/System/Dictionary/Dictionary entry/Data/Phrase",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

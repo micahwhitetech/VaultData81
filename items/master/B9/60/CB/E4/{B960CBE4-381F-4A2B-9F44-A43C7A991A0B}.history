@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B960CBE4-381F-4A2B-9F44-A43C7A991A0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:21.6936200Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RSS Feed",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3071A91E-77BA-40BC-929B-58E1E8205281}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:37.4691599Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DMS",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type/DMS",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

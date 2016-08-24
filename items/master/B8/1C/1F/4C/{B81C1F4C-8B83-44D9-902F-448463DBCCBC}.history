@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B81C1F4C-8B83-44D9-902F-448463DBCCBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:49.0914410Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Always Evaluate",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Always Evaluate",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

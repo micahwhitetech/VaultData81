@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0FD780B-E721-47C9-ADA6-63D5F5ED5859}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:46.7684234Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sao Tome and Principe",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sao Tome and Principe",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

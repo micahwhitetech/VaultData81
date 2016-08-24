@@ -12,9 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Broken Links",
     "itemPath": "/sitecore/templates/Testing/Broken Links",
-    "commandType": "Item",
     "template": "Template",
-    "sourceControlRevisionId": "51b8455b94a841da95fc2ff4bea3d20dd8de352c"
+    "sourceControlRevisionId": "51b8455b94a841da95fc2ff4bea3d20dd8de352c",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -29,9 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Broken Links",
     "itemPath": "/sitecore/templates/Testing/Broken Links",
-    "commandType": "Item",
     "template": "Template",
-    "sourceControlRevisionId": "bc67b1b53f81ca871b1eeebfca4fe6c762555724"
+    "sourceControlRevisionId": "bc67b1b53f81ca871b1eeebfca4fe6c762555724",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -46,9 +50,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Broken Links",
     "itemPath": "/sitecore/templates/Testing/Broken Links",
-    "commandType": "Item",
     "template": "Template",
-    "sourceControlRevisionId": "b017bb0a88cd82c4e34ef484c2709df0a5385d6f"
+    "sourceControlRevisionId": "b017bb0a88cd82c4e34ef484c2709df0a5385d6f",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "CheckedOut",
@@ -63,8 +69,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Broken Links",
     "itemPath": "/sitecore/templates/Testing/Broken Links",
-    "commandType": "Item",
     "template": "Template",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8372C3E2-9A2C-41EA-9FB6-8F307EFDE082}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:20.7828776Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Broken Links",
+    "itemPath": "/sitecore/templates/Testing/Broken Links",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

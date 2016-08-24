@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32326F99-C0DA-4817-9DBE-79E6DE8005E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:30.5923983Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Query string",
+    "itemPath": "/sitecore/templates/System/Layout/Device/Detection/Query string",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

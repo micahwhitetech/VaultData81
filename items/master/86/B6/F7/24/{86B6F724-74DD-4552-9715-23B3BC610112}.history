@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86B6F724-74DD-4552-9715-23B3BC610112}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:43.4920182Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latvia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Latvia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

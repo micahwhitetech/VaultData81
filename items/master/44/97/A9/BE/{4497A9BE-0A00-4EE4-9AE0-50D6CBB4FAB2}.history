@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4497A9BE-0A00-4EE4-9AE0-50D6CBB4FAB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:12.7092142Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Plans",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Engagement Plans",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

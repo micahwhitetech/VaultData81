@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{13CC3C50-B20D-4310-AA06-791193E160FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:17.6708618Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deploy Associated Multivariate Tests",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Deploy Associated Tests Action/Associated Tests/Deploy Associated Multivariate Tests",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

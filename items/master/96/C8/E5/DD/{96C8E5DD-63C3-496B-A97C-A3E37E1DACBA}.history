@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96C8E5DD-63C3-496B-A97C-A3E37E1DACBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:00.6301752Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags Definitions Folder",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Tags Definitions Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

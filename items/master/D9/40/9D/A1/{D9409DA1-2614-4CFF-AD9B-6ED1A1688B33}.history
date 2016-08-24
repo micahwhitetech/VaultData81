@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9409DA1-2614-4CFF-AD9B-6ED1A1688B33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:22.5700169Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cacheable",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Caching/Cacheable",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

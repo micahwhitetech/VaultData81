@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B357858A-4C9D-475F-AE79-23B0237587C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:43.0705959Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jordan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jordan",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

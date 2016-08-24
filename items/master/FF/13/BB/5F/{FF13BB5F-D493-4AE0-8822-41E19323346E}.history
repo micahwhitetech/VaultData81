@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF13BB5F-D493-4AE0-8822-41E19323346E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:12.7378410Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Agent",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device Detection/User Agent",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

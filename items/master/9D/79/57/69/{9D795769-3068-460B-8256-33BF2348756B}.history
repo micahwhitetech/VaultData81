@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D795769-3068-460B-8256-33BF2348756B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:39.7490460Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Burkina Faso",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Burkina Faso",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

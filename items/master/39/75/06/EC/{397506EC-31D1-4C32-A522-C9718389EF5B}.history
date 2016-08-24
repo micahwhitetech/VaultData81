@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{397506EC-31D1-4C32-A522-C9718389EF5B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:56.8230924Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Contact Overview/Contact Overview",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

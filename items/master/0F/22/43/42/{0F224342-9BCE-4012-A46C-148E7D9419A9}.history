@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F224342-9BCE-4012-A46C-148E7D9419A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:35.5550360Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marketing Automation Evaluation",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

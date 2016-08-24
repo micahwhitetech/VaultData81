@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0D02AA6-7153-4D71-97DB-79009E73596E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:52.8342908Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Goals",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Contact Goals",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

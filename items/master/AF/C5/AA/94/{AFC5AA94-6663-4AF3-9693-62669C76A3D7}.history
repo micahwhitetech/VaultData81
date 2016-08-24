@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AFC5AA94-6663-4AF3-9693-62669C76A3D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:12.6443229Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Behaviors",
+    "itemPath": "/sitecore/templates/System/Content Testing/Behaviors",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

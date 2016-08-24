@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74008565-F85E-4D66-9B10-42E1A03770BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:01.9442238Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LockView",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/LockView",
+    "template": "View",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

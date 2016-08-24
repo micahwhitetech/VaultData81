@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B404437F-F863-44FB-B3CE-68631BD43F29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:46.3215813Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Russian Federation",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Russian Federation",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{160B90C2-4011-4E89-9C5E-C617DDFBC8C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:30.4035931Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fallback device",
+    "itemPath": "/sitecore/templates/System/Layout/Device/Data/Fallback device",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

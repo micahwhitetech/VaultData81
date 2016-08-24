@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B658CE99-894A-4CB1-936B-F23F17C63B5B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:33.6020472Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "XmlControl",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/XmlControl",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

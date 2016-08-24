@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE22484A-DB17-4918-AB61-BA813FAFD464}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:49.6141455Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form submitted",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Form submitted",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

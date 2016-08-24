@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0006740E-D5DE-4EDB-BDDC-DFF8B945E9F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:08.0884785Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tracking",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Tracking",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

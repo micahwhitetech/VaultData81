@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB29498C-6AD9-4988-B8EE-1B3D57E7D9B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:25.6034849Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Treelist",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Treelist",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

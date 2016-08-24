@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D513BB60-0A3D-4F73-AC2D-F398D343705A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:11.4386200Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Browser Supports HTML5 audio",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Browser Supports HTML5 audio",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

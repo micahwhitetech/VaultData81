@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A26CAF92-CE90-4756-887D-BAF8736975F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:01.4370336Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Close All",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Close All",
+    "template": "Tab Option",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48D585F0-BB5B-4586-8E0A-2F0023AA4B12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:34.3065777Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CriticalError",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/CriticalError",
+    "template": "Validation Result",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

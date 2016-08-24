@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{249D0372-501C-4778-AD93-3D68429CB857}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:09.0064938Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-partner-marketing",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-partner-marketing",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

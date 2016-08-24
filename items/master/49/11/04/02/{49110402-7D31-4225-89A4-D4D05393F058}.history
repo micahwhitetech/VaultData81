@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49110402-7D31-4225-89A4-D4D05393F058}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:31.4501274Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Federated Experience Manager - Page Matching",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Federated Experience Manager - Page Matching",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

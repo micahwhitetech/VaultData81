@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65F40BBD-D4B5-420C-B93A-41F32E44EF53}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:29.9192014Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preview Simulators",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

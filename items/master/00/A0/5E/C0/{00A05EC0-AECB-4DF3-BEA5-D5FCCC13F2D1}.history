@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00A05EC0-AECB-4DF3-BEA5-D5FCCC13F2D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:41.2923753Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Extern Link Target",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Extern Link Target",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D151B8B-BD5F-4479-A35F-EE740F6387E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:20.7486977Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Log Message",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Log Message",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

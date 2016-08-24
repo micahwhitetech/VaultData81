@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3AF2D2D8-D92C-49D8-832D-4C4C1F53D573}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:31.6574736Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Interaction segmentation",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Interaction segmentation",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

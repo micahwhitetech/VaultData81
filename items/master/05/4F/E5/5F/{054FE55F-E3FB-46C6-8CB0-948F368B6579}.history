@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{054FE55F-E3FB-46C6-8CB0-948F368B6579}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:04.3204057Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WebEdit Ribbon",
+    "itemPath": "/sitecore/layout/Renderings/System/WebEdit/WebEdit Ribbon",
+    "template": "Webcontrol",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

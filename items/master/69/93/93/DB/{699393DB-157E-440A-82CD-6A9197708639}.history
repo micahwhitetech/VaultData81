@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{699393DB-157E-440A-82CD-6A9197708639}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:36.8312887Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pattern Folder Insert Option",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Pattern Folder Insert Option",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

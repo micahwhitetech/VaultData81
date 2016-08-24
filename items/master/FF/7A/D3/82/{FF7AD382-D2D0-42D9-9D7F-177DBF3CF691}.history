@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF7AD382-D2D0-42D9-9D7F-177DBF3CF691}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:28.0730416Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Highest Monetary Value Paths",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Highest Monetary Value Paths",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

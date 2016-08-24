@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A438DFD1-154E-4584-B7E3-D1E28315E415}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:19.0898993Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preview publishing targets",
+    "itemPath": "/sitecore/templates/System/Workflow/State/Data/Preview publishing targets",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

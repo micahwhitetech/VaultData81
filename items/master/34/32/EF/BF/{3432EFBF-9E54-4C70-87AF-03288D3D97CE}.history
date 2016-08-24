@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3432EFBF-9E54-4C70-87AF-03288D3D97CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:08.3049868Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook Share Button Parameters",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/Facebook Share Button Parameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

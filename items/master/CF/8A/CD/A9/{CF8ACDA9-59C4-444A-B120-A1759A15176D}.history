@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF8ACDA9-59C4-444A-B120-A1759A15176D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:23.8900449Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filter on paste",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Filter on paste",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

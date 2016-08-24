@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EDBD98D-A66F-4ED6-AFD3-0D6D669A107A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:15.7453283Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Scheduling",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Scheduling",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

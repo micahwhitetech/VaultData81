@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2491819E-0C61-4F5A-903C-E10FCD9D302A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:10.3696105Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validators",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Validators",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

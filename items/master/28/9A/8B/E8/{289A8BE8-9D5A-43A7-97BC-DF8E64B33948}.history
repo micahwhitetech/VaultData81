@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{289A8BE8-9D5A-43A7-97BC-DF8E64B33948}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:07.8707004Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security Editor",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security Editor",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

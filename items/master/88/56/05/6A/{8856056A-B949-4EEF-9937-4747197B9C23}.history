@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8856056A-B949-4EEF-9937-4747197B9C23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:27.5321715Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Map with Page Events",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website/Experience Maps/Experience Map with Page Events",
+    "template": "ExperienceMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

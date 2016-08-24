@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{958B0134-77EE-4148-A6CE-7457830D1877}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:12.3044949Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Defer",
+    "itemPath": "/sitecore/templates/System/Browsers/Script/Data/Defer",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

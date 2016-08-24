@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65DC519F-0574-47AD-8F72-87B2FC60D40D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:10.9057578Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Submit Success",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Submit Success",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

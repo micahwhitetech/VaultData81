@@ -12,9 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Cat Video",
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Cat Video",
-    "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": "015b4a727794eeb85c45682c446fc0e1a2531fa3"
+    "sourceControlRevisionId": "015b4a727794eeb85c45682c446fc0e1a2531fa3",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -29,9 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Cat Video",
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Cat Video",
-    "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": "be1a426e60ea506522738f58f3c090d5d9305b67"
+    "sourceControlRevisionId": "be1a426e60ea506522738f58f3c090d5d9305b67",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -46,8 +50,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Cat Video",
     "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Cat Video",
-    "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABAFBA7B-401F-4891-817E-F8673A4992BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:21.9693276Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cat Video",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Cat Video",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

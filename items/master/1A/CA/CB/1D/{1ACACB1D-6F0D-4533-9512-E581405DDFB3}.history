@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1ACACB1D-6F0D-4533-9512-E581405DDFB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:02.0582263Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CanBoost",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/CanBoost",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

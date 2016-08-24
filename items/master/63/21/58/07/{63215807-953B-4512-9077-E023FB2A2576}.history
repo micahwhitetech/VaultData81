@@ -12,9 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New Broken Links",
     "itemPath": "/sitecore/content/New Folderasdfasdf/New Broken Links",
-    "commandType": "Item",
     "template": "Broken Links",
-    "sourceControlRevisionId": "5d03b115a7d8c2ceff7b78847293037d2ae107b6"
+    "sourceControlRevisionId": "5d03b115a7d8c2ceff7b78847293037d2ae107b6",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -29,9 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New Broken Links",
     "itemPath": "/sitecore/content/New Folderasdfasdf/New Broken Links",
-    "commandType": "Item",
     "template": "Broken Links",
-    "sourceControlRevisionId": "81c9cf7e74afaa02057bf202fd05d63721d8e137"
+    "sourceControlRevisionId": "81c9cf7e74afaa02057bf202fd05d63721d8e137",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -46,9 +50,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New Broken Links",
     "itemPath": "/sitecore/content/New Folderasdfasdf/New Broken Links",
-    "commandType": "Item",
     "template": "Broken Links",
-    "sourceControlRevisionId": "6ae24a39762b8a5239e882dbb17e94fcf9aa0237"
+    "sourceControlRevisionId": "6ae24a39762b8a5239e882dbb17e94fcf9aa0237",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -63,9 +69,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New Broken Links",
     "itemPath": "/sitecore/content/New Folderasdfasdf/New Broken Links",
-    "commandType": "Item",
     "template": "Broken Links",
-    "sourceControlRevisionId": "df69f18d7472bcda9bc391ece9264d51c3a1d073"
+    "sourceControlRevisionId": "df69f18d7472bcda9bc391ece9264d51c3a1d073",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "Renamed",
@@ -80,8 +88,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "fluffy",
     "itemPath": "/sitecore/content/New Folderasdfasdf/fluffy",
-    "commandType": "Item",
     "template": "Broken Links",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63215807-953B-4512-9077-E023FB2A2576}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:02.8672046Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fluffy",
+    "itemPath": "/sitecore/content/New Folderasdfasdf/fluffy",
+    "template": "Broken Links",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

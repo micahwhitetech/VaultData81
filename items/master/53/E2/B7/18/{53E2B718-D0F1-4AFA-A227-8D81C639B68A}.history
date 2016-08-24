@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{53E2B718-D0F1-4AFA-A227-8D81C639B68A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:52.5732173Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Small Drop Down Box",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

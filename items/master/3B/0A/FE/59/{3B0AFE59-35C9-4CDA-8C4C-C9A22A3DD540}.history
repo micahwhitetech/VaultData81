@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B0AFE59-35C9-4CDA-8C4C-C9A22A3DD540}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:46.7350474Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Marino",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/San Marino",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

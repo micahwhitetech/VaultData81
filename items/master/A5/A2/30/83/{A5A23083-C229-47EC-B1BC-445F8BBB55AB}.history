@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A5A23083-C229-47EC-B1BC-445F8BBB55AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:07.3706464Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google Plus",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/Google Plus",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

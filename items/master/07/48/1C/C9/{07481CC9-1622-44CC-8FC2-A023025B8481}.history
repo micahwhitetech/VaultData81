@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07481CC9-1622-44CC-8FC2-A023025B8481}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:28.1173945Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Most Outcomes Paths",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Outcomes Paths",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

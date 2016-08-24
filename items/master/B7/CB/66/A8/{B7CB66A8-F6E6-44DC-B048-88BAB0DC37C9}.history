@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7CB66A8-F6E6-44DC-B048-88BAB0DC37C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:15.3729022Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Try Finish Tests",
+    "itemPath": "/sitecore/templates/System/Content Testing/Tasks/Try Finish Tests",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42DFC2E6-7BF8-4599-B804-B08713D2B5EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:53.0708081Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Failures",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Failures",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

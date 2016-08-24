@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D66D380-B975-4089-AEE4-8410ED2AF0E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:05.2036808Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with LinkedIn",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with LinkedIn",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

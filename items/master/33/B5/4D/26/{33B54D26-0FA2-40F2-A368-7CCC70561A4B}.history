@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33B54D26-0FA2-40F2-A368-7CCC70561A4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:31.5723457Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Indexing and Search",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Indexing and Search",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

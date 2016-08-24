@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B4F16F7-728C-41C3-8631-D8D9AB01AA5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:07.7541470Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-analyst",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-analyst",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

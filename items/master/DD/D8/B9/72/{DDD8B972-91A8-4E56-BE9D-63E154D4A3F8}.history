@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDD8B972-91A8-4E56-BE9D-63E154D4A3F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:44.5575949Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Monaco",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Monaco",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

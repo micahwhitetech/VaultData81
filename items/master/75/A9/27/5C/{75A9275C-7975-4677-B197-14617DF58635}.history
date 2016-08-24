@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75A9275C-7975-4677-B197-14617DF58635}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:31.5329995Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoIP",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/GeoIP",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

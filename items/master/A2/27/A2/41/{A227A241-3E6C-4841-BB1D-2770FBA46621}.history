@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A227A241-3E6C-4841-BB1D-2770FBA46621}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:07.1477563Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Presets",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

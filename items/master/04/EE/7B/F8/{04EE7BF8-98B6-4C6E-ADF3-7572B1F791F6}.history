@@ -12,11 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Recreated template field",
     "itemPath": "/sitecore/content/Recreated template field",
-    "commandType": "Item",
     "template": "MT4",
     "sourceControlRevisionId": "3f56a45b03d3b97476238bf60dc771380c9c9532",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -31,11 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Recreated template field",
     "itemPath": "/sitecore/content/Recreated template field",
-    "commandType": "Item",
     "template": "MT4",
     "sourceControlRevisionId": "4bd5e766691ff4c89f7c854983291334babe0f8a",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -50,10 +50,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "Recreated template field",
     "itemPath": "/sitecore/content/Recreated template field",
-    "commandType": "Item",
+    "template": "MT4",
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04EE7BF8-98B6-4C6E-ADF3-7572B1F791F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:02.1346342Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recreated template field",
+    "itemPath": "/sitecore/content/Recreated template field",
     "template": "MT4",
     "sourceControlRevisionId": null,
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

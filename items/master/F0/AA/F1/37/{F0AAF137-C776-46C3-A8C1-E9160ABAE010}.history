@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0AAF137-C776-46C3-A8C1-E9160ABAE010}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:08.0890551Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-counter",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-counter",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

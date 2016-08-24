@@ -12,11 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New MT4",
     "itemPath": "/sitecore/content/folder 1/folder 2/folder 3/New MT4",
-    "commandType": "Item",
     "template": "MT4",
     "sourceControlRevisionId": "3552220dbb74243336e30823afaf5f761cd3fc82",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -31,11 +31,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New MT4",
     "itemPath": "/sitecore/content/folder 1/folder 2/folder 3/New MT4",
-    "commandType": "Item",
     "template": "MT4",
     "sourceControlRevisionId": "4e0b478c66fbfb0d83f2aa2d71d798b7dcc48840",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "Saved",
@@ -50,11 +50,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New MT4",
     "itemPath": "/sitecore/content/folder 1/folder 2/folder 3/New MT4",
-    "commandType": "Item",
     "template": "MT4",
     "sourceControlRevisionId": "7e28dad4d15f1ef881f69f292c5b172a760f69a2",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "Moved",
@@ -69,10 +69,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "New MT4",
     "itemPath": "/sitecore/content/folder 1/new location/New MT4",
-    "commandType": "Item",
+    "template": "MT4",
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDA6047D-D912-4C72-9893-4849BBC5B943}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:02.5433219Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New MT4",
+    "itemPath": "/sitecore/content/folder 1/new location/New MT4",
     "template": "MT4",
     "sourceControlRevisionId": null,
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

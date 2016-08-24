@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5CD3B26D-8BE0-4C89-B5A4-A0B13B2A996F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:08.4537824Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SharingControlParameters",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/SharingControlParameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

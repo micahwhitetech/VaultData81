@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{983E7347-8010-4374-9771-6193ABE44F6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:59.6501153Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lock for Editing",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Lock for Editing",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E96716F-09A4-417D-9CCE-E6FE23BCB74A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:08.2891522Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-display-advertising",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-display-advertising",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

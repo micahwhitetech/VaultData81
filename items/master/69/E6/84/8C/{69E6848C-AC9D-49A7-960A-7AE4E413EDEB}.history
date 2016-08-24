@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69E6848C-AC9D-49A7-960A-7AE4E413EDEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:42.8811950Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multilist",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Multilist",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

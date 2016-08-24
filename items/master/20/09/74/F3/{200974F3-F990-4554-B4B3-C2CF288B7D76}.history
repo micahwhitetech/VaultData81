@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{200974F3-F990-4554-B4B3-C2CF288B7D76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:48.5061333Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReversableMap",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ReversableMap",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

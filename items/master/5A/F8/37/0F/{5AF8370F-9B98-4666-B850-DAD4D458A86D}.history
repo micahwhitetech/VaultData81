@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5AF8370F-9B98-4666-B850-DAD4D458A86D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:36.4411361Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facets",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Facets",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

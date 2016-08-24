@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46B0C722-93C4-4420-862E-D06FEA858A3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:53.3521135Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referrals",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site Map Group/$name/Channels/Referrals",
+    "template": "ChannelMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

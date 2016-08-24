@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1914DA0E-9C3A-4EC3-A2C2-A12EED2A4577}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:14.9488135Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "App usage",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Apps/App usage",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82E5B147-5A49-4DF4-9B82-08D9CE18CC5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:08.8045783Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-livechat",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-livechat",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

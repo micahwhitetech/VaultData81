@@ -12,11 +12,11 @@
     "activeUser": "sitecore\\admin",
     "itemName": "d",
     "itemPath": "/sitecore/templates/Testing/MT4/d",
-    "commandType": "Item",
     "template": "Template section",
     "sourceControlRevisionId": "9dce307b3ca30c874ea8798682fb050404aabb1f",
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
   },
   {
     "eventType": "VersionAdded",
@@ -31,10 +31,29 @@
     "activeUser": "sitecore\\admin",
     "itemName": "d",
     "itemPath": "/sitecore/templates/Testing/MT4/d",
-    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": "ce8c64bfea397b7846508793469a9469c0ad4e8b",
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.140",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{163258A8-F12C-4670-9A87-91F6A7CAA41D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:24.8238710Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "d",
+    "itemPath": "/sitecore/templates/Testing/MT4/d",
     "template": "Template section",
     "sourceControlRevisionId": null,
     "sitecoreVersion": "8.1.160302",
-    "vaultVersion": "1.0.140"
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

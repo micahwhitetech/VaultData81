@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39252694-D8DB-4E92-A1A9-A5913E4009C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:48.2474263Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Turks and Caicos Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Turks and Caicos Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{36DEEEAE-4F2A-4501-831B-741F7BB6D07B}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:03.5500240Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Outcomes",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Test Outcomes",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

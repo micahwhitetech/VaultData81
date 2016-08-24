@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9B248AFE-512F-492F-A09A-8D2F4E893FAA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:44.0528064Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Valid From Valid To Date Range",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Valid From Valid To Date Range",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

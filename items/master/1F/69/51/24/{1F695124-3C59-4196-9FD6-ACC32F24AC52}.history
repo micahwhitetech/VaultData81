@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F695124-3C59-4196-9FD6-ACC32F24AC52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:01.2069912Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Apply Profile Score to All Items",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Marketing/Apply Profile Score to All Items",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

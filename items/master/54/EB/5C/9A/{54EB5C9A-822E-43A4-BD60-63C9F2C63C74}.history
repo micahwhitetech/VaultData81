@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54EB5C9A-822E-43A4-BD60-63C9F2C63C74}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:43.7221101Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Duplicate Name",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Duplicate Name",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

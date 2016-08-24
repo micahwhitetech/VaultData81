@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D22AD6A-3205-452C-973F-3445BE123A2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:02.6651603Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Original Winner",
+    "itemPath": "/sitecore/system/Settings/Content Testing/End Test Behavior/Is Content Test/Winner found/Original Winner",
+    "template": "Rule Container",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

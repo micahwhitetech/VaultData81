@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30DAFA80-B671-4675-A895-BFAB3B938C18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:47.8516709Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Timor-Leste",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Timor-Leste",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

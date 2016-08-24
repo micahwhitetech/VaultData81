@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{374A4E05-ABA2-4B7B-8872-5706000FA7BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:10.3411966Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Not Found",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Page Not Found",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

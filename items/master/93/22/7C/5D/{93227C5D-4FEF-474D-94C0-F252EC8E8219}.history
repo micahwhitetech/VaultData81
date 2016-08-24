@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93227C5D-4FEF-474D-94C0-F252EC8E8219}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:29.6417694Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layout Folder",
+    "itemPath": "/sitecore/templates/System/Layout/Layout Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

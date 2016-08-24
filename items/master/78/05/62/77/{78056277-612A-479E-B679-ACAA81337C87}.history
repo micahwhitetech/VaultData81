@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78056277-612A-479E-B679-ACAA81337C87}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:18.4380350Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RequireTestCandidates",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Test Candidate Check Action/Tests/RequireTestCandidates",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A5FCA04-28D5-4A94-A03B-62820FD9E327}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:07.7126503Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rule Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Rule Visibility",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

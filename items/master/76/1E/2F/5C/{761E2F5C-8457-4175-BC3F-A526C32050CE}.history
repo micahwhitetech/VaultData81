@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{761E2F5C-8457-4175-BC3F-A526C32050CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:14.7347139Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Longitude",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Longitude",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

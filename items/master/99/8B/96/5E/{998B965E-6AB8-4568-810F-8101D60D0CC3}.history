@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{998B965E-6AB8-4568-810F-8101D60D0CC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:46.4558531Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Menu item",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

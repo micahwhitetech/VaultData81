@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{696279A6-1462-4E4C-ACEF-77233C571F1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:32:44.6871587Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Networks",
+    "itemPath": "/sitecore/system/Social/Networks",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

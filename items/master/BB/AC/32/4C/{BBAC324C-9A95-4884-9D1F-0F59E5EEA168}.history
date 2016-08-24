@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BBAC324C-9A95-4884-9D1F-0F59E5EEA168}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:34:08.5738123Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/Google Plus Share Button Parameters/__Standard Values",
+    "template": "Google Plus Share Button Parameters",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

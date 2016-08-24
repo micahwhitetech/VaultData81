@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2F5D9DF-8CBA-4A1D-99EB-51ACB94CB057}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:39.7808567Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Editor Buttons",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Page Editor Buttons",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

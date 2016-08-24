@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D00D695-0CAB-47D7-8929-A03EA002EB19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:33:12.8075752Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multivariate Test Value",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Value",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

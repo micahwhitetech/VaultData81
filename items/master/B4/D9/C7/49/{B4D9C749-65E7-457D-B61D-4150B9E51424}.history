@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4D9C749-65E7-457D-B61D-4150B9E51424}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:24.5735799Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Close - Lost",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Close - Lost",
+    "template": "Outcome Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

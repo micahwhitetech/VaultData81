@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7D814A0-294D-444C-BED0-EEAEA7CD5A27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:13.7172814Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal facet 3",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Goal facet 3",
+    "template": "Custom taxonomy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]

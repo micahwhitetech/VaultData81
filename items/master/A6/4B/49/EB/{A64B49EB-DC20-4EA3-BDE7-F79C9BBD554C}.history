@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A64B49EB-DC20-4EA3-BDE7-F79C9BBD554C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-08-22T16:31:43.4502656Z",
+    "label": "Snapshot - Micah lives on forever",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lao Peoples Democratic Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Lao Peoples Democratic Republic",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160302",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
